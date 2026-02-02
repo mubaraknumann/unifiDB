@@ -25,6 +25,7 @@ https://cdn.jsdelivr.net/gh/mubaraknumann/unifiDB@main/games/{bucket}.json
 ```
 
 **Example** - Fetch games starting with "wi" (Witcher, etc.):
+
 ```
 https://cdn.jsdelivr.net/gh/mubaraknumann/unifiDB@main/games/wi.json
 ```
@@ -46,9 +47,9 @@ To enable automated database updates:
 1. Navigate to **Settings → Secrets and variables → Actions**
 2. Add the following repository secrets:
 
-| Secret Name | Description | Source |
-|-------------|-------------|--------|
-| `IGDB_CLIENT_ID` | Twitch application Client ID | [Twitch Developer Console](https://dev.twitch.tv/console/apps) |
+| Secret Name          | Description                      | Source                                                         |
+| -------------------- | -------------------------------- | -------------------------------------------------------------- |
+| `IGDB_CLIENT_ID`     | Twitch application Client ID     | [Twitch Developer Console](https://dev.twitch.tv/console/apps) |
 | `IGDB_CLIENT_SECRET` | Twitch application Client Secret | [Twitch Developer Console](https://dev.twitch.tv/console/apps) |
 
 ### Update Schedule
@@ -58,26 +59,26 @@ To enable automated database updates:
 
 ```yaml
 schedule:
-  - cron: '0 0 * * 0'  # Weekly on Sundays at midnight UTC
+  - cron: "0 0 * * 0" # Weekly on Sundays at midnight UTC
 ```
 
 ## Data Structure
 
 Each game entry contains the following fields:
 
-| Field | Type | Description |
-|-------|------|-------------|
-| `igdb_id` | Integer | IGDB unique game identifier |
-| `name` | String | Game title |
-| `summary` | String | Game description/synopsis |
-| `genres` | Array | Genre names |
-| `developers` | Array | Developer studio names |
-| `publishers` | Array | Publisher company names |
-| `aggregated_rating` | Float | Metacritic-style aggregated score |
-| `release_date` | Integer | Unix timestamp of release date |
-| `platforms` | Array | Platform names (PC, PlayStation, Xbox, etc.) |
-| `cover_url` | String | IGDB cover image URL |
-| `external_ids` | Array | Cross-platform store identifiers (Steam, Epic, GOG, Amazon) |
+| Field               | Type    | Description                                                 |
+| ------------------- | ------- | ----------------------------------------------------------- |
+| `igdb_id`           | Integer | IGDB unique game identifier                                 |
+| `name`              | String  | Game title                                                  |
+| `summary`           | String  | Game description/synopsis                                   |
+| `genres`            | Array   | Genre names                                                 |
+| `developers`        | Array   | Developer studio names                                      |
+| `publishers`        | Array   | Publisher company names                                     |
+| `aggregated_rating` | Float   | Metacritic-style aggregated score                           |
+| `release_date`      | Integer | Unix timestamp of release date                              |
+| `platforms`         | Array   | Platform names (PC, PlayStation, Xbox, etc.)                |
+| `cover_url`         | String  | IGDB cover image URL                                        |
+| `external_ids`      | Array   | Cross-platform store identifiers (Steam, Epic, GOG, Amazon) |
 
 ### External IDs Format
 
@@ -93,6 +94,7 @@ Each game entry contains the following fields:
 ```
 
 **Store Categories**:
+
 - `1` - Steam
 - `5` - GOG
 - `26` - Epic Games Store

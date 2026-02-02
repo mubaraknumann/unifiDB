@@ -3,39 +3,45 @@ name: Update IGDB Database
 on:
   # Manual trigger only (disabled auto-execute)
   workflow_dispatch:
-  
+
   # Uncomment to run weekly on Sundays at midnight UTC
   # schedule:
   #   - cron: '0 0 * * 0'
 
+# Required for pushing commits
+permissions:
+  contents: write
+
 jobs:
   update-database:
     runs-on: ubuntu-latest
-    
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-      
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.11'
-      
+          python-version: "3.11"
+
       - name: Install dependencies
         run: |
           pip install aiohttp
-      
+
       - name: Download IGDB data
         env:
           IGDB_CLIENT_ID: ${{ secrets.IGDB_CLIENT_ID }}
           IGDB_CLIENT_SECRET: ${{ secrets.IGDB_CLIENT_SECRET }}
         run: |
           python download_igdb_cache.py
-      
+
       - name: Split into bucket files
         run: |
           python split_igdb_cache.py
-      
+
       - name: Commit and push changes
         run: |
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
