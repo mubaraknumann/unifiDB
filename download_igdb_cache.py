@@ -17,9 +17,9 @@ import sys
 IGDB_API_URL = "https://api.igdb.com/v4"
 TWITCH_AUTH_URL = "https://id.twitch.tv/oauth2/token"
 
-# Get credentials from environment or use hardcoded (for GitHub Actions secrets)
-CLIENT_ID = os.getenv("IGDB_CLIENT_ID", "c38emwbj8xb0wi44vqr91r5aw0c4o4")
-CLIENT_SECRET = os.getenv("IGDB_CLIENT_SECRET", "sbkoa76c214wpvpe3vjo91kwn95zt5")
+# Get credentials from environment variables only (no hardcoded fallbacks)
+CLIENT_ID = os.environ.get("IGDB_CLIENT_ID")
+CLIENT_SECRET = os.environ.get("IGDB_CLIENT_SECRET")
 
 # Output settings
 OUTPUT_DIR = Path(__file__).parent
@@ -41,6 +41,9 @@ class IGDBDownloader:
         """Authenticate with Twitch and get IGDB access token."""
         print("[AUTH] Authenticating with Twitch...")
         
+        if not CLIENT_ID or not CLIENT_SECRET:
+            raise Exception("Missing IGDB_CLIENT_ID or IGDB_CLIENT_SECRET environment variables")
+        
         auth_params = {
             "client_id": CLIENT_ID,
             "client_secret": CLIENT_SECRET,
@@ -49,7 +52,8 @@ class IGDBDownloader:
         
         async with session.post(TWITCH_AUTH_URL, data=auth_params) as resp:
             if resp.status != 200:
-                raise Exception(f"Auth failed: {resp.status}")
+                error_text = await resp.text()
+                raise Exception(f"Auth failed: {resp.status} - {error_text}")
             
             data = await resp.json()
             self.access_token = data['access_token']
@@ -67,22 +71,23 @@ class IGDBDownloader:
     
     async def fetch_games_batch(self, session, offset, limit=500):
         """Fetch a batch of games from IGDB."""
-        # IGDB API uses expanded fields - not nested dot notation for some fields
+        # Query without category filter to get all games
+        # Category 0 = Main Game, but let's get everything and filter if needed
         query = f"""
-        fields id, name, summary, 
-               genres.name, 
-               involved_companies.company.name, 
-               involved_companies.developer,
-               involved_companies.publisher,
-               aggregated_rating, 
-               first_release_date, 
-               platforms.name, 
-               cover.url;
-        where category = 0;
-        offset {offset};
-        limit {limit};
-        sort id asc;
-        """
+fields id, name, summary, 
+       genres.name, 
+       involved_companies.company.name, 
+       involved_companies.developer,
+       involved_companies.publisher,
+       aggregated_rating, 
+       first_release_date, 
+       platforms.name, 
+       cover.url,
+       category;
+offset {offset};
+limit {limit};
+sort id asc;
+"""
         
         async with session.post(
             f"{IGDB_API_URL}/games",
@@ -104,7 +109,7 @@ class IGDBDownloader:
             if offset == 0:
                 print(f"[DEBUG] First batch returned {len(result)} games")
                 if result:
-                    print(f"[DEBUG] Sample game: {result[0].get('name', 'N/A')}")
+                    print(f"[DEBUG] Sample game: {result[0].get('name', 'N/A')} (id: {result[0].get('id')})")
             return result
     
     async def fetch_external_ids_batch(self, session, game_ids):
@@ -114,10 +119,10 @@ class IGDBDownloader:
         
         ids_str = ",".join(str(gid) for gid in game_ids)
         query = f"""
-        fields id, game, category, uid, url;
-        where game = ({ids_str});
-        limit 500;
-        """
+fields game, category, uid, url;
+where game = ({ids_str});
+limit 500;
+"""
         
         async with session.post(
             f"{IGDB_API_URL}/external_games",
@@ -134,7 +139,7 @@ class IGDBDownloader:
             
             return await resp.json()
     
-    async def download_all_games(self, session, limit=400000):
+    async def download_all_games(self, session, limit=500000):
         """Download all games with their external IDs."""
         print(f"[DOWNLOAD] Starting IGDB download (limit: {limit:,})...")
         print(f"[DOWNLOAD] Batching strategy: games + external IDs together")
@@ -221,7 +226,7 @@ class IGDBDownloader:
             await asyncio.sleep(REQUEST_DELAY)
             
             # Progress
-            if (total_games % BATCH_SIZE) == 0:
+            if total_games % 5000 == 0:
                 print(f"[PROGRESS] Processed {total_games:,} games")
         
         # Close JSON array
@@ -239,14 +244,13 @@ class IGDBDownloader:
             1: 'steam',
             5: 'gog',
             26: 'epic',
-            23: 'amazon',
+            20: 'amazon',
             30: 'itch',
             11: 'android',
             12: 'ios',
             13: 'microsoft',
             14: 'playstation',
             15: 'xbox',
-            20: 'twitch',
             28: 'oculus'
         }
         return stores.get(category, f'store_{category}')
@@ -293,27 +297,6 @@ class IGDBDownloader:
         
         print(f"[SUCCESS] Database updated with {game_count:,} games")
         return True
-    
-    def update_index(self, game_count):
-        """Update index.json with metadata."""
-        index = {
-            'version': '1.0.0',
-            'updated': datetime.utcnow().isoformat() + 'Z',
-            'all_games': {
-                'file': 'all_games.json',
-                'count': game_count,
-                'size': ALL_GAMES_FILE.stat().st_size if ALL_GAMES_FILE.exists() else 0,
-                'size_mb': round(ALL_GAMES_FILE.stat().st_size / 1048576, 1) if ALL_GAMES_FILE.exists() else 0
-            },
-            'buckets': {
-                'available': True,
-                'directory': 'games/',
-                'count': 0  # Updated after split script runs
-            }
-        }
-        
-        with open(INDEX_FILE, 'w') as f:
-            json.dump(index, f, indent=2, ensure_ascii=False)
 
 async def main():
     downloader = IGDBDownloader()
@@ -328,10 +311,11 @@ async def main():
                 print(f"[ABORT] Download validation failed, exiting with error")
                 sys.exit(1)
             
-            downloader.update_index(game_count)
             print(f"[SUCCESS] All done! {game_count:,} games downloaded and validated.")
         except Exception as e:
             print(f"[ERROR] {e}")
+            import traceback
+            traceback.print_exc()
             # Clean up temp file on error
             if ALL_GAMES_TEMP.exists():
                 ALL_GAMES_TEMP.unlink()
