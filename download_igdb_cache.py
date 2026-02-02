@@ -67,9 +67,11 @@ class IGDBDownloader:
         """Fetch a batch of games from IGDB."""
         query = f"""
         fields id, name, summary, genres.name, developers.name, publishers.name, 
-                aggregated_rating, release_date, platforms.name, cover.url;
+                aggregated_rating, release_dates.date, platforms.name, cover.url;
+        where category = 0;
         offset {offset};
         limit {limit};
+        sort id asc;
         """
         
         async with session.post(
@@ -79,14 +81,20 @@ class IGDBDownloader:
         ) as resp:
             if resp.status == 429:
                 # Rate limited, wait and retry
+                print(f"[WARNING] Rate limited, waiting 5s...")
                 await asyncio.sleep(5)
                 return await self.fetch_games_batch(session, offset, limit)
             
             if resp.status != 200:
-                print(f"Error fetching games at offset {offset}: {resp.status}")
+                error_text = await resp.text()
+                print(f"[ERROR] Failed to fetch games at offset {offset}: {resp.status}")
+                print(f"[ERROR] Response: {error_text}")
                 return []
             
-            return await resp.json()
+            result = await resp.json()
+            if offset == 0:
+                print(f"[DEBUG] First batch returned {len(result)} games")
+            return result
     
     async def fetch_external_ids_batch(self, session, game_ids):
         """Fetch external store IDs for a batch of games."""
@@ -158,6 +166,9 @@ class IGDBDownloader:
                 for game in games:
                     game_id = game.get('id')
                     
+                    release_dates = game.get('release_dates', [])
+                    first_release = release_dates[0].get('date') if release_dates else None
+                    
                     game_data = {
                         'igdb_id': game_id,
                         'name': game.get('name'),
@@ -166,7 +177,7 @@ class IGDBDownloader:
                         'developers': [d.get('name') for d in game.get('developers', [])],
                         'publishers': [p.get('name') for p in game.get('publishers', [])],
                         'aggregated_rating': game.get('aggregated_rating'),
-                        'release_date': game.get('release_date'),
+                        'release_date': first_release,
                         'platforms': [p.get('name') for p in game.get('platforms', [])],
                         'cover_url': game.get('cover', {}).get('url'),
                         'external_ids': ext_id_map.get(game_id, [])

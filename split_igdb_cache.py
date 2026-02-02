@@ -4,7 +4,7 @@ import os
 from pathlib import Path
 from collections import defaultdict
 
-IGDB_CACHE_DIR = Path(__file__).parent.parent / "igdb-cache"
+IGDB_CACHE_DIR = Path(__file__).parent
 ALL_GAMES_FILE = IGDB_CACHE_DIR / "all_games.json"
 GAMES_DIR = IGDB_CACHE_DIR / "games"
 
