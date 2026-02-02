@@ -1,74 +1,128 @@
 # unifiDB - IGDB Game Database
 
-Game metadata database powered by IGDB, updated weekly via GitHub Actions.
+Comprehensive game metadata database powered by IGDB API, optimized for CDN delivery and updated via GitHub Actions.
 
-## 📊 Database Stats
+## Overview
 
-- **Games**: 350,374+
-- **Bucket files**: 1,495
-- **Total size**: ~185MB uncompressed
-- **CDN**: jsDelivr
+This repository provides structured access to 350,000+ games from the IGDB database, split into efficient CDN-friendly bucket files for fast lookups by game name.
 
-## 🚀 Usage
+### Database Statistics
+
+- **Total Games**: 350,374+
+- **Bucket Files**: 1,495 (indexed by normalized name)
+- **Database Size**: ~185MB uncompressed, ~48MB compressed
+- **CDN Provider**: jsDelivr (unlimited bandwidth)
+- **Update Frequency**: Weekly (configurable)
+
+## API Usage
 
 ### Direct CDN Access
 
-Fetch games by normalized name (first 2 characters):
+Fetch games by normalized name using the first 2 characters:
 
 ```
 https://cdn.jsdelivr.net/gh/mubaraknumann/unifiDB@main/games/{bucket}.json
 ```
 
-Example - Witcher games:
+**Example** - Fetch games starting with "wi" (Witcher, etc.):
 ```
 https://cdn.jsdelivr.net/gh/mubaraknumann/unifiDB@main/games/wi.json
 ```
 
-### Index Metadata
+### Metadata Index
+
+Access database metadata and statistics:
 
 ```
 https://cdn.jsdelivr.net/gh/mubaraknumann/unifiDB@main/index.json
 ```
 
-## 🔧 GitHub Secrets Setup
+## Configuration
 
-To enable automated updates, add these secrets in **Settings → Secrets and variables → Actions**:
+### GitHub Secrets Setup
 
-1. `IGDB_CLIENT_ID` - Your Twitch application Client ID
-2. `IGDB_CLIENT_SECRET` - Your Twitch application Client Secret
+To enable automated database updates:
 
-Get credentials at: https://dev.twitch.tv/console/apps
+1. Navigate to **Settings → Secrets and variables → Actions**
+2. Add the following repository secrets:
 
-## 📅 Update Schedule
+| Secret Name | Description | Source |
+|-------------|-------------|--------|
+| `IGDB_CLIENT_ID` | Twitch application Client ID | [Twitch Developer Console](https://dev.twitch.tv/console/apps) |
+| `IGDB_CLIENT_SECRET` | Twitch application Client Secret | [Twitch Developer Console](https://dev.twitch.tv/console/apps) |
 
-- **Manual**: Actions tab → "Update IGDB Database" → Run workflow
-- **Automatic**: Uncomment `schedule` in `.github/workflows/update-igdb.yml`
+### Update Schedule
 
-## 📦 Data Structure
+- **Manual Trigger**: Navigate to Actions tab → "Update IGDB Database" → "Run workflow"
+- **Automatic Updates**: Uncomment the `schedule` section in `.github/workflows/update-igdb.yml`
 
-Each game includes:
-- `igdb_id` - IGDB game ID
-- `name` - Game title
-- `summary` - Description
-- `genres[]` - Genre names
-- `developers[]` - Developer names
-- `publishers[]` - Publisher names
-- `aggregated_rating` - Metacritic-style score
-- `release_date` - Unix timestamp
-- `platforms[]` - Platform names
-- `cover_url` - Cover image URL
-- `external_ids[]` - Store IDs (Steam, Epic, GOG, Amazon)
+```yaml
+schedule:
+  - cron: '0 0 * * 0'  # Weekly on Sundays at midnight UTC
+```
 
-## 🛠️ Local Development
+## Data Structure
+
+Each game entry contains the following fields:
+
+| Field | Type | Description |
+|-------|------|-------------|
+| `igdb_id` | Integer | IGDB unique game identifier |
+| `name` | String | Game title |
+| `summary` | String | Game description/synopsis |
+| `genres` | Array | Genre names |
+| `developers` | Array | Developer studio names |
+| `publishers` | Array | Publisher company names |
+| `aggregated_rating` | Float | Metacritic-style aggregated score |
+| `release_date` | Integer | Unix timestamp of release date |
+| `platforms` | Array | Platform names (PC, PlayStation, Xbox, etc.) |
+| `cover_url` | String | IGDB cover image URL |
+| `external_ids` | Array | Cross-platform store identifiers (Steam, Epic, GOG, Amazon) |
+
+### External IDs Format
+
+```json
+"external_ids": [
+  {
+    "category": 1,
+    "store": "steam",
+    "uid": "292030",
+    "url": "https://store.steampowered.com/app/292030"
+  }
+]
+```
+
+**Store Categories**:
+- `1` - Steam
+- `5` - GOG
+- `26` - Epic Games Store
+- `23` - Amazon Games
+- `30` - itch.io
+
+## Local Development
+
+### Prerequisites
 
 ```bash
-# Download full database
-python download_igdb_cache.py
+pip install aiohttp
+```
 
-# Split into buckets
+### Download Full Database
+
+```bash
+python download_igdb_cache.py
+```
+
+### Generate Bucket Files
+
+```bash
 python split_igdb_cache.py
 ```
 
-## 📜 License
+## License
 
-Database powered by [IGDB.com](https://www.igdb.com/) - Commercial use allowed under IGDB API terms.
+Database content provided by [IGDB.com](https://www.igdb.com/). Commercial use permitted under IGDB API Terms of Service.
+
+## Attribution
+
+Powered by IGDB API - https://www.igdb.com/

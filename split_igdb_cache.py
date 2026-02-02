@@ -19,10 +19,10 @@ def normalize_name(name):
 def split_games():
     """Split all_games.json into bucket files by first 2 normalized chars."""
     
-    print("📂 Creating games directory...")
+    print("[INIT] Creating games directory...")
     GAMES_DIR.mkdir(parents=True, exist_ok=True)
     
-    print("📖 Loading all_games.json...")
+    print("[LOAD] Loading all_games.json...")
     with open(ALL_GAMES_FILE, 'r') as f:
         all_games = json.load(f)
     
@@ -30,14 +30,14 @@ def split_games():
     buckets = defaultdict(list)
     bucket_stats = {}
     
-    print(f"🔤 Processing {len(all_games)} games...")
+    print(f"[PROCESS] Processing {len(all_games)} games...")
     for game in all_games:
         name = game.get('name', 'unknown')
         bucket = normalize_name(name)
         buckets[bucket].append(game)
     
     # Write bucket files
-    print(f"💾 Writing {len(buckets)} bucket files...")
+    print(f"[WRITE] Writing {len(buckets)} bucket files...")
     for bucket in sorted(buckets.keys()):
         games_in_bucket = buckets[bucket]
         bucket_file = GAMES_DIR / f"{bucket}.json"
@@ -55,7 +55,7 @@ def split_games():
         print(f"  {bucket}.json: {len(games_in_bucket)} games ({file_size / 1024:.1f}KB)")
     
     # Update index.json
-    print("📋 Updating index.json...")
+    print("[INDEX] Updating index.json...")
     index = {
         "version": "1.0.0",
         "updated": None,  # Will be set by GitHub Actions
@@ -67,10 +67,10 @@ def split_games():
     with open(IGDB_CACHE_DIR / "index.json", 'w') as f:
         json.dump(index, f, indent=2, ensure_ascii=False)
     
-    print(f"\n✅ Complete!")
-    print(f"📊 Total: {len(all_games)} games in {len(buckets)} buckets")
-    print(f"📍 Output: {GAMES_DIR}/")
-    print(f"📄 Index: {IGDB_CACHE_DIR / 'index.json'}")
+    print(f"\n[COMPLETE] Split operation finished")
+    print(f"[STATS] Total: {len(all_games)} games in {len(buckets)} buckets")
+    print(f"[OUTPUT] Bucket directory: {GAMES_DIR}/")
+    print(f"[OUTPUT] Index file: {IGDB_CACHE_DIR / 'index.json'}")
 
 if __name__ == "__main__":
     split_games()

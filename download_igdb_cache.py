@@ -37,7 +37,7 @@ class IGDBDownloader:
         
     async def authenticate(self, session):
         """Authenticate with Twitch and get IGDB access token."""
-        print("🔐 Authenticating with Twitch...")
+        print("[AUTH] Authenticating with Twitch...")
         
         auth_params = {
             "client_id": CLIENT_ID,
@@ -54,7 +54,7 @@ class IGDBDownloader:
             expires_in = data.get('expires_in', 3600)
             
             hours = expires_in // 3600
-            print(f"✅ Authenticated (token expires in {hours} hours)")
+            print(f"[AUTH] Authenticated successfully (token expires in {hours} hours)")
     
     def get_headers(self):
         """Get IGDB API headers."""
@@ -117,8 +117,8 @@ class IGDBDownloader:
     
     async def download_all_games(self, session, limit=400000):
         """Download all games with their external IDs."""
-        print(f"📥 Downloading IGDB games (limit: {limit:,})...")
-        print(f"⏱️  Batching: games + external IDs together")
+        print(f"[DOWNLOAD] Starting IGDB download (limit: {limit:,})...")
+        print(f"[DOWNLOAD] Batching strategy: games + external IDs together")
         
         # Create output file
         OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
@@ -183,15 +183,15 @@ class IGDBDownloader:
             
             # Progress
             if (total_games % BATCH_SIZE) == 0:
-                print(f"📊 Processed {total_games:,} games | Written: {total_games:,}")
+                print(f"[PROGRESS] Processed {total_games:,} games | Written: {total_games:,}")
         
         # Close JSON array
         with open(ALL_GAMES_FILE, 'a') as f:
             f.write('\n]')
         
-        print(f"\n✅ Download complete!")
-        print(f"📊 Total: {total_games:,} games")
-        print(f"📄 Output: {ALL_GAMES_FILE}")
+        print(f"\n[COMPLETE] Download finished successfully")
+        print(f"[STATS] Total games: {total_games:,}")
+        print(f"[OUTPUT] File: {ALL_GAMES_FILE}")
         
         return total_games
     
@@ -235,9 +235,9 @@ async def main():
             await downloader.authenticate(session)
             game_count = await downloader.download_all_games(session)
             downloader.update_index(game_count)
-            print(f"✅ All done! {game_count:,} games downloaded.")
+            print(f"[SUCCESS] All done! {game_count:,} games downloaded.")
         except Exception as e:
-            print(f"❌ Error: {e}")
+            print(f"[ERROR] {e}")
             sys.exit(1)
 
 if __name__ == "__main__":
