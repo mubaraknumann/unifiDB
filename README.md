@@ -18,16 +18,33 @@ This repository provides structured access to 350,000+ games from the IGDB datab
 
 ### Direct CDN Access
 
-Fetch games by normalized name using the first 2 characters:
+Fetch games by normalized name. Files are organized in subdirectories by first character, then by first 2 characters:
 
 ```
-https://cdn.jsdelivr.net/gh/mubaraknumann/unifiDB@main/games/{bucket}.json
+https://cdn.jsdelivr.net/gh/mubaraknumann/unifiDB@main/games/{first_char}/{bucket}.json
 ```
 
 **Example** - Fetch games starting with "wi" (Witcher, etc.):
 
 ```
-https://cdn.jsdelivr.net/gh/mubaraknumann/unifiDB@main/games/wi.json
+https://cdn.jsdelivr.net/gh/mubaraknumann/unifiDB@main/games/w/wi.json
+```
+
+### File Structure
+
+```
+games/
+├── a/
+│   ├── aa.json
+│   ├── ab.json
+│   └── ...
+├── b/
+│   ├── ba.json
+│   └── ...
+├── w/
+│   ├── wi.json  ← Contains "The Witcher 3", etc.
+│   └── ...
+└── ...
 ```
 
 ### Metadata Index
