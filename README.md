@@ -11,7 +11,7 @@ This repository provides structured access to 350,000+ games from the IGDB datab
 - **Total Games**: 350,374+
 - **Bucket Files**: 1,495 (indexed by normalized name)
 - **Database Size**: ~185MB uncompressed, ~48MB compressed
-- **CDN Provider**: jsDelivr (unlimited bandwidth)
+- **CDN Provider**: jsDelivr
 - **Update Frequency**: Weekly (configurable)
 
 ## API Usage
@@ -53,30 +53,6 @@ Access database metadata and statistics:
 
 ```
 https://cdn.jsdelivr.net/gh/mubaraknumann/unifiDB@main/index.json
-```
-
-## Configuration
-
-### GitHub Secrets Setup
-
-To enable automated database updates:
-
-1. Navigate to **Settings → Secrets and variables → Actions**
-2. Add the following repository secrets:
-
-| Secret Name          | Description                      | Source                                                         |
-| -------------------- | -------------------------------- | -------------------------------------------------------------- |
-| `IGDB_CLIENT_ID`     | Twitch application Client ID     | [Twitch Developer Console](https://dev.twitch.tv/console/apps) |
-| `IGDB_CLIENT_SECRET` | Twitch application Client Secret | [Twitch Developer Console](https://dev.twitch.tv/console/apps) |
-
-### Update Schedule
-
-- **Manual Trigger**: Navigate to Actions tab → "Update IGDB Database" → "Run workflow"
-- **Automatic Updates**: Uncomment the `schedule` section in `.github/workflows/update-igdb.yml`
-
-```yaml
-schedule:
-  - cron: "0 0 * * 0" # Weekly on Sundays at midnight UTC
 ```
 
 ## Data Structure
@@ -140,8 +116,4 @@ python split_igdb_cache.py
 
 ## License
 
-Database content provided by [IGDB.com](https://www.igdb.com/). Commercial use permitted under IGDB API Terms of Service.
-
-## Attribution
-
-Powered by IGDB API - https://www.igdb.com/
+Database content provided by [IGDB.com](https://www.igdb.com/).
