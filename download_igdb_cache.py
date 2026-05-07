@@ -71,8 +71,8 @@ class IGDBDownloader:
     
     async def fetch_games_batch(self, session, offset, limit=500):
         """Fetch a batch of games from IGDB."""
-        # Query without category filter to get all games
-        # Category 0 = Main Game, but let's get everything and filter if needed
+        # Query without a game_type filter to get all games.
+        # game_type 0 = Main Game, but let's get everything and filter if needed.
         query = f"""
 fields id, name, summary, 
        genres.name, 
@@ -83,7 +83,7 @@ fields id, name, summary,
        first_release_date, 
        platforms.name, 
        cover.url,
-       category;
+       game_type;
 offset {offset};
 limit {limit};
 sort id asc;
@@ -119,7 +119,7 @@ sort id asc;
         
         ids_str = ",".join(str(gid) for gid in game_ids)
         query = f"""
-fields game, category, uid, url;
+fields game, external_game_source, uid, url;
 where game = ({ids_str});
 limit 500;
 """
@@ -178,9 +178,10 @@ limit 500;
                 game_id = ext.get('game')
                 if game_id not in ext_id_map:
                     ext_id_map[game_id] = []
+                external_game_source = ext.get('external_game_source')
                 ext_id_map[game_id].append({
-                    'category': ext.get('category'),
-                    'store': self._category_to_store(ext.get('category')),
+                    'category': external_game_source,
+                    'store': self._external_game_source_to_store(external_game_source),
                     'uid': ext.get('uid'),
                     'url': ext.get('url')
                 })
@@ -238,8 +239,8 @@ limit 500;
         
         return total_games
     
-    def _category_to_store(self, category):
-        """Map IGDB external_games category to store name."""
+    def _external_game_source_to_store(self, external_game_source):
+        """Map IGDB external_game_source values to store names."""
         stores = {
             1: 'steam',
             5: 'gog',
@@ -253,7 +254,7 @@ limit 500;
             15: 'xbox',
             28: 'oculus'
         }
-        return stores.get(category, f'store_{category}')
+        return stores.get(external_game_source, f'store_{external_game_source}')
     
     def validate_and_commit(self, game_count):
         """Validate download and commit changes if successful."""
