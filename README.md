@@ -114,6 +114,23 @@ python download_igdb_cache.py
 python split_igdb_cache.py
 ```
 
+### Save Location Data
+
+Records may include save-game metadata, populated by `enrich_save_locations.py` from the
+[Ludusavi manifest](https://github.com/mtkennerly/ludusavi-manifest):
+
+| Field            | Type   | Description                                                              |
+| ---------------- | ------ | ------------------------------------------------------------------------ |
+| `save_locations` | Array  | `{ "path", "tags", "stores" }` — Windows-relevant save/config paths using Ludusavi path tokens (`<winAppData>`, `<base>`, `<storeUserId>`, …) |
+| `cloud`          | Object | Native cloud-save support flags per store, e.g. `{ "gog": true, "steam": true, "epic": false }` |
+| `save_source`    | String | Attribution string for the save-location data                            |
+
 ## License
 
-Database content provided by [IGDB.com](https://www.igdb.com/).
+Game metadata content provided by [IGDB.com](https://www.igdb.com/).
+
+Save-location data (`save_locations`, `cloud`, `save_source` fields) originates from
+[PCGamingWiki](https://www.pcgamingwiki.com/), licensed
+[CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/), compiled by the
+[Ludusavi](https://github.com/mtkennerly/ludusavi-manifest) project. This non-commercial
+database redistributes that subset under the same terms.
