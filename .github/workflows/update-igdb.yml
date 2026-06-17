@@ -1,12 +1,13 @@
 name: Update IGDB Database
 
 on:
-  # Manual trigger only (disabled auto-execute)
+  # Manual trigger (kept for on-demand republishes)
   workflow_dispatch:
 
-  # Uncomment to run weekly on Sundays at midnight UTC
-  # schedule:
-  #   - cron: '0 0 * * 0'
+  # Weekly on Sundays at midnight UTC — refreshes IGDB data + Ludusavi
+  # save-location enrichment.
+  schedule:
+    - cron: '0 0 * * 0'
 
 # Required for pushing commits
 permissions:
@@ -44,7 +45,7 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install aiohttp
+          pip install aiohttp pyyaml
 
       - name: Download IGDB data
         env:
@@ -52,6 +53,10 @@ jobs:
           IGDB_CLIENT_SECRET: ${{ secrets.IGDB_CLIENT_SECRET }}
         run: |
           python -u download_igdb_cache.py
+
+      - name: Enrich with save locations (Ludusavi/PCGamingWiki)
+        run: |
+          python -u enrich_save_locations.py
 
       - name: Split into bucket files
         run: |
