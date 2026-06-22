@@ -1,0 +1,47 @@
+name: Update Ubisoft Catalog
+
+on:
+  # Manual trigger (kept for on-demand republishes)
+  workflow_dispatch:
+
+  # Weekly on Sundays at 03:00 UTC — offset from the IGDB job (00:00) so the
+  # two don't race on a push. Refreshes the Ubisoft UUID catalog (public
+  # Algolia index) + the install_id mirror (iArtorias community list).
+  schedule:
+    - cron: '0 3 * * 0'
+
+# Required for pushing commits
+permissions:
+  contents: write
+
+jobs:
+  update-ubisoft:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          # Use PAT if available for push permissions, fallback to GITHUB_TOKEN
+          token: ${{ secrets.PAT_TOKEN || secrets.GITHUB_TOKEN }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Build Ubisoft catalog (Algolia + iArtorias mirror)
+        run: |
+          python -u build_ubisoft.py
+
+      - name: Commit and push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add ubisoft/
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: update Ubisoft catalog ($(date +'%Y-%m-%d'))"
+            git push
+          fi
