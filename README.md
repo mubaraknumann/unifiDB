@@ -125,6 +125,25 @@ Records may include save-game metadata, populated by `enrich_save_locations.py` 
 | `cloud`          | Object | Native cloud-save support flags per store, e.g. `{ "gog": true, "steam": true, "epic": false }` |
 | `save_source`    | String | Attribution string for the save-location data                            |
 
+## Ubisoft Catalog
+
+Ubisoft Connect (UPC) records owned games in two id namespaces — a legacy numeric
+`install_id` and a modern product `UUID` (Algolia `appId`/`spaceId`). Unifideck reads both
+from the local ownership binary and names them from two lookup tables built here by
+`build_ubisoft.py` and refreshed weekly (`.github/workflows/update-ubisoft.yml`):
+
+```
+https://cdn.jsdelivr.net/gh/mubaraknumann/unifiDB@main/ubisoft/install_ids.txt
+https://cdn.jsdelivr.net/gh/mubaraknumann/unifiDB@main/ubisoft/uuid_catalog.json
+```
+
+| File | Key → value | Source |
+| --- | --- | --- |
+| `ubisoft/install_ids.txt` | numeric `install_id` → name (`id, name` per line) | mirror of the community list [`iArtorias/ubisoft_game_ids`](https://github.com/iArtorias/ubisoft_game_ids) — covers legacy titles |
+| `ubisoft/uuid_catalog.json` | `uuid` → `{ name, genre, brand, boxshot, slug, release_date }` | Ubisoft Connect's public Algolia product index — covers modern titles the community list lacks |
+
+`uuid_catalog.json` shape: `{ "version", "updated", "count", "games": { "<uuid>": { "name", … } } }`.
+
 ## License
 
 Game metadata content provided by [IGDB.com](https://www.igdb.com/).
