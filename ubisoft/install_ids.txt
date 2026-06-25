@@ -684,7 +684,6 @@
 905, Lara Croft and the Temple of Osiris
 907, TransOcean: The Shipping Company
 908, Dead Rising 3
-909, The Crew - Closed Beta
 911, GRID Autosport Season Pass
 912, Full Stock Mini Cooper S
 936, BMW Z4 sDrive35is PACK
@@ -696,9 +695,7 @@
 943, All Preorder Pack
 944, Assassin's Creed® Единство
 945, Assassin's Creed® Единство
-946, The Crew Closed Beta
 948, The Crew Beta
-950, The Crew Beta - Closed Beta 1 PR NCSA [Uplay PC]
 953, Cloud Chamber
 954, Risen 3: Titan Lords
 955, Tropico 5 – The Big Cheese
@@ -979,8 +976,6 @@
 1540, Trials Fusion - Fire in the Deep
 1541, Trials Fusion - Fault One Zero
 1542, Trials Fusion - After the Incident
-1545, Assassin’s Creed Unity - WW - MSV Internal test ONLY
-1546, Assassin’s Creed Unity - RUS - MSV Internal test ONL
 1547, Lego Batman 3: Beyond Gotham
 1548, Company of Heroes Franchise Edition
 1565, Assassin’s Creed® IV Black Flag™
@@ -1022,11 +1017,7 @@
 1637, Pro Evolution Soccer 2015
 1638, Total War: Attila
 1649, Might & Magic Heroes III HD
-1650, Trials Fusion Multiplayer Open Beta
 1651, Assassin's Creed® Chronicles China
-1652, Trials Fusion Multiplayer Open Beta
-1654, ACU WW INTERNAL TEST ONLY
-1655, ACU RUS INTERNAL USE ONLY
 1663, Assassin's Creed Rogue
 1664, Assassin's Creed Rogue
 1665, Lara Croft and the Temple of Osiris Season Pass
@@ -1081,7 +1072,6 @@
 1770, Shadow Warrior - Special Edition
 1780, Assassin’s Creed® Rogue : Deluxe Edition
 1782, Assassin’s Creed® Rogue : Deluxe Edition
-1797, Rainbow Six Siege - Closed Beta
 1798, Hotline Miami 2: Wrong Number
 1799, Hotline Miami 2: Wrong Number Special Edition
 1800, Mortal Kombat X
@@ -1103,7 +1093,6 @@
 1831, Train Simulator 2015 – Uplay Collectors Edition
 1833, Rainbow Six Siege - Closed Alpha
 1836, The Crew - Full Ownership
-1837, Rainbow Six: Siege - Closed Beta
 1839, Tom Clancy’s Rainbow Six® Siege
 1840, Dying Light
 1845, Rainbow Six: Siege Pre-order
@@ -1143,14 +1132,9 @@
 1906, Magicka 2
 1907, Act of Aggression
 1908, Blood Bowl 2
-1909, Might and Magic Heroes VII - Closed Beta
-1910, Might and Magic Heroes VII - Closed Beta
 1911, Anno 2205 ULC1
 1916, Assassin’s Creed® Chronicles: China
 1917, The Crew® Raid Car Pack
-1921, Might and Magic Heroes VII - Closed Beta
-1922, Might and Magic Heroes VII - Closed Beta
-1923, Might and Magic Heroes VII - Closed Beta
 1928, Might and Magic Heroes VII
 1929, StarDrive 2 Digital Deluxe Edition
 1930, Titan Souls Digital Special Edition
@@ -1176,7 +1160,6 @@
 1951, Inferno
 1952, Sanctuary
 1953, Dungeon
-1954, Rainbow Six: Siege - Closed Beta
 1955, Assassin's Creed® Cиндикат
 1956, Assassin's Creed® Syndicate
 1957, Assassin's Creed® Syndicate
@@ -1219,32 +1202,11 @@
 2024, Trackmania Turbo
 2026, Shadowrun Chronicles: Boston Lockdown
 2027, RESCUE 2: Everyday Heroes
-2028, Might and Magic Heroes VII - Closed Beta
-2031, Might and Magic Heroes VII - Closed Beta 1
 2032, Magicka 2 Deluxe Edition
-2033, Might and Magic Heroes VII - Closed Beta
 2034, Might and Magic Heroes VII - Beta
 2035, Anno 2205 Beta
-2039, Tom Clancy's The Division - Closed Beta
-2040, Tom Clancy's The Division - Closed Beta
-2041, Tom Clancy's The Division - Closed Beta
-2042, Tom Clancy's The Division - Closed Beta
-2043, Tom Clancy's The Division - Closed Beta
-2044, Tom Clancy's The Division - Closed Beta
-2045, Tom Clancy's The Division - Closed Beta
-2046, Tom Clancy's The Division - Closed Beta
-2047, Anno 2205 - Closed Beta
-2048, Anno 2205 - Closed Beta
-2049, Anno 2205 - Closed Beta
-2050, Anno 2205 - Closed Beta
-2051, Anno 2205 - Closed Beta 
-2053, Might and Magic Heroes VII - Closed Beta
-2054, Might and Magic Heroes VII - Closed Beta
 2055, RONIN
 2056, Broforce
-2061, Anno 2205 - Closed Beta
-2062, Anno 2205 - Closed Beta
-2063, Anno 2205 - Closed Beta
 2064, Rainbow Six Siege - Ultra HD Texture Pack
 2065, Rainbow Six Siege
 2066, Tom Clancy's The Division Beta
@@ -1389,7 +1351,6 @@
 2375, Deus Ex Mankind Divided
 2376, The Crew Wild Run Beta
 2378, R6 WW Optional download test
-2382, For Honor - Internal Closed Alpha
 2387, Might & Magic Heroes VII - PC Standard Edition 
 2389, Rainbow Six Siege - NVIDIA Promotion - NCSA - WW [Uplay PC]
 2399, Anno 2205 Language Pack English
@@ -1398,9 +1359,6 @@
 2402, Anno 2205 Language Pack Spanish
 2403, Anno 2205 Language Pack Polish
 2404, Anno 2205 Language Pack Russian
-2405, Rainbow Six: Siege - Closed Beta
-2406, Rainbow Six Siege -  PC Digital - CLOSED BETA
-2407, Rainbow Six Siege -  PC Digital - CLOSED BETA
 2408, Valhalla Hills
 2409, Bounty Train
 2410, SKYHILL
@@ -1412,14 +1370,11 @@
 2423, WRC 5
 2426, Trials Fusion - The Awesome Max Edition
 2441, Rainbow Six Siege - Season Pass
-2451, INTERNAL USE - For Honor – VMC
 2454, Pro Evolution Soccer 2016
 2457, For Honor – VMC4 Package
-2459, The Crew Wild Run - Closed beta
 2465, Anno 2205
 2467, Anno 2205
 2468, Anno 2205 - Season Pass
-2470, Rainbow Six Siege - CLOSED BETA
 2480, MSV TEST - Assassin's Creed Syndicate
 2482, Lost Horizon 2
 2485, Watch_Dogs Complete Edition
@@ -1428,26 +1383,16 @@
 2490, Tetris Ultimate - Standard Edition
 2491, MSV TEST - Assassin's Creed Chronicles India
 2492, Watch_Dogs Complete Edition
-2494, Internal QC/Dev - Watch_Dogs Complete
 2499, Watch_Dogs Complete Edition
-2512, The Crew Wild Run – Closed Beta
-2513, The Crew Wild Run - Closed Beta
-2515, For Honor - Internal Closed Alpha - Official
-2516, For Honor - External Closed Alpha - Dev/QC
 2517, For Honor - External Closed Alpha - Official
 2518, TEST PACKAGE
 2524, The Crew - Limited edition
 2525, The Crew™
 2528, The Crew - PC Digital - Limited edition (pre-order) 
 2551, The Crew Beta - Road 909
-2552, The Crew Closed Beta
-2553, The Crew Closed Beta
 2554, The Crew Beta
 2555, The Crew Beta
 2556, The Crew Beta
-2557, The Crew Beta - Closed Beta 1 PR NCSA [Uplay PC]
-2558, The Crew Beta - Closed Beta 1 Trade NCSA [Uplay PC]
-2559, The Crew Beta - Closed Beta 1 Waiting List NCSA [Uplay PC]
 2561, The Crew Beta
 2562, The Crew Beta
 2563, The Crew Beta
@@ -1487,7 +1432,6 @@
 2623, The Crew Beta
 2624, MX vs. ATV Supercross Encore
 2625, Knights of Pen and Paper 2
-2633, Assassin's Creed Syndicate - Internal QC/Dev - All Content WW - Steam
 2635, The Crew - Wild Run Edition
 2636, The Crew - Wild Run Expansion
 2638, Rainbow Six Siege - Standard Edition
@@ -1499,7 +1443,6 @@
 2655, Rainbow Six Siege -  Standard Edition
 2656, The Crew - Wild Run Edition
 2658, VMC - For Honor - Technical 5 - VMC Testers Group
-2659, For Honor - VMC Technical 5 - Internal Dev/QC
 2661, Sonic Lost World
 2662, Total War™: WARHAMMER®
 2663, Star Wars Battlefront Season Pass
@@ -1517,9 +1460,6 @@
 2702, QC Sok Game
 2703, Alchemist
 2704, Beastmaster
-2705, Assassin's Creed Syndicate - Internal QC/Dev - Game WW - [Uplay PC]
-2706, Assassin's Creed Syndicate - Internal QC/Dev - Game RUS - [Uplay PC]
-2707, Assassin's Creed Syndicate - Internal QC/Dev - Game ASIA - [Uplay PC]
 2710, Darksiders II Deathinitive Edition
 2711, Anno 2205  Season Pass
 2713, Assassin's Creed Syndicate - Special Edition 
@@ -1540,7 +1480,6 @@
 2728, Assassin's Creed Syndicate - Standard Edition
 2730, Assassin's Creed Syndicate - Gold Edition
 2734, The Crew Complete Edition
-2735, Internal QC/Dev - Rainbow Six Siege
 2736, Assassin's Creed Syndicate - Gold Edition
 2737, Assassin's Creed Syndicate - Standard Edition
 2738, Assassin's Creed Syndicate - Season Pass
@@ -1568,8 +1507,6 @@
 2771, Rainbow Six Siege
 2772, Rainbow Six Siege 
 2773, Rainbow Six Siege
-2774, Closed Beta - Rainbow Six Siege
-2775, Open Beta - Rainbow Six Siege
 2776, For Honor
 2777, The Crew - Wild Run Edition
 2778, The Crew - Wild Run Expansion 
@@ -1590,7 +1527,6 @@
 2811, Assassin's Creed Syndicate - Standard Edition
 2812, Assassin's Creed Syndicate - Standard Edition
 2813, Alien Isolation Collection
-2814, Internal QC/Dev - Rainbow Six Siege - RUS - Uplay
 2815, Assassin's Creed Syndicate  - Collector Edition
 2828, Assassin's Creed Syndicate - Gold Edition
 2829, Assassin's Creed Syndicate - Gold Edition
@@ -1644,8 +1580,6 @@
 2927, Blackguards
 2928, Final Fantasy VI
 2929, Rainbow Six Siege
-2932, Rainbow Six Siege - Internal QC/DEV - FreeWeekendTest#3
-2933, Rainbow Six Siege - Internal QC/DEV - FreeWeekendTest#4
 2934, Black Mirror
 2935, Black Mirror II
 2936, Black Mirror III
@@ -1654,14 +1588,9 @@
 2943, Might & Magic Diecast - Alpha - Dev Team
 2944, Might & Magic Diecast - Alpha - Other Group
 2945, Tom Clancy's Rainbow Six® Siege - 600 Credits Pack
-2961, Rainbow 6  - Internal QC - steam
-2962, Rainbow Six Siege  RUS - Internal QC [Steam]
 2966, Black Mirror Bundle
 2968, Rayman Forever
-2969, Internal Pre-VMC - Ghost Recon Wildlands
 2970, Ghost Recon Wildlands® - Mercenary OTT
-2971, Ghost Recon Wildlands - Internal QC 
-2972, Internal QC/Dev - Tom Clancy's The Division
 2974, Assassin's Creed Chronicles India
 2975, Assassin's Creed Chronicles Russia
 2976, Assassin's Creed Chronicles Russia
@@ -1678,7 +1607,6 @@
 3006, Rise of the Tomb Raider - Season Pass
 3013, Far Cry Primal
 3014, Tom Clancy's The Division
-3015, Internal Package - Test Example Game
 3019, Tom Clancy's The Division
 3023, Tom Clancy's The Division 
 3024, Tom Clancy's The Division - Gold Edition
@@ -1689,7 +1617,6 @@
 3029, Tom Clancy's The Division - Gold Edition
 3030, Tom Clancy's The Division
 3031, Rainbow Six Siege - Emerald Weapon Skin
-3032, Markus Internal Test Package 
 3033, Rainbow Six Siege - Cobalt Weapon Skin
 3034, Crusaders of Might and Magic
 3035, Rainbow Six Siege - Platinum Weapon Skin
@@ -1697,41 +1624,23 @@
 3038, Tom Clancy's The Division
 3040, Tom Clancy’s The Division - Gold Edition Supplement
 3044, POD Gold
-3046, Internal QC/Dev - Tom Clancy's The Division
 3047, Ubisoft - Master unlock Uplay
 3048, Battle Isle Platinum
 3049, Anvil of Dawn
 3052, Speed Busters: American Highways
 3053, Warlords Battlecry
 3054, Warlords Battlecry 2
-3055, Tom Clancy's The Division - Closed Beta - Nvidia
-3056, Tom Clancy's The Division - Closed Beta - Nvidia
-3057, Tom Clancy's The Division - Closed Beta - Nvidia
-3058, Tom Clancy's The Division - Closed Beta - Nvidia
-3059, Tom Clancy's The Division - Closed Beta - Nvidia
-3060, Internal QC/Dev - Tom Clancy's The Division - Addons
 3063, Rainbow Six: Siege - VMC - Season 1
-3065, Internal QC/Dev - Tom Clancy's The Division - STEAM RUS
 3067, Assassin’s Creed Chronicles Russia
 3068, Assass'ins Creed Chronicles Russia
 3088, South Park™: The Fractured But Whole™
-3090, Internal QC/Dev - Tom Clancy's The Division - WW
-3091, Internal QC/Dev - Tom Clancy's The Division - RUS
-3092, Internal QC/Dev - Tom Clancy's The Division - ASIA
 3094, Far Cry Primal - Standard Edition
 3095, Far Cry Primal - Apex Edition
 3097, Champions of Anteria Demo
 3098, Champions of Anteria Demo
 3099, Champions of Anteria Preview
-3100, Tom Clancy's The Division - Open Beta
 3101, Tom Clancy's The Division
 3102, Tom Clancy's The Division
-3103, Tom Clancy's The Division - Open Beta
-3104, Tom Clancy's The Division - Open Beta
-3105, Tom Clancy's The Division - Open Beta
-3107, Tom Clancy's The Division - Open Beta
-3108, Tom Clancy's The Division - Open Beta [STEAM]
-3109, Tom Clancy's The Division - Open Beta [UPLAY PC]
 3110, Tom Clancy's The Division - Standard Edition
 3111, Tom Clancy's The Division - Gold Edition
 3112, Tom Clancy's The Division - Gold Edition
@@ -1747,12 +1656,10 @@
 3126, Rainbow Six Siege - Ruby Skin
 3127, Hitman
 3128, Tom Clancy's The Division
-3129, Internal QC / Dev - Trackmania Turbo
 3130, Just Dance® 2017
 3131, Just Dance® 2017 [STEAM]
 3137, Far Cry Primal Apex Edition
 3140, Tom Clancy's The Division
-3142, Internal QC/Dev - Anno 2205 - Uplay
 3143, Anno 2205 -  Tundra
 3144, Tom Clancy's The Division Gold Edition
 3145, Tom Clancy's The Division Gold Edition
@@ -1833,7 +1740,6 @@
 3275, Rainbow Six Siege - Stone Weapon Skin Bundle
 3278, Example Game [Steam]
 3286, CA2 - Might & Magic Diecast - Dev Team
-3287, CA2 - Might & Magic Diecast - Internal
 3288, CA2 - Might & Magic Diecast - FF
 3292, VMC - Rainbow Six Siege - Season 2
 3297, Rainbow Six siege
@@ -1921,7 +1827,6 @@
 3440, For Honor – VMC7 Package
 3443, Rainbow Six Siege - Starter Edition
 3444, Ghost Recon Wildlands - Denuvo Anti-Temper
-3445, STEEP Open Beta
 3446, Steep - VMC
 3447, Trials of the Blood Dragon
 3448, Trials of the Blood Dragon
@@ -1947,7 +1852,6 @@
 3489, Rainbow Six Siege - JTF2 Racer Skin
 3490, Rainbow Six Siege - Spetsnaz Racer Skin
 3491, Rainbow Six Siege - NavySeal Racer Skin
-3492, Steep - Internal Alpha
 3493, 30th Anniversary - Prince of Persia Sands of Time
 3494, 30th Anniversary - Tom Clancy's Splinter Cell
 3495, 30th Anniversary - Far Cry Blood Dragon
@@ -1957,7 +1861,6 @@
 3499, 30th Anniversary - Assassin's Creed 3
 3500, Valiant Hearts
 3501, Progressive Example Game
-3502, Tom Clancy's The Division™ PTS
 3503, South Park™: The Fractured but Whole™ - Season Pass
 3504, South Park™: The Fractured but Whole™
 3505, South Park™: The Fractured but Whole™ - Deluxe Edition
@@ -1989,7 +1892,6 @@
 3540, The Ubisoft Playlist - Trials of the Blood Dragon
 3541, Mighty No. 9
 3542, Champions of Anteria Preview
-3543, Internal QC/Dev - Steep - External test
 3544, Assassin's Creed 3
 3545, Assassin's Creed 3 Deluxe Edition
 3546, Assassin’s Creed® III – The Hidden Secrets Pack
@@ -2009,7 +1911,6 @@
 3561, Rayman Forever
 3562, Panzer General 3D
 3563, Silent Hunter 2
-3572, Internal QC/Dev - Tom Clancy's The Division - Underground DLC
 3573, Rainbow Six Siege - WW - Digital - Pro League Ash Set
 3574, Rainbow Six Siege - WW - Digital - Pro League Bandit Set
 3575, Rainbow Six Siege - WW - Digital - Pro League Thermite Set
@@ -2023,7 +1924,6 @@
 3585, For Honor - Friends and Family
 3586, For Honor - Friends & Family - QC
 3587, For Honor - External Closed Alpha #2
-3588, For Honor - External Closed Alpha #2 - Dev/QC
 3589, Lego Star Wars: The Force Awakens
 3590, Final Fantasy X/X-2 HD Remaster
 3591, A Ubisoft Game
@@ -2031,7 +1931,6 @@
 3593, Sherlock Holmes The Devil's Daughter
 3602, UplayPC Oculus Example Game
 3603, Uplay PC Oculus Example Game
-3604, Steep - Internal Closed Alpha
 3605, Rainbow Six : Siege
 3606, Champions of Anteria
 3607, Champions of Anteria - Gold Edition
@@ -2043,8 +1942,6 @@
 3613, Lego Marvel's Avengers
 3616, Rainbow Six Siege - Pro League Season 2 Bundle
 3617, Anno 2205 - Orbit
-3618, Anno 2205 - INTERNAL - Orbit DLC Validation
-3620, Rainbow Six Siege - Internal QC/DEV - FreeWeekendTest#5
 3621, Anno 1602
 3623, Rainbow Six Siege
 3624, I am Setsuna
@@ -2118,9 +2015,6 @@
 3721, Champions of Anteria - Alchemist DLC
 3722, Champions of Anteria - Beastmaster DLC
 3723, Champions of Anteria
-3729, Internal QC/Dev - South Park: Stick of Truth - WorldWide
-3730, Internal QC/Dev - South Park: Stick of Truth - German
-3731, Internal QC/Dev - South Park: Stick of Truth - Australia
 3732, Street Fighter V
 3733, Homefront: The Revolution
 3735, Space Engineers
@@ -2315,9 +2209,7 @@
 3953, Splinter Cell Conviction
 3954, Splinter Cell Conviction Insurgency DLC Pack
 3956, For Honor - Crowdtwist
-3957, Champions of Anteria - Internal QC/Dev - [STEAM]
 3958, The Ubisoft Playlist - Champions of Anteria
-3960, Tom Clancy's The Division™ PTS
 3961, ANNO 2070 Deep Ocean
 3962, Watch Dogs 2 - High Res Texture Pack
 3964, South Park The Fractured But Whole Rewards - Crowdtwist
@@ -2345,7 +2237,6 @@
 3988, South Park™: The Fractured but Whole™ - Gold Edition
 3990, Prince of Persia: The Two Thrones
 3991, Anno 2205 - Frontiers
-3992, For Honor - External Closed Alpha #3 - Dev/QC
 3993, For Honor - External Closed Alpha #3
 3994, Anno 2205 - Frontiers DLC
 3996, Anno 2205 - Ultimate Edition
@@ -2356,8 +2247,6 @@
 4017, Anno 2205 - Frontiers DLC - QC Validation
 4019, Anno 2205 - Ultimate Edition - QC Validation
 4023, Anno 2205 - Ultimate Edition - QC Validation
-4024, Tom Clancy's The Division - PTS
-4025, Tom Clancy's The Division - PTS
 4026, Might and Magic Heroes VII - Vanilla+ Fortress
 4027, Might and Magic Heroes VII - Vanilla+ Fortress
 4028, Far Cry 2 - Standard Edition
@@ -2369,7 +2258,6 @@
 4034, Rainbow Six Siege - Pro League Twitch Set
 4035, Tom Clancy's rainbox Six Siege: Pro League All Gold Sets
 4036, For Honor - VMC17
-4037, Internal QC/Dev - Tom Clancy's The Division - PTS
 4038, Might & Magic Showdown
 4039, Might & Magic Showdown
 4055, Assassin's Creed Revelations - Ancestors Character pack
@@ -2379,7 +2267,6 @@
 4083, 30th Anniversary - The Crew
 4084, Tom Clancy's Rainbow Six® Siege - Season Pass
 4085, Tom Clancy's Rainbow Six Siege - Frost The Division Set
-4086, Internal QC/Dev - Tom Clancy's The Division - PTS - STEAM
 4088, The Turing Test
 4089, Project Highrise
 4090, The Turing Test
@@ -2409,20 +2296,16 @@
 4114, Project Highrise
 4115, Titan Quest Anniversary Edition
 4117, Rainbow Six Siege - Esport Set
-4118, For Honor - CA RUS - Dev/QC
 4119, For Honor - Closed Alpha RUS
-4120, VMC 4 - The Crew – Closed Beta - [UPLAY PC]
 4121, Oriental Empires
 4122, Furi
 4123, Steep - VMC#3
-4124, Tom Clancy's The Division - PTS [UPLAYPC]
 4125, Assassin's Creed Brotherhood
 4126, Assassin's Creed Revelations
 4127, Call of Juarez 2: Bound in blood
 4134, Rainbow Six Siege - Blitz Bushido
 4141, Rainbow Six Siege - Tatchanka Bushido
 4150, The Crew Ultimate Edition
-4151, Ghost Recon - Wildlands - Internal Technical Test
 4152, Assassin's Creed Syndicate
 4153, Assassin's Creed Syndicate
 4154, Assassin's Creed Syndicate Season Pass
@@ -2477,7 +2360,6 @@
 4206, Might and Magic VIII: Day of the Destroyer
 4207, Tom Clancy's The Division - Gold Edition
 4208, Tom Clancy's The Division - Gold Edition
-4209, Ghost Recon - Wildlands - Closed Beta
 4210, Rainbow Six Siege - TwitchCon giveaway
 4214, The Metronomicon
 4215, The Metronomicon
@@ -2499,7 +2381,6 @@
 4233, Warhammer End Times - Vermintide
 4234, Tom Clancy's Rainbow Six Siege: Castle Blood Dragon Set (DLC)
 4242, Eagle Flight - Partners [Oculus]
-4243, Internal QC/Dev - Ghost Recon Wildlands - Technical Test
 4244, Rainbow Six Siege - Starter Edition
 4245, Rainbow Six Siege - Starter Edition
 4246, Assassin's Creed IV Black Flag Deluxe Edition
@@ -2569,7 +2450,6 @@
 4342, Tom Clancy's Rainbow Six Siege - Rook The Crew Set
 4343, Rainbow Six Siege - Year 2 Pass
 4344, Rainbow Six Siege - VMC
-4345, Internal Test - Battle Isle Platinum
 4346, watch_dogs 2
 4347, Tom Clancy's The Division - Season Pass
 4348, Tom Clancy's The Division - Season Pass
@@ -2599,8 +2479,6 @@
 4378, Steep - Extreme Pack
 4380, Battlefield 1
 4381, Battlefield 1
-4382, Internal/QC - The Crew - Calling All Units - WW - STEAM
-4383, Internal/QC - The Crew - Calling All Units - RUS - STEAM
 4384, Tom Clancy's Ghost Recon® Wildlands - Technical Test
 4385, Just Dance 2017
 4386, Just Dance 2017
@@ -2665,7 +2543,6 @@
 4458, Rainbow Six Siege - Golden Set 3 Bundle
 4459, Rainbow Six Siege - Golden Season 4 Bundle
 4461, Steep
-4462, Internal/QC - The Crew Ultimate Edition
 4463, Just Dance 2017 - Consumable Pack Reimbursement
 4464, Steep - Early Access
 4465, Watch_Dogs 2 - Fully Decked Out Bundle
@@ -2674,13 +2551,10 @@
 4468, Dishonored 2 Limited Edition
 4470, Styx: Shards of Darkness
 4471, Resident Evil 7 Biohazard
-4472, Steep Open Beta
 4473, VMC- Might and Magic Diecast
 4474, The Ubisoft Playlist - Watch_Dogs
 4475, For Honor - VMC - Nov 3rd
 4476, Dishonored 2 Limited Edition
-4477, Internal QC/Dev - Steep - External test - Pack1 - Uplay
-4478, Internal QC/Dev - Steep - External test - Pack2 - Steam
 4479, Steep - Language Pack 2
 4480, Steep - Language Pack
 4481, Steep
@@ -2701,8 +2575,6 @@
 4496, Far Cry Gold Bundle – Far Cry 1, Far Cry 2, Far Cry 3, Far Cry 4 and Far Cry Primal
 4497, Werewolves Within
 4498, Steep
-4500, Steep - Open Beta
-4501, Steep - Open Beta
 4502, South Park™: The Fractured But Whole™
 4503, South Park: The Fractured But Whole - Towelie: Your Gaming Bud
 4505, South Park: The Fractured But Whole - Danger Deck
@@ -2711,42 +2583,12 @@
 4508, Upsell Test - MSV
 4509, Tom Clancy's The Division - Parade Pack
 4511, Tom Clancy's The Division - Let It Snow Pack
-4514, Internal QC/Dev - Werewolves Within [STEAM]
 4515, Rainbow Six Siege - Free Weekend
 4516, For Honor - VMC - Nov 10th
 4517, Rainbow Six Siege - Free Weekend
 4518, Rainbow Six Siege - Free Weekend
 4519, Splinter Cell Double Agent
 4520, VMC - Might and Magic Diecast
-4521, Watch Dogs 2 - Internal/QC Package - Season Pass
-4522, Watch Dogs 2 - Internal/QC Package - Root Access Bundle
-4523, Watch Dogs 2 - Internal/QC Package - Ultimate Bundle
-4524, Watch Dogs 2 - Internal/QC Package - Supreme Bundle
-4525, Watch Dogs 2 - Internal/QC Package - DLC 1 - T-Bone Content Bundle
-4526, Watch Dogs 2 - Internal/QC Package - DLC 2 - Biometric
-4527, Watch Dogs 2 - Internal/QC Package - DLC 3 - No Compromise
-4528, Watch Dogs 2 - Internal/QC Package - Black Hat Pack
-4529, Watch Dogs 2 - Internal/QC Package - Ded Labs Pack
-4530, Watch Dogs 2 - Internal/QC Package - Dumpster Diver Pack
-4531, Watch Dogs 2 - Internal/QC Package - EliteSec Pack
-4532, Watch Dogs 2 - Internal/QC Package - Glam Pack
-4533, Watch Dogs 2 - Internal/QC Package - Guru Pack
-4534, Watch Dogs 2 - Internal/QC Package - Guts, Grit and Liberty Pack
-4535, Watch Dogs 2 - Internal/QC Package - Home Town Pack
-4536, Watch Dogs 2 - Internal/QC Package - Pixel Art Pack
-4537, Watch Dogs 2 - Internal/QC Package - Private Eye Pack
-4538, Watch Dogs 2 - Internal/QC Package - Psychedelic Pack
-4539, Watch Dogs 2 - Internal/QC Package - Punk Rock Pack
-4540, Watch Dogs 2 - Internal/QC Package - Ubisoft Pack
-4541, Watch Dogs 2 - Internal/QC Package - Urban Artist Pack
-4542, Watch Dogs 2 - Internal/QC Package - Chameleon Copter Decal
-4543, Watch Dogs 2 - Internal/QC Package - Defalt Suite
-4544, Watch Dogs 2 - Internal/QC Package - Peste Negra
-4545, Watch Dogs 2 - Internal/QC Package - Protocol Pistol
-4546, Watch Dogs 2 - Internal/QC Package - Void Dasher
-4547, Watch Dogs 2 - Internal/QC Package - Zodiac Killer
-4548, Watch Dogs 2 - Internal/QC Package - High Res Texture Pack
-4549, Watch Dogs 2 - Internal/QC Package - Twitch Hoodie
 4551, Tom Clancy's Rainbow Six® Siege: Year 2 Pass
 4552, Resident Evil 7
 4555, Anno 1800 Preview
@@ -2869,8 +2711,6 @@
 4676, The Crew™ Calling All Units
 4677, The Crew™
 4678, The Crew™
-4679, Watch Dogs 2 - Internal/QC Package - Standard
-4680, Internal Test - Heroes of Might and Magic II
 4681, 舞力全开® 2017
 4682, Star Trek™: Bridge Crew
 4683, Watch_Dogs® 2 Season Pass
@@ -2886,7 +2726,6 @@
 4693, Shadowrun Chroncles Infected
 4694, Gothic Universe
 4695, Eagle Flight
-4696, Watch Dogs 2 - Internal/QC Package - Retail - RU
 4697, From Dust
 4699, Tom Clancy's Endwar
 4700, Brothers in Arms: Road to Hill 30
@@ -2928,7 +2767,6 @@
 4736, Watch_Dogs 2
 4737, Watch_Dogs 2
 4738, Steep - VMC
-4739, Internal QC/Dev - Steep WW
 4740, Ubisoft Game 4740
 4741, Tom Clancy's Rainbow Six® Siege: Year 2 Pass
 4742, Tom Clancy's Rainbow Six® Siege: Year 2 Pass
@@ -2941,13 +2779,11 @@
 4749, Tom Clancy's Rainbow Six® Siege – Gold Edition Year 2
 4750, Tom Clancy's Rainbow Six® Siege – Complete Edition
 4751, Watch_Dogs 2 - Standard Edition
-4752, Watch Dogs 2 - Internal/QC Package - Steam - RUS/CN
 4753, Watch_Dogs 2
 4754, VMC - Might and Magic Diecast
 4755, Steep™- Season Pass
 4756, Steep™- Season Pass
 4757, Steep™
-4758, INTERNAL - UPCtest - Veith
 4759, Eagle Flight
 4760, Steep - Freeride Pack
 4761, Steep - Freestyle Pack
@@ -2959,7 +2795,6 @@
 4767, Tom Clancy's Rainbow Six® Siege – Gold Edition Year 2
 4768, Tom Clancy's Rainbow Six® Siege – Complete Edition
 4769, Tom Clancy's Rainbow Six® Siege – Complete Edition
-4770, INTERNAL/QC - Rainbow Six Siege - Season Pass year 2
 4772, Assassin's Creed Animus Bundle
 4773, Watch_Dogs® 2
 4774, Watch_Dogs® 2 - Deluxe Edition
@@ -3010,14 +2845,12 @@
 4820, Rainbow Six Siege – Pulse Bushido DLC
 4821, For Honor - VMC - Dec 9th
 4822, For Honor - VMC - Dec 12th
-4823, Internal QC/Dev For Honor - Steam
 4824, Tom Clancy's The Division™ - Upper East Side Outfit Pack
 4825, Tom Clancy's The Division™ - Upper East Side Outfit Pack
 4826, Tom Clancy's Rainbow Six® Siege - Racer GSG 9 Pack
 4827, Tom Clancy's Rainbow Six® Siege - Racer GSG 9 Pack
 4828, Tom Clancy's Rainbow Six® Siege - British Racer Pack
 4829, Tom Clancy's Rainbow Six® Siege - British Racer Pack
-4831, INTERNAL/QC - For Honor - BETA - Uplay
 4832, Tom Clancy's Rainbow Six® Siege - Montagne Bushido Set
 4833, Tom Clancy's Rainbow Six® Siege - Montagne Bushido Set
 4834, Tom Clancy's Rainbow Six® Siege - Blitz Bushido Set
@@ -3043,13 +2876,10 @@
 4855, Watch_Dogs® 2 Supreme Pack
 4856, Watch_Dogs® 2 Supreme Pack
 4858, Might & Magic Showdown Paint Workshop
-4859, INTERNAL TEST
 4860, Watch_Dogs 2 - EliteSec
 4861, Watch_Dogs 2 - Black Hat
 4862, Watch_Dogs 2 - Dumpster Diver
 4863, Watch_Dogs 2 - Home Town
-4864, For Honor - INTERNAL - Final Submission QC/Dev
-4865, Tom Clancy's Rainbow Six® Siege - Test Server
 4866, Rainbow Six Siege - Invitational
 4867, Watch_Dogs 2 - Guru Pack
 4868, Eagle Flight
@@ -3124,12 +2954,8 @@
 4972, Assassin's Creed Origins - Curse of the Pharaohs
 4973, Assassin's Creed Origins - Secrets of the first Pyramids
 4974, Assassin's Creed Origins - Naval Quest
-4984, Ghost Recon® Wildlands - Ghost War PVP Open Beta
-4989, Tom Clancy's Ghost Recon Wildlands Open Beta
 4991, Splinter Cell Blacklist - High Power Pack
 4992, Splinter Cell Blacklist - Homeland
-4993, Internal QC/Dev - Ghost Recon Wildlands - Steam WW
-4994, Internal QC/Dev - Ghost Recon Wildlands - Steam RU_CN
 4997, Dawn of Andromeda
 4998, Shadow Tactics - Blades of the Shogun
 4999, Burly Men at Sea
@@ -3152,7 +2978,6 @@
 5035, Tom Clancy's The Division
 5036, Tom Clancy's The Division
 5037, The Crew 2
-5038, The Crew 2 - Open Beta
 5039, The Crew 2 TTS
 5042, Might & Magic Heroes VI
 5043, Far Cry 5 - Deluxe Pack
@@ -3166,9 +2991,7 @@
 5064, Steep - Welcome Pack
 5071, The Crew 2 Beta Steam
 5072, For Honor - VMC #49 EU
-5073, Internal QC/Dev - For Honor - VMC #49 EU
 5074, For Honor - VMC #50 NA
-5075, Internal QC/Dev - For Honor - VMC #50 NA
 5076, Far Cry 5 - Hours of Darkness
 5077, Far Cry 5 - Dead Living Zombies
 5078, Far Cry 5 - Lost on Mars
@@ -3200,7 +3023,6 @@
 5165, Assassin's Creed® Odyssey - Tales of Atlantis
 5179, Assassin's Creed® Odyssey - The Secrets of Greece
 5180, Assassin's Creed® Odyssey - The Blind King
-5181, Hunter - Full Game Ownership [INTERNAL QC/DEV]
 5182, Assassin's Creed® Odyssey - Deluxe Pack
 5212, Steep - Rocket Wings
 5213, Steep - 90's DLC
@@ -3215,7 +3037,6 @@
 5277, Starlink: Battle for Atlas
 5279, Rainbow Six Siege - Year 4 Pass
 5299, For Honor - Year 3 Pass
-5301, Rocksmith™+ Closed Beta
 5302, Far Cry® New Dawn - Deluxe Pack
 5303, Far Cry® New Dawn - Preorder Trike
 5319, The Settlers 5 - History Edition
@@ -3234,7 +3055,6 @@
 5351, Tom Clancy's The Division® 2 CN BETA
 5353, Deluxe Edition
 5366, Ubisoft Game (Playsessions)
-5377, Space Junkies - Open beta
 5378, Anno 1800
 5379, Anno 1800
 5380, Anno 1800
@@ -3255,13 +3075,11 @@
 5401, Tom Clancy's Ghost Recon® Breakpoint - Ultimate Survivor Pack
 5402, Tom Clancy's Ghost Recon® Breakpoint - Off-Road Pack
 5405, Immortals Fenyx Rising™
-5406, Tom Clancy's The Division® 2 PTS
 5410, 飙酷车神 2
 5429, Ubisoft Game
 5452, Tom Clancy's Ghost Recon® Breakpoint
 5454, Trials® Rising Demo
 5455, Trials Rising Demo [Steam]
-5456, Space Junkies PC - Open Beta
 5457, Tom Clancy's Ghost Recon® Breakpoint - Sacred Land Pack
 5470, 全境封锁2
 5481, Assassin's Creed II - Deluxe Edition
@@ -3288,13 +3106,11 @@
 5611, Rainbow Six Siege - Year 5 Pass
 5613, Might & Magic - Chess Royale
 5642, Assassin's Creed® Syndicate
-5661, [Secured] XDefiant
 5662, A Ubisoft Game 06 Secured QA
 5663, Ubisoft Game 05
 5664, A Ubisoft Game Test 01
 5666, Ubisoft Game
 5667, A Ubisoft Game 02
-5668, [SECURED] Tom Clancy’s Rainbow Six Extraction
 5669, Ubisoft Game 09
 5670, Ubisoft Game 10
 5671, A Ubisoft Game 04
@@ -3336,7 +3152,6 @@
 5744, A Ubisoft Game 29
 5745, Mages of Mystralia
 5748, Share Play
-5759, [PTS]
 5763, Rocksmith™+
 5777, Skull & Bones LUNA
 5778, A Ubisoft Game 33
@@ -3352,16 +3167,12 @@
 6115, Calico
 6116, The Last Friend
 6118, Death Squared
-6146, Internal Dev/QC - Memory
-7014, Internal Dev/QC - Assassin's Creed Valhalla [STEAM]
 8999, Ubisoft Game 4740
 9002, For Honor Soundtrack
 9003, For Honor - Deluxe Pack
 9004, Anno 1404 Gold
 9010, For Honor - Combat Pack
 9011, For Honor - Melee Pack
-9015, Internal QC / Dev - UNO [Uplay PC]
-9016, Internal QC / Dev - UNO [Steam]
 9017, The Ubisoft Playlist - UNO
 9018, UNO - Demo
 9019, MSV TEST - Tom Clancy's The Division [STEAM]  - Free Weekend #1
@@ -3397,15 +3208,7 @@
 9051, For Honor - Legacy Battle Pack
 9052, For Honor - Melee Pack
 9053, For Honor - Combat Pack
-9054, Ghost Recon Wildlands - Closed Beta
-9055, For Honor – External Closed Beta – Dev/QC
-9056, For Honor – External Closed Beta
-9057, Ghost Recon Wildlands - Internal/QC - Closed Beta
 9058, Rainbow Six Siege - VMC
-9059, For Honor - Open Beta
-9060, For Honor - Open Beta
-9061, For Honor - Open Beta - Dev/QC [Steam]
-9062, For Honor - Open Beta
 9063, VMC - For Honor
 9064, For Honor
 9065, For Honor
@@ -3554,36 +3357,10 @@
 9217, Trials Fusion™- Awesome Level max
 9218, Urban Empire
 9219, Urban Empire
-9220, Ghost Recon Wildlands - Internal Dev/QC Package - Season Pass 1
-9221, Ghost Recon Wildlands - Internal Dev/QC Package - Deluxe Pack
-9222, Ghost Recon Wildlands - Internal Dev/QC Package - Bear Patch
-9223, Ghost Recon Wildlands - Internal Dev/QC Package - Dragon Pack
-9224, Ghost Recon Wildlands - Internal Dev/QC Package - Kraken Pack
-9225, Ghost Recon Wildlands - Internal Dev/QC Package - Lion Gear Patch
-9226, Ghost Recon Wildlands - Internal Dev/QC Package - Phoenix Patch
-9227, Ghost Recon Wildlands - Internal Dev/QC Package - Skull & Bones Patch
-9228, Ghost Recon Wildlands - Internal Dev/QC Package - Special Ops Pack
-9229, Ghost Recon Wildlands - Internal Dev/QC Package - The Peruvian Connection
-9230, Ghost Recon Wildlands - Internal Dev/QC Package - Base Credits Pack
-9231, Ghost Recon Wildlands - Internal Dev/QC Package - Small Credits Pack
-9232, Ghost Recon Wildlands - Internal Dev/QC Package - Medium Credits Pack
-9233, Ghost Recon Wildlands - Internal Dev/QC Package - Large Credits Pack
-9234, Ghost Recon Wildlands - Internal Dev/QC Package - Extra Large Credits Pack
-9235, Ghost Recon Wildlands - Internal Dev/QC Package - Ghost Pack - Rebellion
 9518, Ubiservices
-9661, Rainbow Six Siege PTS - VMC February 6th
-9715, Tom Clancy's Ghost Recon Wildlands Open Beta
 9746, Rainbow Six Siege - Thermite Military Police Set
 9748, Rainbow Six Siege - Ash Engineering Set
 9762, Rainbow Six Siege - Pro League Gold Sets 6
-9763, Watch Dogs 2 - Internal/QC Package - Pop Art Pack
-9764, Watch Dogs 2 - Internal/QC Package - Neonrave Pack
-9765, Watch Dogs 2 - Internal/QC Package - British Pack
-9766, Watch Dogs 2 - Internal/QC Package - Fresh Prince New Pack
-9767, Watch Dogs 2 - Internal/QC Package - 70s Pack
-9768, Watch Dogs 2 - Internal/QC Package - Biker Trash Pack
-9769, Watch Dogs 2 - Internal/QC Package - Mega Pack
-9771, Steep - Internal QC/Dev - Winterfest DLC
 9797, Ode
 10000, Joel's Super Secret Ultimate Test Package of DOOM!
 10088, Tom Clancy's Rainbow Six® - Bandit Football
@@ -3674,13 +3451,11 @@
 10173, For Honor - VMC
 10174, Rainbow Six Siege - VMC
 10175, For Honor
-10176, Test - INTERNAL - Veith
 10177, Tom Clancy's The Division - Trial Test
 10178, For Honor - Season Pass
 10179, For Honor - Season Pass
 10180, Rainbow Six Siege - VMC
 10181, Ghost Recon Wildlands - VMC
-10182, Ghost Recon Wildlands - Open Beta
 10183, For Honor - Season Pass
 10184, For Honor - Deluxe Edition
 10185, Ghost Recon Future Soldier - Arctic Strike
@@ -3798,7 +3573,6 @@
 10297, Tom Clancy's Ghost Recon® Wildlands: Season Pass
 10298, Tom Clancy's Ghost Recon® Wildlands: Season Pass
 10299, Tom Clancy's Ghost Recon® Wildlands - Ghost Pack Rebellion
-10301, Rainbow Six Siege - PTS
 10302, Ghost Recon Wildlands
 10303, Tom Clancy's Ghost Recon® Wildlands - Heroes Pack
 10304, Steep - Alaska Cosmetic Pack
@@ -3820,9 +3594,7 @@
 10321, Mass Effect - Andromeda
 10322, Anno 1602
 10323, Anvil of Dawn
-10324, Rainbow Six Siege PTS - Ubisoft Employees External Test
 10325, Rainbow Six Siege - VMC
-10326, Rainbow Six Siege PTS - External Test
 10327, Steep - Free Weekend
 10328, Anno Full Collection Pack
 10329, For Honor - VMC
@@ -3850,7 +3622,6 @@
 10352, Anno 1404 - Gold Edition [GERMAN]
 10353, Heroes of Might and Magic
 10354, Tom Clancy's The Division
-10355, Internal QC/Dev - Tom Clancy's Ghost Recon Wildlands - Narco Road DLC
 10356, For Honor
 10357, Rainbow Six Siege
 10358, Ghost Recon Wildlands
@@ -3861,7 +3632,6 @@
 10363, For Honor - Base Currency Pack
 10364, For Honor - Small Currency Pack
 10365, For Honor - Medium Currency Pack
-10366, Rainbow Six Siege PTS
 10367, WATCH_DOGS® 2 – Mega Pack
 10368, WATCH_DOGS® 2 – Mega Pack
 10369, Tom Clancy's Rainbow Six® Siege - Buck GR Wildlands Set
@@ -3898,7 +3668,6 @@
 10421, Rainbow Six Siege - Full Game
 10422, Ghost Recon Wildlands
 10423, Ghost Recon Wildlands - Narco Road DLC
-10424, Tom Clancy's Rainbow Six® Siege - Test Server
 10425, Rainbow Six Siege Pre-order Gold Edition
 10427, Rainbow Six Siege
 10428, Rainbow Six Siege
@@ -3935,7 +3704,6 @@
 10459, Far Cry® 5 – Doomsday Prepper Pack
 10460, Might and Magic IX
 10461, Might and Magic VII: For Blood and Honor
-10462, Rainbow Six Siege PTS
 10463, Battle Isle Platinum
 10464, Heroes of Might and Magic II Gold Edition
 10465, Watch_Dogs 2 - No Compromise
@@ -3963,9 +3731,6 @@
 10496, Watch_Dogs® 2 - No Compromise
 10497, Watch_Dogs® 2 - No Compromise
 10498, Star Trek: Bridge Crew
-10499, Rainbow Six Siege PTS   - Internal QC - steam
-10500, Internal QC/Dev - Trackmania Lagoon
-10501, INTERNAL/QC - South Park FBW - Uplay
 10502, Tom Clancy's Ghost Recon Wildlands - Fallen Ghosts DLC
 10503, The Settlers 7
 10504, Trackmania² Lagoon
@@ -3998,7 +3763,6 @@
 10531, Trials Fusion [UPLAY] - E3 Free Weekend
 10532, E3 Bundle
 10533, Ubisoft Event Accounts Bundle
-10535, Internal QC/DEV - Steep - Extreme Pack DLC
 10536, For Honor™
 10537, Trials Fusion - Demo
 10538, Rainbow Six Siege - Starter Edition
@@ -4006,17 +3770,10 @@
 10540, For Honor - VMC
 10542, Rainbow Six Siege - Jäger Covert Set
 10543, Rainbow Six Siege -  Pulse Desert Grit Set
-10545, Internal QC/Dev - For Honor - PTS - [UPLAY PC]
-10546, Internal QC/Dev - For Honor - PTS - [STEAM]
-10547, For Honor - PTS - [UPLAY PC]
-10548, For Honor - PTS - [STEAM]
 10549, Rainbow Six Siege - Capitao Loreto Set
 10550, Assassin's Creed Origins
 10552, For Honor - VMC
 10553, For Honor
-10554, Internal QC/Dev For Honor - Steam
-10555, Internal QC/Dev - For Honor - Free Weekend Test [UPLAYPC]
-10556, Internal QC/Dev - For Honor - Free Weekend Test [STEAM]
 10557, Rainbow Six Siege - VMC
 10558, Shootmania Storm
 10559, Trackmania Stadium
@@ -4030,7 +3787,6 @@
 10567, STEEP™ - Extreme Pack
 10568, Tom Clancy's Ghost Recon® Wildlands - Ghost Pack Santa Blanca
 10569, For Honor - VMC
-10570, Internal QC/Dev - Steep – TTS
 10571, Far Cry 5 - Alpha
 10572, Tom Clancy's Ghost Recon Wildlands - VMC
 10573, For Honor
@@ -4120,8 +3876,6 @@
 10657, Tom Clancy's Rainbow Six® Siege - 7560 Credits Pack
 10658, Tom Clancy´s Ghost Recon Wildlands - PVP TTS
 10659, The Crew 2
-10660, The Crew 2 - PTS
-10661, Trials World Tour - Internal Early Access
 10662, Anno 2205
 10663, MSV - FREE WEEKEND TEST - Tom Clancy's The Division - The Last Stand
 10664, Heroes of Might and Magic III Complete Edition
@@ -4133,7 +3887,6 @@
 10670, Tom Clancy's Rainbow Six® Siege - Ash Engineering Set
 10671, Tom Clancy's Rainbow Six® Siege - Ash Engineering Set
 10672, Tom Clancy's Ghost Recon Wildlands - VMC
-10683, The Crew 2 - PTS
 10684, Sundered - Eldritch Edition
 10685, South Park : The Fractured But Whole
 10686, Sundered
@@ -4142,14 +3895,12 @@
 10689, South Park FBW - DLC 3
 10690, South Park FBW - Season Pass
 10691, Trials World Tour
-10692, Trials World Tour - Internal tests
 10693, Assassin's Creed® Origins
 10694, For Honor - Free Weekend
 10695, For Honor - Free Weekend
 10696, For Honor - Free Weekend
 10697, For Honor - Free Weekend
 10698, Tom Clancy's Ghost Recon Wildlands - VMC
-10699, Rainbow Six Siege PTS
 10700, Ghost Recon Wildlands - PVP CB
 10702, Overclock Community Leader WW
 10704, Tom Clancy's Rainbow Six® Siege - Mute Gravel Blast Set
@@ -4166,8 +3917,6 @@
 10721, The Ubisoft Playlist - Assassin's Creed 3 Deluxe Edition
 10722, The Ubisoft Playlist - Assassin's Creed IV Black Flag Deluxe
 10723, The Ubisoft Playlist - Assassin's Creed Liberation HD
-10724, Monopoly Plus - Internal/QC Package
-10725, Monopoly Plus - Internal/QC Package
 10726, Far Cry 5 -Farcade
 10727, Anno 2205™ - Orbit
 10728, Anno 2205™ - Orbit
@@ -4259,26 +4008,17 @@
 10838, South Park™: The Fractured but Whole™
 10839, South Park™: The Fractured but Whole™
 10840, South Park™: The Fractured but Whole™ - Gold Edition
-10841, Ghost Recon Wildlands - PVP Open Beta
-10842, Ghost Recon Wildlands - PVP Open Beta [STEAM]
 10843, South Park: The Fractured But Whole - LP1
 10844, South Park: The Fractured But Whole - LP2
 10845, South Park: The Fractured But Whole - LP3
 10846, South Park: The Fractured But Whole - LP4
-10847, Internal QC/Dev - Ghost Recon Wildlands - Trial WW
-10848, Internal QC/Dev - Ghost Recon Wildlands - Free Weekend
-10849, Internal QC/Dev - Ghost Recon Wildlands - Full Ownership
 10850, Settlers 2 - 10th Anniversary
 10851, The Settlers III Gold Edition
-10852, Just Dance Unlimited - 3 Month Subscription
-10853, INTERNAL QC / DEV - Ghost Recon Wildlands - PVP BETA [STEAM]
 10854, South Park™: The Fractured but Whole™ - Gold Edition
 10855, South Park™: The Fractured but Whole™ - Gold Edition
 10856, South Park™: The Fractured but Whole™ - Gold Edition
 10857, Tom Clancy's Rainbow Six® Siege - Jäger Covert Set
 10858, Tom Clancy's Rainbow Six® Siege - Pulse Desert Grit Set
-10859, The Crew 2 - PTS - ETT
-10860, For Honor - PTS
 10861, Assassin's Creed Origins
 10870, Far Cry 5 - Season Pass
 10871, Transference
@@ -4335,7 +4075,6 @@
 10926, South Park™: The Fractured but Whole™ - Gold Edition
 10927, South Park™: The Fractured but Whole™ - Gold Edition
 10928, South Park™: The Fractured but Whole™
-10929, Internal QC/Dev - Ghost Recon Wildlands - Free Weekend [STEAM]
 10930, South Park™: The Fractured but Whole™
 10931, South Park™: The Fractured but Whole™
 10932, South Park™: The Fractured but Whole™ - Gold Edition
@@ -4371,7 +4110,6 @@
 10962, South Park™: The Fractured but Whole™ - Season Pass
 10963, South Park™: The Fractured but Whole™ Towelie PreOrder Bonus
 10964, South Park™: The Fractured but Whole™ Relics of Zaron Costumes & Perks Pack
-10965, INTERNAL QC/DEV - Steep - RTTO Beta
 10966, The Crew 2 - VMC
 10967, South Park™: The Fractured but Whole™
 10968, South Park™: The Fractured but Whole™ - Season Pass
@@ -4407,13 +4145,6 @@
 11001, Assassin's Creed® Origins
 11002, Assassin's Creed® Origins - Deluxe Edition
 11003, Assassin's Creed® Origins - Gold Edition
-11004, Internal QC/Dev - Assassin's Creed Origins - LP1
-11005, Internal QC/Dev - Assassin's Creed Origins - LP2+3
-11006, Internal QC/Dev - Assassin's Creed Origins - LP3
-11007, Internal QC/Dev - Assassin's Creed Origins - LP4
-11008, Internal QC/Dev - Assassin's Creed Origins - LP2+3 [STEAM]
-11009, Internal QC/Dev - Assassin's Creed Origins - LP3 [STEAM]
-11010, Assassin's Creed Origins - Internal Beta
 11011, Assassin's Creed® Origins - Helix Credits Base Pack
 11012, Assassin's Creed® Origins - Helix Credits Small Pack
 11013, Assassin's Creed® Origins - Helix Credits Medium Pack
@@ -4431,11 +4162,6 @@
 11025, Assassin's Creed® Origins - Deluxe Edition
 11026, Assassin's Creed® Origins - Gold Edition
 11027, Assassin's Creed® Origins - Season Pass
-11028, Internal QC/Dev - Assassin's Creed Origins – All ULC
-11029, Internal QC/Dev - Assassin's Creed Origins – Roman Centurion Pack
-11030, Internal QC/Dev - Assassin's Creed Origins – Horus Pack
-11031, Internal QC/Dev - Assassin's Creed Origins – Desert Cobra Pack
-11032, INTERNAL QC/DEV - Steep - RTTO Beta - TTS
 11033, Steep – RTTO - TTS
 11034, Heroes of Might and Magic III Complete Edition
 11036, Assassin's Creed® Origins
@@ -4446,19 +4172,8 @@
 11041, Assassin's Creed® Origins
 11042, The Crew 2
 11043, Assassin's Creed® Origins
-11044, Rainbow Six Siege - 'Fury' Internal Closed Beta
 11045, South Park™: The Fractured but Whole™
 11061, UbiServices Addon package test
-11068, INTERNAL QC/DEV - For Honor - Starter Pack
-11069, INTERNAL QC/DEV - For Honor - Starter Pack
-11070, Internal QC - Watch_Dogs 1
-11071, Internal QC - Watch_Dogs 1
-11072, Internal QC - Watch_Dogs 1
-11073, Internal QC - Watch_Dogs 1
-11074, Internal QC - AC Black Flag
-11075, Internal QC - AC Black Flag
-11076, Internal QC - AC Black Flag
-11077, Internal QC - AC Black Flag
 11079, Tom Clancy's Rainbow Six® Siege - Year 3 Pass
 11080, South Park - The Fractured But Whole
 11081, Rainbow Six Siege - Year 3 Pass
@@ -4468,7 +4183,6 @@
 11086, Assassin's Creed® Origins
 11087, The Ubisoft Playlist - Assassin's Creed Origins
 11088, Assassin's Creed Origins Gold Bundle
-11089, Internal QC/Dev - Ghost Recon Wildlands - Trial [STEAM]
 11090, Assassin's Creed® Origins - Helix Credits Base Pack
 11091, Assassin's Creed® Origins - Helix Credits Base Pack
 11092, Assassin's Creed® Origins - Helix Credits Small Pack
@@ -4511,24 +4225,9 @@
 11130, Tom Clancy’s Ghost Recon® Wildlands – Ghost War Pass
 11131, Assassin's Creed® Origins - Roman Centurion Pack
 11132, Assassin's Creed® Origins - Roman Centurion Pack
-11133, Internal QC/Dev - Hammers of Fate
-11134, Space Junkies - INTERNAL/QC - Oculus
-11135, Internal QC/Dev - Ghost Recon Wildlands - Trial RUS
 11136, Ghost Recon Wildlands - Trial
 11137, Far Cry 5
 11138, Ghost Recon Future Soldier - Season Pass
-11139, The Crew 2 - Internal/QC Package - WW LP
-11140, The Crew 2 - Internal/QC Package - RUS LP
-11141, The Crew 2 - Internal/QC Package - DVD/Retail LP
-11142, The Crew 2 - Internal/QC Package - Season Pass
-11143, The Crew 2 - Internal/QC Package - Starter Crew Credits Pack
-11144, The Crew 2 - Internal/QC Package - Bronze Crew Credits Pack
-11145, The Crew 2 - Internal/QC Package - Silver Crew Credits Pack
-11146, The Crew 2 - Internal/QC Package - Gold Crew Credits Pack
-11147, The Crew 2 - Internal/QC Package - Platinum Crew Credits Pack
-11148, The Crew 2 - Internal/QC Package - Legendary Motors Pack
-11149, The Crew 2 - Internal/QC Package - Motorsports Deluxe Pack
-11151, Internal QC / Dev - Luminite
 11152, Rainbow Six Siege - Free Weekend
 11153, Rainbow Six Siege - Free Weekend
 11154, Rainbow Six Siege - Free Weekend
@@ -4557,39 +4256,29 @@
 11177, Good Game - Low Config Bundle
 11178, Assassin's Creed Origins - Language pack 3
 11179, The Crew 2 - Closed Alpha
-11180, The Crew 2 - Internal/QC - Alpha/Beta Test Package
 11181, Ode
 11182, Assassin's Creed® Origins - Horus Pack
 11183, Assassin's Creed® Origins - Horus Pack
-11184, Internal QC/DEV - Steep - RTTO Demo
-11185, INTERNAL QC/DEV - Ghost Recon Wildlands - Ghost Pass
 11186, Assassin's Creed Origins - Ability Pack Compensation
 11187, Ode
 11188, Tom Clancy's The Division
 11189, Tom Clancy's The Division
 11190, Steep - Road To The Olympics - Demo
 11191, 11190 Steep - Road To The Olympics - Demo
-11192, Internal QC/DEV - Steep - RTTO Demo [STEAM]
 11193, Holiday Giveaway - World in Conflict: Complete Edition
-11194, Internal QC/Dev - World in Conflict
 11195, Assassin's Creed® Origins - Helix Credits Medium Pack
 11196, Assassin's Creed® Origins - Helix Credits Large Pack
 11197, Assassin's Creed® Origins - Helix Credits Extra Large Pack
 11201, Steep - Road to the Olympics - TTS
 11202, For Honor - VMC
-11203, Internal QC/Dev - For Honor - VMC
 11204, Steep™ - Welcome Pack
 11205, Steep - Welcome Pack
 11206, Steep - Welcome Pack
 11207, Ode
-11208, The Crew 2 - Internal/QC
 11209, Tom Clancy's Rainbow Six® Siege: Year 3 Pass
 11210, Tom Clancy's Rainbow Six® Siege: Year 3 Pass
 11211, Steep™ - Winter Games Edition
 11212, Steep™ - Winter Games Gold Edition
-11213, The Crew 2 - Internal/QC - Alpha/Beta STEAM Test Package
-11214, INTERNAL DEV/QC - Steep - RTTO - D1 TEST
-11215, INTERNAL DEV/QC - Steep - RTTO - D1 TEST
 11216, Holiday Giveaway - Assassin's Creed Black Flag
 11217, Holiday Giveaway - Assassin's Creed Black Flag
 11218, Holiday Giveaway - Assassin's Creed Black Flag
@@ -4608,7 +4297,6 @@
 11231, Steep™ – Winter Games Gold Edition
 11232, Tom Clancy's Rainbow Six® Siege - Year 3 Pass
 11233, Steep™ - Road to the Olympics
-11234, The Crew 2 - Internal/QC - Age Rating Approval
 11235, Steep™ - Road to the Olympics
 11236, Steep™ - Season Pass
 11237, South Park™: The Fractured but Whole™ - Danger Deck
@@ -4624,10 +4312,7 @@
 11247, South Park™: The Fractured but Whole™ - Danger Deck
 11248, South Park™: The Fractured but Whole™ - Danger Deck
 11249, For Honor - VMC #53 NA
-11250, Internal QC/Dev - For Honor - VMC #53 NA Dec 11th
 11251, The Crew 2 - Closed Alpha
-11252, INTERNAL DEV/QC - For Honor - Open Test [STEAM]
-11253, INTERNAL DEV/QC - For Honor - Open Test [UPLAY PC]
 11254, For Honor - Open Test
 11255, For Honor - Open Test
 11256, The Ubisoft Playlist - World in Conflict
@@ -4652,12 +4337,9 @@
 11275, Watch Dogs 2 - High Res Texture Pack
 11276, Assassin's Creed IV Black Flag - Pride of the West Indies
 11277, Ubisoft Escape Games
-11281, Internal QC/Dev - Assassin's Creed Origins – Heliopolis
 11282, The Crew 2 - Closed Alpha
 11283, Steep – RTTO GoldMaster – WW – TTS - 19th Dec
-11284, INTERNAL QC/DEV - Skull & Bones - VMC
 11285, NGON Twitch Stream Giveaway Bundle
-11289, INTERNAL/QC - Crusaders of Might and Magic
 11290, NGON Twitch Stream - World in Conflict
 11291, NGON Twitch Stream - Watch_Dogs
 11292, NGON Twitch Stream - Watch_Dogs 2
@@ -4735,18 +4417,11 @@
 11366, Tom Clancy's Rainbow Six® Siege - Year 3 Gold Edition
 11367, Tom Clancy's Rainbow Six® Siege - Year 3 Complete Edition
 11368, For Honor - Starter Edition
-11369, The Division - Internal/QC - Refer-a-Friend Test Package - Trial
-11370, The Division - Internal/QC - Refer-a-Friend Test Package - Trial
 11371, Fossil Hunters by Reptoid Games
 11372, Assassin's Creed® Origins - The Hidden Ones
 11373, Discovery Tour by Assassin's Creed: Ancient Egypt
 11374, Assassin's Creed® Origins - Discovery Mode
-11375, Internal QC/Dev - Far Cry 5 - ULC Bundle
-11376, Internal QC/Dev - Steep - TTS Intel
 11377, Might and Magic Heroes VII - CN ONLY
-11378, INTERNAL QC/DEV - Trials Fusion - CN ONLY
-11379, INTERNAL QC/DEV - Assassin's Creed 2- CN ONLY
-11380, INTERNAL QC/DEV - For Honor Starter Pack - CN ONLY
 11381, Chinese New Year - Trials Fusion - CN ONLY
 11382, Chinese New Year - Assassin's Creed 2 - CN ONLY
 11383, Tom Clancy's Rainbow Six® Siege
@@ -4754,15 +4429,12 @@
 11385, Tom Clancy's Rainbow Six® Siege - Year 3 Gold Edition
 11386, Tom Clancy's Rainbow Six® Siege - Year 3 Complete Edition
 11387, Space Junkies - Closed Alpha
-11388, INTERNAL QC/DEV - Rayman Origins - CN ONLY
 11389, Tom Clancy's Rainbow Six® Siege - Advanced Edition
 11390, Tom Clancy's Rainbow Six® Siege - Year 3 Gold Edition
 11391, Tom Clancy's Rainbow Six® Siege - Year 3 Gold Edition
 11392, Tom Clancy's Rainbow Six® Siege - Advanced Edition
 11393, Tom Clancy's Rainbow Six® Siege - Year 3 Complete Edition
 11394, Tom Clancy's Rainbow Six® Siege - Year 3 Complete Edition
-11395, Space Junkies - Internal/QC - Steam
-11396, INTERNAL QC/DEV - For Honor Starter Pack - CN ONLY
 11397, Tom Clancy's Rainbow Six® Siege - Advanced Edition
 11398, Tom Clancy's Rainbow Six® Siege - Year 3 Gold Edition
 11399, Tom Clancy's Rainbow Six® Siege - Year 3 Complete Edition
@@ -4775,11 +4447,9 @@
 11425, For Honor – Private Test
 11426, For Honor
 11427, For Honor
-11428, The Crew 2 - PTS - ETT
 11429, Far Cry® 5
 11430, Chinese New Year - Might and Magic Heroes VII - CN ONLY
 11431, Rainbow Six: Siege - VMC
-11432, INTERNAL QC/DEV - Child of Light - CN ONLY
 11433, South Park™: The Fractured but Whole™
 11434, South Park™: The Fractured but Whole™ - Gold Edition
 11435, Far Cry 5
@@ -4811,8 +4481,6 @@
 11461, For Honor - VMC
 11462, Far Cry® 5
 11463, Rainbow Six Siege - Skin - GIGN Racer
-11464, INTERNAL QC/DEV - R6S First Free Weekend
-11465, INTERNAL QC/DEV - R6S Second Free Weekend
 11466, Rainbow Six Siege - Skin - Topaz
 11467, The Ubisoft Playlist - Beyond Good and Evil
 11468, Far Cry 5
@@ -4821,13 +4489,9 @@
 11471, Far Cry 5 - Server Stress Test
 11472, Trials Fusion Acorns
 11473, Heroes of Might and Magic 5 - Hammers of Fate
-11474, Internal QA - Private Technical Test
 11475, External Fight Testers - Private Technical Test
-11476, Internal QA - Private Technical Test
 11477, External Fight Testers - Private Technical Test
 11478, Far Cry® 5
-11479, The Crew 2 - Internal/QC Package - China
-11480, The Crew 2 - Internal/QC Package - China - Alpha/Beta
 11481, Skull & Bones - VMC - 25th Feb
 11482, Anno 2205 RUS Language Pack
 11483, Fossil Hunters
@@ -4889,14 +4553,10 @@
 11539, Tom Clancy's Rainbow Six® Siege: Starter Edition
 11540, Tom Clancy's Rainbow Six® Siege: Starter Edition
 11541, Tom Clancy's Rainbow Six® Siege: Starter Edition
-11542, Rainbow Six Siege - New Starter Pack 2.0 -  PTS - [TEST BUNDLE]
 11543, Tom Clancy's Rainbow Six® Siege: Starter Edition
 11544, Tom Clancy's Rainbow Six® Siege: Starter Edition
-11545, INTERNAL QC/DEV - Rainbow Six Siege - Upsell testing
 11546, The Crew 2 - Technical Test
 11547, For Honor - Starter Edition
-11548, Internal QC/Dev - Far Cry 5 - LP test Package
-11549, Internal QC/Dev - Far Cry 5 - LP test Package [Steam]
 11550, The Crew 2 - Closed Alpha
 11551, The Crew 2 - Closed Alpha
 11552, Far Cry® 5 - Season Pass
@@ -4942,8 +4602,6 @@
 11593, Tom Clancy's Ghost Recon® Wildlands - Ultimate Edition Year 2
 11594, Tom Clancy's Ghost Recon® Wildlands - Year 2 Pass
 11595, South Park™ : The Fractured But Whole™ - From Dusk Till Casa Bonita
-11596, Internal QC/Dev - For Honor - Private Test
-11597, Internal QC/Dev - For Honor - Private Test
 11598, For Honor® - Starter Edition
 11599, For Honor® - Starter Edition
 11600, For Honor® - Starter Edition
@@ -4981,7 +4639,6 @@
 11633, Far Cry® 5 - Season Pass
 11634, Tom Clancy’s Ghost Recon® Wildlands Year 2 Pass
 11635, Tom Clancy’s Ghost Recon® Wildlands Year 2 Pass
-11636, Trials World Tour - Internal Early Access
 11637, Far Cry® 5
 11639, Far Cry® 5 - Season Pass
 11640, Far Cry® 5 - Season Pass
@@ -4996,7 +4653,6 @@
 11649, Far Cry® 5 – Deluxe Edition
 11650, Far Cry® 5
 11652, SKA Test Package - Dummy Product
-11653, INTERNAL DEV/QC - Far Cry 5 - Binary Entitlement
 11654, Far Cry® 5 – American Muscle Pack
 11655, Far Cry® 5
 11656, Far Cry® 5
@@ -5007,9 +4663,6 @@
 11661, SKA Test Package - Dummy Product
 11662, The Settlers - History Edition
 11663, Assassin's Creed® Origins
-11664, The Crew 2 - Internal/QC Package – WW SKU
-11665, The Crew 2 - Internal/QC Package – RU SKU
-11666, The Crew 2 - Internal/QC Package – Disc SKU
 11667, Ghost Recon Wildlands - Free Weekend
 11668, Ghost Recon Wildlands - Free Weekend
 11669, Avatar - Test Package
@@ -5050,11 +4703,6 @@
 11704, Assassin's Creed Syndicate - Gold Edition
 11705, Assassin's Creed Syndicate Season Pass
 11706, Far Cry® 5
-11712, INTERNAL QC/DEV - Rayman 3 Hoodlum Havoc [UPLAY PC]
-11713, Internal QC/DEV - Ghost Recon Future Soldier [UPLAY PC]
-11714, INTERNAL QC/DEV - Ghost Recon Future Soldier Deluxe Edition [UPLAY PC]
-11715, INTERNAL QC/DEV - Ghost Recon Future Soldier - WW - Digital - Uplay - Season Pass
-11718, Internal QC/Dev - Far Cry 3 JPN
 11719, Far Cry® 5
 11720, Eagle Flight Arcade
 11721, The Crew 2
@@ -5075,7 +4723,6 @@
 11740, For Honor - Free Weekend
 11741, For Honor - Free Weekend
 11742, For Honor - Free Weekend
-11743, Internal QC/Dev - Far Cry 3 Deluxe Edition
 11744, Tom Clancy's Rainbow Six® Siege - Year 3 Pass
 11745, Tom Clancy’s Ghost Recon® Wildlands Year 2 Pass
 11746, Assassin's Creed® Origins - Season Pass
@@ -5195,7 +4842,6 @@
 11860, Assassin's Creed® Odyssey - Season Pass
 11861, Assassin's Creed® Odyssey - Season Pass
 11862, Assassin's Creed® Odyssey
-11863, The Crew 2 - PTS
 11864, Assassin's Creed® Odyssey - Season Pass
 11865, Assassin's Creed® Odyssey
 11866, Assassin's Creed® Odyssey - Deluxe Edition
@@ -5205,10 +4851,6 @@
 11870, Assassin's Creed® Odyssey
 11871, Assassin's Creed® Odyssey - Season Pass
 11872, Assassin's Creed® Odyssey
-11873, The Crew 2 - PTS
-11874, The Crew 2 - PTS
-11875, The Crew 2 - PTS
-11876, The Crew 2 - PTS
 11877, Assassin's Creed® Odyssey
 11878, Assassin's Creed® Odyssey
 11879, Assassin's Creed® Odyssey
@@ -5232,9 +4874,6 @@
 11897, Assassin's Creed® Odyssey - Gold Edition
 11898, Assassin's Creed® Odyssey - Ultimate Edition
 11899, Roller Champions
-11900, The Crew 2 - Closed Beta
-11901, The Crew 2 - Open Beta
-11902, The Crew 2 - Open Beta
 11906, Space Junkies - Closed Alpha
 11907, Space Junkies - Closed Alpha
 11908, The Division® 2
@@ -5243,9 +4882,7 @@
 11912, The Division® 2 - Ultimate Edition
 11913, The Division® 2 - Season Pass
 11914, The Division® 2 - The Capitol Defender Pack
-11915, MSV Test package - The Crew 2 - Closed Beta
 11916, Tom Clancy's Rainbow Six® Siege - Year 3 Pass
-11919, The Crew 2 - Closed Beta
 11920, Fossil Hunters
 11921, Assassin's Creed® Dynasty - Athenian Pack
 11922, The Division® 2 - The Capitol Defender Pack
@@ -5274,11 +4911,8 @@
 11949, Far Cry 5 - Press Demo
 11950, Far Cry 5 - Press Demo
 11951, Eagle Flight Arcade
-11952, For Honor - Closed Beta
-11953, For Honor - Closed Beta
 11955, For Honor Starter Edition
 11956, For Honor Starter Edition
-11958, The Crew 2 - Closed Beta - PR
 11959, Eagle Flight [ARCADE]
 11960, Tom Clancy's The Division - Season Pass
 11961, Assassin's Creed® Odyssey
@@ -5294,20 +4928,15 @@
 11972, For Honor Starter Edition
 11973, Ubisoft Saguenay - Game Room
 11975, Anno 1800
-11979, Space Junkies® - Closed BETA
-11980, Space Junkies® - Closed BETA
 11981, Transference
 11982, The Crew® 2 - Gold Edition
-11984, The Crew 2 - Open Beta
 11985, Dummy DLC
 11986, Dummy Bonus DLC
 11989, For Honor - VMC
-11990, For Honor PTS/TTS Starter Edition
 11991, The Crew - Calling All Units (DLC)
 11992, Rayman 2 The Great Escape
 11993, Far Cry® 5 - Lost on Mars
 11994, The Crew Season Pass
-11995, The Crew 2 - Open Beta
 11996, The Crew® 2
 11997, The Crew® 2
 11998, The Crew® 2
@@ -5318,7 +4947,6 @@
 12003, The Crew® 2
 12004, The Crew 2
 12005, For Honor Technical Test - Breach - 5th July
-12006, Internal Dev / QC - For Honor Technical Test - Breach - 5th July
 12007, The Crew® 2
 12008, The Crew® 2 - Deluxe Edition
 12009, The Crew® 2 - Gold Edition
@@ -5345,7 +4973,6 @@
 12035, Trials World Tour - VMC
 12038, The Crew 2 - Technical Test
 12040, Trials World Tour - VMC
-12041, Trials World Tour - Internal/QC Package
 12042, Trials Fusion
 12043, Star Trek Bridge Crew - The Next Generation
 12044, Star Trek Bridge Crew - The Next Generation
@@ -5360,7 +4987,6 @@
 12053, Star Trek Bridge Crew + The Next Generation DLC
 12054, Star Trek Bridge Crew + The Next Generation DLC
 12055, Far Cry® 5 – Gold Edition
-12056, Steep - Japan_Grind/Internal TTS
 12057, Steep - Japan_Grind TTS
 12058, Trials World Tour - VMC
 12059, The Division 2 - PreOrder Bonus
@@ -5384,7 +5010,6 @@
 12077, The Division® 2 - Deluxe Pack
 12078, The Division® 2 - Elite Agent Pack
 12079, Tom Clancy's The Division® 2 - Early Access Private Beta
-12080, The Division® 2 - Closed BETA
 12081, The Division® 2
 12082, The Division® 2
 12083, The Division® 2 - Season Pass Year 1
@@ -5460,13 +5085,11 @@
 12155, Anno® 1800 - Der Anarchist DLC
 12156, Anno® 1800 - Der Anarchist DLC
 12157, Anno® 1800 - Der Anarchist DLC
-12158, INTERNAL QC/DEV - For Honor Starter Pack - CN/RUS
 12159, Assassin's Creed® Odyssey - Omega Pack
 12160, Assassin's Creed® Odyssey - Medusa Edition
 12161, For Honor Starter Edition
 12162, Eagle Flight Arcade
 12163, For Honor Starter Edition
-12164, INTERNAL QC/DEV - For Honor Starter Pack - CN only
 12165, Anno 1800 - Language AddOn - English
 12166, Anno 1800 - Language AddOn - French
 12167, Anno 1800 - Language AddOn - Italian
@@ -5541,7 +5164,6 @@
 12266, Trials® Rising - Season Pass
 12267, Trials® Rising - Season Pass
 12268, Tom Clancy's Rainbow Six® Siege - 600 Credits Pack
-12269, Internal QC/Dev - RSCN
 12270, Trials® Rising
 12271, Trials® Rising - Gold Edition
 12272, Trials® Rising - Expansion Pass
@@ -5609,15 +5231,11 @@
 12349, The Settlers 1
 12350, Transference
 12351, Anno 1800
-12353, Trials World Tour - TT (Dev/QC)
 12354, Trials® Rising - Language Pack 4
 12355, Trials® Rising - Language Pack 5
-12358, Trials Rising - Closed Beta
-12359, Trials Rising - Closed Beta
 12360, For Honor - Bundle - WW - Digital - Steam - Starter Edition Giveaway
 12361, For Honor - Bundle - RUS/CN - Digital - Steam - Starter Edition
 12362, For Honor - VMC
-12363, For Honor - VMC 62 EU - Participants August 27th - Internal
 12364, Tom Clancy's Rainbow Six® Siege - Advanced Edition
 12365, Tom Clancy's Rainbow Six® Siege: Pro League Yin Set
 12366, Tom Clancy's Rainbow Six® Siege: Pro League Dokkaebi Set
@@ -5634,7 +5252,6 @@
 12378, Anno 2205 - Season Pass
 12379, Assassin's Creed Dynasty
 12380, Assassin's Creed Odyssey - Language Pack 1 [EFIGS-DUT-CZE-POL]
-12381, Assassin's Creed Odyssey - Internal/QC Package - Language Pack 1
 12382, The Ubisoft Playlist - Splinter Cell
 12383, Anno® 1800 - Language Pack 4
 12384, Anno® 1800 - Language Pack 5
@@ -5658,9 +5275,6 @@
 12402, Assassin's Creed® Odyssey - Language Pack 4
 12403, Assassin's Creed® Odyssey - Language Pack 5
 12404, For Honor - VMC
-12405, For Honor - VMC - August 30th - Internal
-12406, Space Junkies - Closed Beta 2
-12407, Space Junkies - Closed Beta 2
 12408, Assassin's Creed® Odyssey - The Secrets of Greece
 12409, Assassin's Creed® Odyssey - The Secrets of Greece
 12410, Assassin's Creed® Odyssey - Bloodline of the Creed DLCs tracker
@@ -5688,11 +5302,9 @@
 12432, For Honor - Open Test
 12433, For Honor - Open Test
 12434, Assassin's Creed® Odyssey
-12435, Transference - Internal/QC [Steam]
 12436, Tom Clancy’s Ghost Recon® Wildlands Year 2 Pass
 12438, Tom Clancy's The Division
 12439, Tom Clancy's The Division
-12440, Trials Rising - Early Access Closed Beta
 12441, For Honor - Open Test
 12442, Ghost Recon® Wildlands - Gold Edition Year 2
 12443, Ghost Recon® Wildlands - Ultimate Edition Year 2
@@ -5716,23 +5328,12 @@
 12461, Assassin's Creed Odyssey - Helix Credits Medium Pack
 12462, Assassin's Creed Odyssey - Helix Credits Large Pack
 12463, Assassin's Creed Odyssey - Helix Credits Extra Large Pack
-12464, Internal DEV/QC - Assassin's Creed Odyssey - Expansion Pass
-12465, Internal DEV/QC - Assassin's Creed Odyssey - Blood of the Creed
-12466, Internal DEV/QC - Assassin's Creed Odyssey - Secrets of Atlantis
 12468, Tom Clancy’s The Division™ Parade Pack
 12469, Ghost Recon® Wildlands - Gold Edition Year 2
 12470, Ghost Recon® Wildlands - Gold Edition Year 2
 12471, Ghost Recon® Wildlands - Ultimate Edition Year 2
 12472, Ghost Recon® Wildlands - Ultimate Edition Year 2
-12476, Internal - Assassin's Creed Black Flag - Kraken Pack
 12477, Test GRW Referral Program
-12478, Assassin's Creed Odyssey - Internal/QC Package - Language Pack 2
-12479, Assassin's Creed Odyssey - Internal/QC Package - Language Pack 3
-12480, Assassin's Creed Odyssey - Internal/QC - Game Activation [STEAM]
-12481, Assassin's Creed Odyssey - Internal/QC - Steam Language Pack 2+3
-12482, Assassin's Creed Odyssey - Internal/QC Bundle - Game + Language Packs 2&3
-12483, Assassin's Creed Odyssey - Internal/QC Bundle - Game + Language Pack 3
-12484, Assassin's Creed Odyssey - Internal/QC Bundle - Steam Game + Steam Language Pack 2&3
 12486, The Settlers 1 - History Edition
 12487, The Settlers 2 - History Edition
 12488, The Settlers 3 - History Edition
@@ -5752,7 +5353,6 @@
 12502, Anno® 1800 - Language Pack 4
 12503, Anno® 1800 - Language Pack 5
 12504, Anno® 1800 - Base Game
-12508, INTERNAL QC / TEST - For Honor Open Test
 12509, Assassin's Creed® Odyssey
 12510, Assassin's Creed® Odyssey
 12511, Assassin's Creed® Odyssey
@@ -5778,7 +5378,6 @@
 12537, Ghost Recon Wildlands - Free Weekend
 12538, Overclock Community Leader - CHINA
 12539, Anno 1800 - Playtest
-12540, INTERNAL DEV/QC - Ghost Recon Wildlands - Free Weekend [STEAM]
 12544, Assassin's Creed® Odyssey - Season Pass
 12545, Assassin's Creed® Odyssey - Season Pass
 12547, Assassin's Creed® Odyssey
@@ -5837,7 +5436,6 @@
 12642, Assassin's Creed® Odyssey
 12643, The Settlers - History Collection
 12644, The Settlers 1 - History Edition
-12671, INTERNAL DEV/QC - The Settlers - History Collection - WW Bundle [UPLAY PC]
 12672, Might & Magic Heroes VII - Trial by Fire Extension
 12673, Might & Magic Heroes VII - Trial by Fire Extension
 12674, Might & Magic Heroes VII - Trial by Fire Extension
@@ -5850,12 +5448,6 @@
 12683, The Division® 2
 12685, Assassin's Creed III Deluxe
 12686, The Crew 2 - TTS#7 - October 2018
-12694, Internal QC/Dev - Trials Rising [Uplay PC]
-12695, Internal QC/Dev - Trials Rising [Steam]
-12696, Internal QC/Dev - Trials Rising VMC
-12697, Internal QC/Dev - Trials Rising External Test
-12698, Internal QC/Dev - Trials Rising Internal Test (Early Access)
-12699, Internal QC/Dev - Assassin's Creed 3 Liberation Remaster
 12701, Far Cry® 5
 12702, The Ubisoft Playlist - Trials Fusion
 12703, The Ubisoft Playlist - Child of Light
@@ -5886,14 +5478,10 @@
 12733, For Honor : Marching Fire Expansion
 12735, Trials Rising - VMC Test - October 25th
 12736, The Ubisoft Playlist - For Honor - Marching Fire Expansion
-12737, Tom Clancy's Ghost Recon® Breakpoint Open Beta
-12738, INTERNAL DEV/QC - Ubisoft Game Beta [UPLAY PC]
 12740, Watch_Dogs
 12741, Steep™ - X-Games Gold Edition
 12742, Steep™ - X-Games DLC
 12743, Steep™ - X-Games Pass
-12744, The Crew 2 - Internal QC/DEV - Free Weekend
-12745, The Crew 2 - Internal QC/DEV - Free Weekend
 12746, Anno 1800
 12765, Steep™ - X-Games Gold Edition
 12766, Steep™ - X-Games Pass
@@ -5942,7 +5530,6 @@
 12840, The Division® 2
 12841, The Division® 2
 12842, Tom Clancy's Rainbow Six® Siege - Advanced Edition
-12843, Internal QC/DEV - Rainbow Six Siege Free Weekend
 12844, Steep™ - X-Games Pass
 12845, THE SETTLERS II - Veni, Vidi, Vici History Edition
 12846, THE SETTLERS III - History Edition
@@ -5982,7 +5569,6 @@
 12889, Rainbow Six Siege - WW - Digital - Uplay - Standard Edition
 12890, Assassin's Creed Odyssey - The Blade of Darius
 12891, Assassin's Creed Odyssey - The Blade of Darius
-12893, Tom Clancy's The Division 2 Beta - INTERNAL/QC Package
 12899, Assassin's Creed Brotherhood [STEAM]
 12901, Might & Magic Heroes VI Complete Edition
 12902, Rayman Origins
@@ -5992,9 +5578,6 @@
 12906, Tom Clancy's Rainbow Six® Siege: Year 4 Pass
 12908, 彩虹六号 围攻
 12909, Far Cry New Dawn - BETA
-12910, Internal DEV/QC - Assassin's Creed Odyssey - Expansion Pass
-12911, Internal DEV/QC - Assassin's Creed Odyssey - Blood of the Creed
-12912, Internal DEV/QC - Assassin's Creed Odyssey - Secrets of Atlantis
 12913, The Crew 2 - VMC - November 19th
 12927, Tom Clancy's Rainbow Six: Siege
 12928, Tom Clancy's Rainbow Six® Siege: Year 4 Pass
@@ -6040,7 +5623,6 @@
 12976, Tom Clancy's Rainbow Six® Siege: Pro League Alibi Set
 12977, Tom Clancy's Rainbow Six® Siege: Pro League All Sets
 12978, Tom Clancy's Rainbow Six® Siege: Year 4 Pass
-12981, Child of Light - Internal DEV/QC - All content
 12982, South Park™: The Fractured but Whole™
 12983, Far Cry® New Dawn - Standard Edition
 12984, Far Cry® New Dawn - Standard Edition
@@ -6074,7 +5656,6 @@
 13025, Shootmania Store Elite Demo
 13026, Rayman Legends Demo
 13027, Child of Light Demo
-13028, INTERNAL QC/TEST - Target
 13029, VMC#1 - Ubisoft Game
 13030, Tom Clancy's The Division 2 - Technical Alpha
 13031, Tom Clancy's The Division 2 - Technical Alpha
@@ -6086,7 +5667,6 @@
 13039, A K Gods - The Fate of Atlantis DLCs
 13040, A K Gods - Season Pass
 13041, Tom Clancy's Rainbow Six® Siege: Year 4 Pass
-13042, Internal QC/Dev - Blue
 13043, The Ubisoft Playlist - Anno 1701
 13044, The Ubisoft Playlist - Heroes of Might and Magic II Gold
 13045, The Ubisoft Playlist - Rainbow Six
@@ -6110,7 +5690,6 @@
 13065, Far Cry New Dawn - Language Pack 1 - EU
 13066, Far Cry New Dawn - Language Pack 2 - WW no CH/RU
 13067, Far Cry New Dawn - Language Pack 3 - EN/CH/RU
-13068, Internal QC/Dev - Far Cry New Dawn - WW [STEAM]
 13069, Far Cry New Dawn - Deluxe Pack
 13070, Far Cry New Dawn - Deluxe Pack
 13071, Far Cry New Dawn - Language Pack 1
@@ -6119,9 +5698,7 @@
 13074, Far Cry New Dawn - Language Pack 4
 13075, Far Cry New Dawn - Language Pack 5
 13076, Assassin's Creed IV Black Flag Deluxe [UPLAY]
-13077, Internal QC/Dev - Rainbow Six Vegas
 13081, Heroes of Might and Magic 5 - Gold Edition
-13084, DEV/QC - SilentKeyActivation Test Package - WW - ASUS
 13086, The Ubisoft Playlist - Rainbow Six Siege - Year 4
 13087, For Honor - Marching Fire Edition
 13088, For Honor - Marching Fire Edition
@@ -6146,7 +5723,6 @@
 13114, Anno 1404 - Gold Edition [GERMAN]
 13119, Far Cry® 4
 13120, Far Cry® 4
-13128, INTERNAL QC - For Honor - Language Pack 8 - EN / CN
 13129, For Honor - Language Pack 2
 13130, For Honor - Language Pack 3
 13131, For Honor - Base Game
@@ -6204,7 +5780,6 @@
 13186, THE SETTLERS VII - History Edition
 13187, The Division® 2
 13188, The Division® 2
-13190, Trials Rising - Open Beta
 13191, Ubisoft Community Leaders WW
 13192, Trials Rising - Acorn Tiny Pack
 13193, Trials Rising - Acorn BASE Pack
@@ -6217,7 +5792,6 @@
 13200, The Division 2 - Credits Medium Pack
 13201, The Division 2 - Credits Large Pack
 13202, The Division 2 - Credits Extra Large Pack
-13203, Trials Rising - Open Beta
 13204, Far Cry New Dawn - Language Pack 4 - ASIA (ENG-TCH)
 13206, Far Cry New Dawn - Language Pack 6
 13207, Far Cry New Dawn - Language Pack 7
@@ -6273,21 +5847,6 @@
 13264, Far Cry - Platinum Bundle
 13273, South Park - The Stick of Truth
 13274, South Park - The Stick of Truth
-13275, Subscription - Anno 1800 - Standard
-13276, Subscription - Assassin's Creed Origins - Gold
-13277, Subscription - Far Cry 5 - Gold
-13278, Subscription - For Honor - Complete
-13279, Subscription - Ghost Recon Wildlands - Gold
-13280, Subscription - Rainbow Six Siege - Standard
-13281, Subscription - The Crew 2 - Standard
-13282, Subscription - Tom Clancy's The Division - Gold
-13283, Subscription - Watch_Dogs 2 - Standard
-13284, Subscription - South Park: The Fractured But Whole - Gold
-13285, Subscription - Assassin's Creed Brotherhood - Standard
-13286, Subscription - Assassin's Creed Rogue - Standard
-13287, Subscription - Valiant Hearts
-13288, Subscription - World in Conflict - Complete
-13289, Subscription - Tom Clancy's EndWar
 13290, The Settlers 7 - History Edition
 13291, Anno 1800 - Deluxe Pack
 13292, Anno 1800 - Deluxe Pack
@@ -6297,38 +5856,17 @@
 13297, Far Cry New Dawn - Hurk Legacy Pack
 13298, Far Cry New Dawn - Knight Pack
 13299, Far Cry New Dawn - Retro Weapon Pack
-13300, INTERNAL QC / DEV - The Division 2 - Base Game
 13301, Silent Key Activation Test - Dummy Game - WW [EPIC]
 13303, The Settlers 6 - History Edition
 13304, The Settlers 5 - History Edition
 13305, Assassin's Creed Chronicles China
-13306, Trials Rising - Open Beta
 13307, For Honor - Early Access - S9TU1 - January 18 - External
-13308, For Honor - Early Access - S9TU1 - January 18 - Internal
-13310, Subscription - Assassin's Creed Black Flag - Standard
-13311, Subscription - Far Cry 3 - Standard
-13312, Subscription - Far Cry Primal - Standard
-13313, Subscription - Anno 2070 - Standard
 13314, Assassin's Creed Unity - Arno’s Fearless Outfit
-13315, Subscription - The Settlers 1 History Edition - Standard
-13316, Subscription - The Settlers 5 History Edition - Standard
 13317, Champions of Anteria
-13318, Subscription - Rainbow Six 3 - Gold
 13319, Tom Clancy’s Rainbow Six Lockdown
 13320, Brothers in Arms: Road to Hill 30
-13322, Subscription - Child of Light - Standard
-13323, Subscription - Might & Magic Heroes VI - Complete Edition
-13324, Subscription - Just Dance 2017 - Standard
-13325, Subscription - From Dust - Standard
-13326, Subscription - Trackmania 2 Stadium - Standard
-13327, Subscription - Trials of the Blood Dragon - Standard
-13328, Subscription - Driver Parallel Lines - Standard
-13329, Subscription - Assassin's Creed Origins Discovery - Standard
-13330, Subscription - Monopoly Plus - Standard
-13331, Subscription - Uno - Ultimate
 13332, Petz Horsez 2
 13333, Anno 1800 - Dairy Study 5 Beta
-13335, Anno 1800 - External Closed Beta - February 2019
 13336, PCMR 2 million giveaway
 13337, Splinter Cell Conviction Deluxe Edition
 13338, Tom Clancy's The Division® 2 - Early Access Private Beta
@@ -6336,13 +5874,9 @@
 13340, Tom Clancy's The Division 2 - Private Beta - BMT
 13341, Tom Clancy's The Division 2 - Early Access Private Beta - BMT
 13343, Ubisoft game
-13344, The Division 2 China Beta - Internal/QC Package
 13345, Assassin’s Creed® Chronicles: China
 13346, Splinter Cell Conviction
 13347, Assassin's Creed 3 Liberation Remaster - Extra Content Videos
-13351, Anno 1800 - External Closed Beta - February 2019
-13353, Anno 1800 - External Closed Beta - February 2019
-13354, Anno 1800 - External Closed Beta - February 2019
 13359, Space Junkies - Technical Test
 13360, Space Junkies - Technical Test
 13362, Tom Clancy's Rainbow Six® Siege - Base Game Year 4
@@ -6395,18 +5929,14 @@
 13412, Trials Rising - Acorn MEDIUM Pack
 13413, Trials Rising - Acorn LARGE Pack
 13414, Trials Rising - Acorn EXTRA LARGE Pack
-13416, Anno 1800 - External Closed Beta - February 2019
 13417, Far Cry 3 - Deluxe [STEAM]
 13420, Rainbow Six Siege - Free Weekend
 13421, Rainbow Six Siege - Free Weekend
 13424, Trials Rising - Season Pass
 13425, Anno 1800 - Season Pass
-13426, Internal QC/Dev - Assassin's Creed 3 Liberation Remaster
 13435, Prince of Persia : The Forgotten Sands - Deluxe Edition
 13436, Assassin's Creed® Odyssey
 13437, Assassin's Creed Odyssey - WW - Digital - Uplay - Base Game - Yeti
-13438, Internal QC/Dev - Tom Clancy's The Division - Preorderer
-13441, Internal QC / Dev - Watch_Dogs - Language Packs
 13445, The Division 2 - Welcome Pack
 13446, The Division 2 - VMC4
 13447, Ghost Recon Breakpoint - Beta
@@ -6504,7 +6034,6 @@
 13552, The Division® 2 - Ultimate Edition
 13553, The Division® 2 - Ultimate Edition
 13554, The Division® 2 - Ultimate Edition
-13556, Uplay Internal Feedback Survey
 13557, Far Cry® New Dawn - Complete Edition
 13558, Far Cry® New Dawn - Complete Edition
 13559, Far Cry® New Dawn - Complete Edition
@@ -6556,20 +6085,11 @@
 13608, Space Junkies®
 13609, Space Junkies®
 13610, Space Junkies®
-13611, Tom Clancy's The Division 2 - INTERNAL/QC Package - Season Pass
-13612, Tom Clancy's The Division 2 - INTERNAL/QC Package - Capitol Defender Pack
-13613, Tom Clancy's The Division 2 - INTERNAL/QC Package - Battlesworn Secret Service Pack
-13614, Tom Clancy's The Division 2 - INTERNAL/QC Package - First Responder Pack
-13615, Tom Clancy's The Division 2 - INTERNAL/QC Package - Elite Agent Pack
-13616, Tom Clancy's The Division 2 - INTERNAL/QC Package - Tommy the Teddy Bear
-13617, Tom Clancy's The Division 2 - INTERNAL/QC Package - Welcome Pack
-13620, Trials Rising - Open Beta
 13630, Far Cry® - New Dawn
 13633, Chinese Alienware Campaign Bundle
 13636, Anno 1800 - WW - Uplay
 13637, Rainbow Six Siege
 13638, Rainbow Six Siege
-13639, Tom Clancy's The Division 2 - INTERNAL/QC Package - Base Game
 13641, The Division 2 Beta
 13642, The Division 2 Beta
 13643, GAME_FROM_TEST_PACKAGE
@@ -6674,7 +6194,6 @@
 13778, Far Cry® 3
 13779, The Division® 2 - Base Game
 13780, Tom Clancy's Rainbow Six® Siege: Pro League Maverick Set
-13781, The Division® 2 - INTERNAL DEV/QC
 13782, Tom Clancy's Rainbow Six® Siege: Pro League Clash Set
 13783, Tom Clancy's Rainbow Six® Siege: Pro League Nomad Set
 13784, Tom Clancy's Rainbow Six® Siege: Pro League Kaid Set
@@ -6689,7 +6208,6 @@
 13794, The Division® 2
 13795, Trials Fusion™
 13798, Overclock External Partners
-13800, Anno 1800 Open Beta
 13802, The Division® 2 - Base Game
 13803, The Division® 2 - Season Pass Year 1
 13804, The Division® 2 - Base Game
@@ -6700,70 +6218,20 @@
 13809, The Division® 2 - Gold Edition
 13810, The Division® 2 - Ultimate Edition
 13811, The Division® 2 - Ultimate Edition
-13812, Internal QC / Dev - Tom Clancy's The Division 2 - WW
-13815, Space Junkies - Internal/QC - Oculus Beta
 13816, The Crew 2 - Technical Test
-13817, Space Junkies - Open Beta
-13818, Space Junkies - Open Beta
-13819, Anno 1800 - OPEN BETA QC [UPLAY PC]
-13820, Anno 1800 - OPEN BETA QC [STEAM]
 13822, Assassin's Creed® 3 + Assassin's Creed® Liberation Remastered
 13824, Chinese Cyber Cafe Campaign  - TCTD 2 Bundle
 13826, The Division 2
 13827, The Crew 2 - VMC - 21st March 2019
 13829, News Addon Push Test - FCND LP
 13830, Space Junkies - Vive keys test
-13831, Internal DEV/QC - Assassin's Creed Odyssey - Gods of Tartarus
-13832, Internal DEV/QC - Trials Rising - Expansion Pass
-13833, Internal DEV/QC - Trials Rising - Road 66
-13834, Internal DEV/QC - Trials Rising - South of the Equator
-13835, Internal DEV/QC - Trials Rising - Jungle Rider Pack
-13836, Internal DEV/QC - Trials Rising - Wild West Rider Pack
-13837, Internal DEV/QC - Trials Rising - Stunt Devil Pack
-13838, Internal DEV/QC - Trials Rising - Samurai Pack
 13839, The Ubisoft Playlist - The Crew 2 TTS - March 2019
-13840, Starlink - Internal/QC Package - Digital Standard Edition [UPLAY]
-13841, Starlink - Internal/QC Package - Pulse Starship Pack
-13842, Starlink - Internal/QC Package - Neptune Starship Pack
-13843, Starlink - Internal/QC Package - Lance Starship Pack
-13844, Starlink - Internal/QC Package - Nadir Starship Pack
-13845, Starlink - Internal/QC Package - Levi Pilot Pack
-13846, Starlink - Internal/QC Package - Kharl Pilot Pack
-13847, Starlink - Internal/QC Package - Razor Pilot Pack
-13848, Starlink - Internal/QC Package - Eli Pilot Pack
-13849, Starlink - Internal/QC Package - Base Game
-13850, Starlink - Internal/QC Package - Base Game
-13851, Starlink - Internal/QC Package - Shockwave & Gauss Gun Weapon Pack
-13852, Starlink - Internal/QC Package - Hailstorm & Meteor Weapon Pack
-13853, Starlink - Internal/QC Package - Digital Deluxe Edition [UPLAY]
-13854, Starlink - Internal/QC Package - Digital Standard Edition [STEAM]
-13855, Starlink - Internal/QC Package - Digital Deluxe Edition [STEAM] (NOT IN USE)
 13857, Assassin's Creed® Brotherhood
-13858, Roller - Internal Beta
-13862, Starlink - Internal/QC Package - Starship Pack 5 - Skullscream
-13863, Starlink - Internal/QC Package - Starship Pack 6 - Vigilance
-13864, Starlink - Internal/QC Package - Starship Pack 7 - Vantage
-13865, Starlink - Internal/QC Package - Pilot Pack 5 - Startail
-13866, Starlink - Internal/QC Package - Pilot Pack 6 - Haywire
-13867, Starlink - Internal/QC Package - Weapon Pack 5
-13868, Starlink - Internal/QC Package - Weapon Pack 6
-13869, Starlink - Internal/QC Package - Weapon Pack 7
-13870, Starlink - Internal/QC Package - Weapon Pack 8
-13871, Starlink - Internal/QC Bundle - Wave 2 Collection Pack
 13872, Star Player - The Division 2 - Ultimate Edition
-13873, Starlink - Internal/QC Package - Digital Deluxe Edition [UPLAY]
-13874, Starlink - Internal/QC Package - Digital Deluxe Edition [STEAM]
 13875, For Honor - early access - S10_TU1
-13876, For Honor - Internal/QC - Early access - S10_TU1
 13878, Trials of the Blood Dragon
-13879, DEV/QC - SilentKeyActivation Test Package - WW - ASUS
-13880, INTERNAL QC / DEV - Anno 1800 - Standard Edition [UPLAY]
-13881, INTERNAL QC / DEV - Anno 1800 - Deluxe Edition [UPLAY]
-13882, INTERNAL QC / DEV - Anno 1800 - Standard Edition [STEAM]
-13883, INTERNAL QC / DEV - Anno 1800 - Deluxe Edition [STEAM]
 13886, Anno 2205
 13887, Assassin's Creed
-13888, Starlink - Internal/QC Bundle - Wave 1 Collection Pack
 13889, The Crew® 2
 13890, The Settlers 1 - History Edition
 13891, THE SETTLERS II - Veni, Vidi, Vici History Edition
@@ -6951,7 +6419,6 @@
 14077, The Division® 2 - Gold Edition
 14078, The Division® 2 - Gold Edition
 14079, The Division® 2 - Gold Edition
-14081, Internal Use - Tom Clancy's The Division - Giveaway targetting
 14082, Anno 1800
 14083, Anno 1800 - Season Pass Player Assets
 14084, Anno 1800 - Season Pass Player Assets
@@ -6966,8 +6433,6 @@
 14095, Far Cry Silver Bundle – Far Cry 1, Far Cry 2, Far Cry 3 and Far Cry 4
 14096, Far Cry Gold Bundle – Far Cry 1, Far Cry 2, Far Cry 3, Far Cry 4 and Far Cry Primal
 14097, Far Cry - Platinum Bundle
-14098, Anno 1800 - OPEN BETA QC - Early Access Media
-14099, Anno 1800 - OPEN BETA
 14100, Anno 1800 PCGamer
 14103, Anno® 1800
 14104, Anno® 1800
@@ -6995,15 +6460,11 @@
 14132, Anno® 1800 - Deluxe Edition
 14133, Anno 1800 - Season Pass
 14134, Anno® 1800 - Der Anarchist DLC
-14135, Internal QC / Dev - Ghost Recon Wildlands - FW Test
-14137, Anno 1800 - OPEN BETA
-14138, Anno 1800 OPEN BETA
 14139, Rainbow Six Siege
 14146, Rainbow Six Siege - Season Pass - Year 4
 14148, The Crew 2 - Press Tour Summit - April 15th
 14149, Anno® 1800 - Base Game
 14151, The Division® 2 - AMD Arm Patch
-14153, Anno 1800 - OPEN BETA - Early Access Media
 14154, Trials Rising - Jungle Rider Pack
 14155, Trials Rising - Wild West Rider Pack
 14156, Starlink® - Digital Starter Kit
@@ -7037,16 +6498,13 @@
 14186, Starlink® - Collection Pack Wave 2
 14188, Anno® 1800
 14189, Anno® 1800 - Season Pass
-14190, Internal Dev/QC - Rainbow Six Siege - Pro League Set - All sets
 14191, Anno® 1800
 14192, Anno® 1800 - Deluxe Edition
-14193, Tom Clancy's The Division 2 - Internal/QC Package - PTS
 14194, Anno® 1800 - Deluxe Pack
 14195, Anno® 1800 - Season Pass
 14196, For Honor®
 14198, Starlink - Wave 1 Collection Pack
 14199, Starlink - Wave 2 Collection Pack
-14205, Tom Clancy's The Division 2 - PTS
 14206, Trials Rising - Route 66 DLC
 14207, Trials Rising - Route 66 DLC
 14208, Trials Rising - Route 66 DLC
@@ -7125,7 +6583,6 @@
 14291, Ghost Recon® Breakpoint - Gold Edition
 14292, Ghost Recon® Breakpoint - Ultimate Edition
 14293, Ghost Recon® Breakpoint - Ultimate Edition
-14295, Anno 1800 - OPEN BETA
 14299, Ghost Recon® Breakpoint
 14300, Ghost Recon® Breakpoint
 14301, Ghost Recon® Breakpoint
@@ -7208,15 +6665,9 @@
 14380, Rainbow Six Siege
 14382, Steep - Giveaway - May 2019 [UPLAY]
 14383, Steep - Giveaway - May 2019 [UPLAY]
-14384, Internal/QC Dev - Watch Dogs - Deluxe Edition
-14385, Internal/QC Dev - Watch Dogs - Deluxe Edition
-14386, Internal/QC Dev - Watch Dogs - Deluxe Edition
-14387, Internal/QC Dev - Watch Dogs - Deluxe Edition
 14388, nternal/QC Dev - Watch Dogs - Game of the Year Edition
-14389, Internal/QC Dev - Watch Dogs - Game of the Year Edition
 14390, Roller
 14391, Ghost Recon® Breakpoint - Vanitas Karambit ULC
-14395, Internal QC / Dev - Assassin's Creed
 14402, Anno 1800 - WW - Digital - Uplay - Playtest
 14419, Watch_Dogs
 14420, Prince of Persia: The Forgotten Sands
@@ -7229,9 +6680,7 @@
 14456, Ghost Recon® Breakpoint - Gold Edition
 14457, Ghost Recon® Breakpoint - Ultimate Edition
 14459, Ghost Recon Breakpoint - Technical Test 1 - May 2019
-14460, Internal QC / Dev - Ghost Recon Breakpoint - Technical Test 1 - May 2019
 14461, Anno 2070 Complete Edition
-14463, Internal QC / Dev - Games List Testing
 14464, Ubisoft Games
 14468, Watch Dogs Legion - Golden King Pack
 14469, Watch Dogs Legion - Emerald Guard Mask
@@ -7372,7 +6821,6 @@
 14612, Anno 2205 Language Pack Polish
 14613, Anno 2205 Language Pack Russian
 14614, Rollerball VMC 2
-14615, Rollerball VMC 2 - INTERNAL
 14618, Ghost Recon Breakpoint - Beta [Uplay PC]
 14619, Rainbow Six Siege - Free Weekend
 14620, Rainbow Six Siege - Free Weekend
@@ -7398,25 +6846,13 @@
 14646, Rainbow Six Vegas 2
 14647, Assassin's Creed IV Black Flag Season Pass
 14649, watch_dogs
-14650, Subscription - Anno 1503 - Gold Edition
-14651, Subscription - Anno 1602
-14652, Subscription - Anno 1701
 14653, Anno® 1800 - Complete Edition
-14655, Subscription - Assassin's Creed Brotherhood - Deluxe Edition
-14656, Subscription - Assassin's Creed Chronicles China
-14657, Subscription - Assassin's Creed Chronicles Russia
-14658, Subscription - Assassin's Creed Chronicles India
-14659, Subscription - Assassin's Creed Chronicles Bundle
 14660, Subscriptions - Assassin's Creed Freedom Cry
 14661, Assassin's Creed® Odyssey - Ultimate Edition
-14662, Subscription - Assassin's Creed Revelations
 14663, Assassin’s Creed® Rogue : Deluxe Edition
 14664, Assassin's Creed Syndicate - Gold Edition
 14665, Assassin's Creed® Unity
-14666, Subscription - Beyond Good and Evil
-14667, Subscription - Brothers in Arms: Earned In Blood
 14668, Brothers in Arms: Hell's Highway
-14669, Subscription - Cold Fear
 14670, Far Cry
 14671, Far Cry 2 - Fortune's Edition
 14672, Far Cry Blood Dragon
@@ -7430,7 +6866,6 @@
 14681, Imperialism
 14682, Imperialism 2
 14683, Lock On
-14686, Subscription - Might and Magic VIII: Day of the Destroyer
 14687, Might & Magic X Legacy Deluxe
 14688, Heroes of Might and Magic III Complete Edition
 14689, Heroes of Might and Magic 5
@@ -7446,13 +6881,8 @@
 14699, Prince of Persia: The Two Thrones
 14700, Prince of Persia - Warrior Within
 14702, Rayman 2 The Great Escape
-14703, INTERNAL QC/DEV - Rayman 3 Hoodlum Havoc [UPLAY PC]
 14704, Rayman Forever
-14705, Subscription - Rayman Legends
-14706, Subscription - Rayman Raving Rabbids
 14707, Silent Hunter 2
-14708, Subscription - Silent Hunter 3
-14709, Subscription - Silent Hunter 5
 14710, South Park™: The Fractured but Whole™
 14711, Starlink® - Digital Deluxe Edition
 14712, The Crew Ultimate
@@ -7462,17 +6892,13 @@
 14716, The Settlers 4 - History Edition
 14717, The Settlers 6 - History Edition
 14718, The Settlers 7 - History Edition
-14719, Subscription - Ghost Recon
 14720, Ghost Recon® Breakpoint - Ultimate Edition
 14721, Ghost Recon Future Soldier Deluxe Edition
 14722, Ghost Recon® Wildlands - Ultimate Edition Year 2
-14723, Subscription - Rainbow Six
 14724, Tom Clancy's Rainbow Six® Siege - Uplay+ Edition Year 4
 14725, Rainbow Six Vegas 2
 14726, Splinter Cell Blacklist Deluxe Edition
 14727, The Ubisoft Playlist - Splinter Cell Chaos Theory
-14728, Subscription - Splinter Cell Conviction Deluxe
-14729, Subscription - Splinter Cell Double Agent
 14730, The Division® 2 - Ultimate Edition
 14731, Transference
 14732, Trials Evolution - Gold Edition
@@ -7544,14 +6970,12 @@
 14810, Anno® 1800 - Gold Edition
 14811, Watch Dogs 2 - Definitive Extra Content PAck
 14812, Watch Dogs 2 - Definitive Edition
-14816, Internal QC / Dev - Splinter Cell Blacklist Deluxe
 14817, Assassin's Creed® Odyssey - Fields of Elysium DLC
 14818, Assassin's Creed® Odyssey - Fields of Elysium DLC
 14820, Tom Clancy's Rainbow Six® Siege - 600 Credits Pack
 14821, Tom Clancy's Rainbow Six® Siege - Ultimate Edition Year 4
 14822, Tom Clancy's Rainbow Six® Siege - Year 4 Season Pass
 14824, Test Game
-14825, Test Package (Test Game) - Internal [Uplay]
 14827, Ghost Recon® Breakpoint - Off-Road Pack
 14828, The Division® 2
 14829, The Division® 2
@@ -7577,12 +7001,7 @@
 14850, Anno® 1800 - The Passage DLC
 14851, Assassin's Creed® Odyssey
 14860, DLC Test Package
-14861, Internal DEV/QC - Tom Clancy's The Division 2 - China - Base Game
-14862, Space Junkies - Internal/QC Package - Flat Game
-14863, Ghost Recon Breakpoint - Internal/QC Package - Base Credit Pack
-14864, Ghost Recon Breakpoint - Internal/QC Package - Fake DLC
 14866, Rainbow Six Siege - Neowiz PC Bang Entitlement
-14870, Internal QC/Dev - Assassin's Creed II - RUS Build Version
 14871, The Crew 2 - Deluxe Edition
 14872, Ghost Recon® Breakpoint - Sacred Land Pack
 14874, Tom Clancy's Rainbow Six® Siege: Year 4 Pass
@@ -7593,25 +7012,18 @@
 14879, Tom Clancy's Rainbow Six® Siege - Gold Edition Year 4
 14880, Rainbow Six Siege - Neowiz PC Bang Entitlement
 14881, Rainbow Six Siege - Neowiz PC Bang Entitlement
-14882, Subscription - Anno 2070 - Standard Edition
 14883, Assassin's Creed® 3 + Assassin's Creed® Liberation Remastered
 14884, Assassin's Creed® Odyssey - Deluxe Pack
 14885, Assassin's Creed® Origins - Season Pass
 14886, Assassin's Creed® Origins - Deluxe Edition
 14887, For Honor - EARLY ACCESS - S11_TU1
 14888, For Honor - EARLY ACCESS - S11_TU1
-14889, Internal Dev/QC - Ghost Recon Breakpoint - Fake DLC
-14890, Subscription - Assassin's Creed Black Flag - Deluxe
-14891, Subscription - Assassin's Creed Black Flag - Deluxe
 14893, Assassin's Creed 2
-14895, Subscription - Assassin's Creed Rogue
 14896, Assassin's Creed Syndicate - Season Pass
 14897, Assassin's Creed Syndicate - Gold Edition
 14898, Assassin's Creed Syndicate - Gold Edition - RUS
 14899, Assassin's Creed Syndicate - Gold Edition - RUS
 14900, Assassin's Creed Syndicate - Gold Edition - ASIA
-14901, Subscription - Assassin's Creed Syndicate - Gold Edition - ASIA
-14902, Subscription - Assassin’s Creed Unity - Standard Edition
 14903, Might & Magic Heroes VI
 14904, Far Cry® 5 - Season Pass
 14906, The Crew Ultimate
@@ -7621,14 +7033,12 @@
 14911, Anno® 1800 - Botanica DLC
 14912, Anno® 1800 - The Passage DLC
 14917, Anno® 1800 - Gold Edition
-14918, Subscription - Trials Fusion - Awesome Level Max Edition
 14919, Assassin's Creed 2 - Deluxe Edition
 14921, Assassin's Creed 2 - Deluxe Edition
 14922, Assassin's Creed 2 - Standard
 14923, Splinter Cell Blacklist - Deluxe Edition
 14924, Tom Clancy's Ghost Recon® Breakpoint
 14926, Splinter Cell Blacklist - Deluxe Edition
-14927, Space Junkies - Open Beta
 14928, For Honor - Marching Fire Edition
 14933, Assassin's Creed Black Flag - Gold Edition
 14935, Trials Rising [DEMO] - External Test - July 2019
@@ -7669,7 +7079,6 @@
 14989, Anno® 1800 - The Passage DLC
 14991, Speed Busters: American Highways
 14992, Anno® 1800 - Gold Edition
-14993, Subscription - Tom Clancy's The Division - Gold
 14994, Anno 1800 - Sunken Treasures DLC
 14995, Anno 1800 - Sunken Treasures DLC
 14996, Anno 1800 - Sunken Treasures DLC
@@ -7678,7 +7087,6 @@
 14999, Anno 1800 - Sunken Treasures DLC
 15000, Anno 1800 - Sunken Treasures DLC
 15001, Trackmania Turbo
-15002, Subscription - Child of Light - Standard
 15004, Might & Magic Heroes VII - Trial by Fire
 15005, The Division® 2 - Ultimate Edition
 15006, Watch_Dogs 2 - Gold Edition
@@ -7787,14 +7195,9 @@
 15113, The Settlers® - Gold Edition
 15114, The Settlers® - Expansion Pass
 15115, The Settlers® - Base Game
-15116, Trials Rising [DEMO] - Internal/QC Package
 15117, The Settlers®
 15118, The Settlers® - Expansion Pass
 15119, The Settlers® - Gold Edition
-15120, Ghost Recon Breakpoint - Internal/QC Package - Pre-order Rewards Test
-15121, Rainbow Six Siege - Internal/QC Package - Ghost Recon Breakpoint Reward
-15122, Tom Clancy's The Division 2 - Internal/QC Package - Ghost Recon Breakpoint
-15124, Internal Dev/QC - Example Game - State Tests
 15125, For Honor
 15126, For Honor - Standard Edition
 15127, For Honor
@@ -7803,7 +7206,6 @@
 15130, For Honor
 15131, For Honor - Standard Edition
 15132, For Honor - Standard Edition
-15133, Internal QC/Dev - QA Live Test Bundle
 15134, The Ubisoft Playlist - Rabbids Coding
 15135, Might & Magic Heroes VI Complete Edition
 15136, Might & Magic Heroes VII - PC Digital Deluxe
@@ -7819,7 +7221,6 @@
 15146, Ghost Recon® Breakpoint - PreOrder Bonus
 15148, Assassin's Creed® Odyssey
 15149, Assassin's Creed® Odyssey - Language Pack 6
-15150, Assassin's Creed Odyssey - Internal/QC Package - Free DLC 2-1 Giveaway
 15151, Tom Clancy's Rainbow Six® Siege - Base Game Year 4
 15152, Tom Clancy's Rainbow Six® Siege - Base Game Year 4
 15153, Tom Clancy's Rainbow Six® Siege: Year 4 Pass
@@ -7934,7 +7335,6 @@
 15268, Ghost Recon® Breakpoint
 15270, Tom Clancy's Rainbow Six® Siege - Deluxe Edition Year 4
 15271, Rainbow Siw Siege - Year 4 Pass
-15272, Ghost Recon Breakpoint - Closed Beta [DO NOT USE]
 15273, Ghost Recon Breakpoint - Beta [Uplay PC] - VMC#8
 15274, Ghost Recon® Breakpoint - BETA
 15275, Rainbow Six Siege - Free Week
@@ -7977,7 +7377,6 @@
 15312, Trials® Rising - Language Pack 6
 15313, Trials® Rising - Base Game
 15314, The Ubisoft Playlist - Assassin's Creed Brotherhood - Deluxe Edition
-15315, Subscription - Brothers in Arms: Earned In Blood
 15316, Far Cry 3 Deluxe
 15317, Trials® Rising
 15318, Trials® Rising
@@ -7985,10 +7384,8 @@
 15320, POD Gold
 15321, Trials® Rising
 15322, Rayman 2 The Great Escape
-15323, Subscription - Rayman Legends
 15324, Prince of Persia : The Forgotten Sands - Deluxe Edition
 15325, Silent Hunter 2
-15326, Subscription - Tom Clancy's EndWar
 15327, Rainbow Six Vegas
 15328, Warlords Battlecry
 15329, Trials® Rising
@@ -8110,7 +7507,6 @@
 15453, Assassin's Creed® Origins - The Curse of Pharaos DLC
 15454, Assassin's Creed® Origins - The Curse of Pharaos DLC
 15455, Assassin's Creed® Origins - The Curse of Pharaos DLC
-15456, Internal Dev/QC - Pioneer
 15457, Assassin's Creed Odyssey - Discovery Tour
 15458, Flashback
 15459, From Dust - Standard
@@ -8184,12 +7580,10 @@
 15542, Far Cry 2 - Fortune's Edition
 15543, Prince of Persia
 15544, Heroes of Might and Magic 5
-15545, Subscription - Rayman Raving Rabbids
 15546, Ghost Recon Future Soldier Deluxe Edition
 15547, Rainbow Six Vegas 2
 15548, Splinter Cell Blacklist Deluxe Edition
 15549, Prince of Persia: The Two Thrones
-15550, Subscription - Splinter Cell Double Agent
 15551, Warlord Battlecry 2
 15553, Assassin's Creed® Odyssey - Discovery Tour: Ancient Greece
 15554, Ghost Recon® Breakpoint - BETA
@@ -8222,10 +7616,6 @@
 15590, Ghost Recon® Breakpoint
 15591, Anno 1800
 15592, Ghost Recon Breakpoint - Beta [Uplay PC] - VMC PVP
-15596, Internal QC/Dev - GRBP - Beta Test
-15598, Ghost Recon Breakpoint - Open BETA
-15599, Ghost Recon Breakpoint - Open BETA
-15600, INTERNAL TEST / QC - Subscription - Ghost Recon Breakpoint
 15603, Anno 1800
 15604, Ghost Recon® Breakpoint - Gold Upgrade Pack
 15605, Ghost Recon® Breakpoint - Ultimate Upgrade Pack
@@ -8235,7 +7625,6 @@
 15612, Ghost Recon Breakpoint - Samsung Emblem
 15613, Ghost Recon® Breakpoint - Base Game
 15614, Ghost Recon® Breakpoint - Ultimate Edition
-15615, Ghost Recon Breakpoint - Open BETA
 15616, South Park® - The Stick of Truth
 15617, South Park® - The Stick of Truth
 15618, South Park® - The Stick of Truth
@@ -8243,11 +7632,9 @@
 15620, South Park™: The Fractured but Whole™ - Season Pass
 15621, South Park™: The Fractured but Whole™ - Gold Edition
 15627, Ghost Recon® Breakpoint
-15629, Project Oikos - Internal Launch
 15630, Oikos
 15632, Ghost Recon Breakpoint - Beta [Uplay PC]
 15633, Pioneer - VMC
-15634, Ghost Recon Breakpoint - Open BETA
 15635, Might & Magic Heroes VII
 15636, Tom Clancy's The Division 2 - PPS
 15638, Tom Clancy's Ghost Recon Breakpoint
@@ -8527,7 +7914,6 @@
 15976, ANNO 2070 Deep Ocean
 15977, Heartland
 15978, Ghost Recon® Breakpoint
-15979, INTERNAL DEV/QC - Anno 1800 - Playtests
 15980, Watch_Dogs - Complete Edition
 15981, South Park®: The Stick of Truth - Standard Edition
 15982, South Park®: The Stick of Truth - Standard Edition
@@ -8563,8 +7949,6 @@
 16022, Rainbow Six Siege - Free Weekend
 16023, Rainbow Six Siege - Free Weekend
 16024, Rainbow Six Siege - Free Weekend
-16025, Internal Dev/QC - Gods & Monsters - Pre-Order Content
-16026, Internal Dev/QC - Gods & Monsters - Deluxe Content
 16029, AGOS: A Game of Space
 16030, AGOS: A Game of Space
 16032, AGOS: A Game Of Space
@@ -8580,11 +7964,7 @@
 16042, Steep™ - 90's DLC
 16043, Steep™ - Rocket Wings DLC
 16044, Watch Dogs
-16045, Internal DEV/QC - AGOS - Base Game [UPLAY PC]
-16046, Internal DEV/QC - AGOS - Base Game [STEAM]
-16047, Internal DEV/QC - AGOS - Base Game [OCULUS]
 16048, Child of Light
-16049, INTERNAL DEV/QC - Anno 1800 - WW - Digital - Uplay - CDLC01
 16050, Ghost Recon Breakpoint
 16051, Assassin's Creed IV Black Flag
 16055, Tom Clancy's The Division 2 - Welcome Pack 2
@@ -8595,10 +7975,6 @@
 16070, Steep™ - X-Games Pass
 16071, Steep™ - Season Pass
 16074, Anno 1800 - TRIAL
-16079, Just Dance 2017 - 24 hours Subscription
-16080, Just Dance 2017 - 24 hours Subscription
-16081, Just Dance 2017 - 24 hours Subscription
-16082, Just Dance 2017 - 24 hours Subscription
 16088, Steep Base pack
 16089, Steep Base pack
 16090, Steep Base pack
@@ -8681,16 +8057,10 @@
 16229, Steep™ - Road to the Olympics
 16230, Steep™ - Season Pass
 16232, Anno 1404 - History Edition
-16233, Internal Dev/QC - Anno 1404 - History Edition
 16234, Anno 1503 - History Edition
-16235, Internal Dev/QC - Anno 1503 - History Edition
 16236, Anno 1602 - History Edition
-16237, Internal Dev/QC - Anno 1602 - History Edition
 16238, Anno 1701 - History Edition
-16239, Internal Dev/QC - Anno 1701 - History Edition
 16240, Anno History
-16241, Subscription - Anno 2070 - Complete Edition
-16242, Subscription - Anno 2070 - Standard Edition
 16244, Tom Clancy's The Division 2 - Free Weekend
 16245, Trial bundle - Free Weekend - TEST
 16249, Ghost Recon Breakpoint
@@ -8703,17 +8073,12 @@
 16265, Might & Magic Chess Royale
 16266, Might & Magic Chess Royale
 16267, Might & Magic® - Chess Royale
-16268, Trackmania Next - Subscription - Standard - 1 Year
-16269, Trackmania Next - Subscription - Standard - 3 Years
-16273, Trackmania Next - Subscription - Club - 1 Year
-16274, Trackmania Next - Subscription - Club - 3 Years
 16275, Roller Champions - Pro Workshop 2
 16276, Roller Champions
 16279, Tom Clancy's Rainbow Six® Siege: Year 5 Pass
 16280, Tom Clancy's Rainbow Six® Siege: Year 5 Pass
 16281, Ubisoft Game
 16282, The Settlers 3 - History Edition
-16283, Subscription - Might & Magic - Chess Royale - Standard
 16284, Roller Champions
 16285, Rainbow Six Siege - Year 5 Pass
 16286, Roller Champions
@@ -8814,7 +8179,6 @@
 16383, UNO – Flip Theme Cards
 16384, The Ubisoft Playlist - Might & Magic Chess Royale
 16385, Might & Magic Heroes VI - Complete Edition
-16386, Internal Dev/QC - Brawlhalla
 16387, For Honor - Battle Pass - Y4S1
 16388, Tom Clancy's Rainbow Six® Siege - Deluxe Edition Year 5
 16391, The Division 2 PPS Preview
@@ -9059,7 +8423,6 @@
 16652, Rainbow Six Siege - Year 5 Pass
 16655, Oikos
 16656, Trackmania Alpha
-16657, INTERNAL DEV/QC - Trackmania Next - ALPHA [UPLAY PC]
 16659, Rainbow Six Siege - Ultimate Edition Y5
 16660, Tom Clancy's Rainbow Six® Siege: Year 5 Pass
 16661, Tom Clancy's Rainbow Six® Siege - Ultimate Edition Year 5
@@ -9085,7 +8448,6 @@
 16690, Assassin's Creed Syndicate
 16691, Assassin's Creed Syndicate
 16692, Assassin's Creed Syndicate
-16693, Internal Dev/QC - Assassin's Creed Odyssey - Free Weekend
 16694, For Honor
 16695, For Honor
 16696, Rainbow Six Siege - Year 5 Pass
@@ -9180,9 +8542,6 @@
 16811, UNO - Flip Cards
 16812, Sauerbraten
 16813, Sauerbraten
-16814, Internal Dev/QC - BattleCat [SECURED]
-16815, Internal Dev/QC - Ibex [SECURED]
-16816, Internal Dev/QC - Orwell - WATCH DOGS Legion
 16817, Anno 1800 - Season 2 Pass
 16818, [Technical Test]
 16819, Sauerbraten
@@ -9191,47 +8550,32 @@
 16834, For Honor
 16835, Anno 1800 – Twitch Drop – Billboard – Seat of Power 01
 16836, Anno 1800 - Twitch Drop – Billboard – Seat of Power 02
-16837, Assassin's Creed Syndicate - Internal QC/Dev - All DLC WW - Uplay
 16838, Settlers 8
 16839, Ghost Recon Breakpoint
 16840, Child of Light
 16841, Pioneer
 16842, Child of Light
 16845, Assassin's Creed IV Black Flag - Death Vessel Pack
-16846, Internal Dev/QC - Talisker [SECURED]
 16847, Assassin's Creed 2
 16850, The Crew 2
 16851, UPLAY WFH BUNDLE
-16852, Internal Dev/QC - Rainbow Six Siege [SECURED]
 16854, Anno 2205
-16855, Turing [SECURED]
 16857, Assassin's Creed Animus Bundle
-16858, Hyperscape [SECURED]
 16860, Silent Key Activation Test - Dummy Game - WW [Phoenix]
 16861, Steep
 16862, The Crew 2
 16864, Ghost Recon Breakpoint
-16865, Internal Dev/QC - Skull & Bones [SECURED]
 16866, Assassin's Creed 2
 16871, Trackmania Next
 16872, Trackmania Next
 16873, Trackmania Next
 16874, Trackmania Next
-16875, INTERNAL QC / DEV - Anno 1404 - History Edition [STEAM]
 16876, Anno 1800
-16877, Internal Dev/QC - Legacy Games for Remastering Team
-16878, Internal Dev/QC - Assassin's Creed Brotherhood (RUS)
-16879, Internal Dev/QC - Assassin's Creed Brotherhood Deluxe Edition (RUS)
-16880, Internal Dev/QC - Assassin's Creed Brotherhood - China
 16881, Taj - Back to the Origins Set
 16882, Taj - The Legacy Set
 16883, Taj - The Fantasy Set
 16884, Assassin's Creed 2
 16885, Tom Clancy's Rainbow Six® Siege - Gold Edition Year 5
-16886, Internal Dev/QC - Anno 1602 - History Edition [SECURED]
-16887, Internal Dev/QC - Anno 1503 - History Edition [SECURED]
-16888, Internal Dev/QC - Anno 1701 - History Edition [SECURED]
-16889, Internal Dev/QC - Anno 1404 - History Edition [SECURED]
 16890, Anno 1800
 16891, Anno® 1800
 16892, Anno® 1800
@@ -9265,12 +8609,9 @@
 16920, Assassin's Creed Valhalla - Ultimate Edition
 16921, Assassin's Creed Valhalla - Season Pass
 16923, Assassin's Creed Valhalla - Collector Edition
-16925, Internal QC/Dev - For Honor - Complete Bundle
-16926, Internal Dev/QC - Apex - TTS - Internal Playsessions - Guest
 16927, Monopoly Plus
 16928, The Division 2
 16929, The Division 2
-16930, Internal QC/DEV - Ghost Recon Breakpoint [SECURED]
 16933, The Division 2
 16934, Ubisoft Game 21
 16935, Might & Magic® - Chess Royale
@@ -9302,7 +8643,6 @@
 16968, Assassin's Creed Valhalla - The Way of Berseker
 16969, Assassin's Creed Valhalla - Season Pass
 16970, Assassin's Creed Valhalla
-16971, Trials Rising - Internal/QC Package - Base Game + All Languages
 16972, Assassin's Creed Valhalla
 16973, Assassin's Creed Valhalla
 16974, Assassin's Creed Valhalla
@@ -9311,8 +8651,6 @@
 16977, Assassin's Creed Valhalla
 16978, Assassin's Creed Valhalla - Gold Edition
 16979, Assassin's Creed Valhalla - Gold Edition
-16980, Internal DEV/QC - Trials Rising - Season Pass
-16981, INTERNAL DEV/QC - Subscription - Trials Rising - Gold Edition
 16982, Assassin's Creed Valhalla - Gold Edition
 16983, Assassin's Creed Valhalla - Gold Edition
 16984, Assassin's Creed Valhalla - Gold Edition
@@ -9326,7 +8664,6 @@
 16992, Assassin's Creed Valhalla - Gold Edition
 16993, Assassin's Creed Valhalla - Ultimate Edition
 16994, Assassin's Creed Valhalla - Ultimate Edition
-16999, Rainbow Six Siege PTS!
 17027, Trials Rising - Starter Pack 2
 17029, Anno History Edition Ornament
 17034, Assassin's Creed Origins
@@ -9335,14 +8672,9 @@
 17037, Assassin's Creed Odyssey - Discovery Tour
 17038, Assassin's Creed Odyssey - Discovery Tour
 17041, Anno Bundle History Edition Ornament
-17042, Anno 1602 History Edition Company Logo
-17043, Anno 1503 History Edition Company Logo
-17044, Anno 1701 History Edition Company Logo
-17045, Anno 1404 History Edition Company Logo
 17046, The Crew 2
 17047, Far Cry 5
 17048, Watch_Dogs Complete Edition
-17050, INTERNAL QC/DEV - INCURSION
 17051, Ubisoft Remote Event
 17054, Far Cry® 5
 17055, Far Cry® 5 - Gold Edition
@@ -9440,7 +8772,6 @@
 17181, Roller Champions
 17182, Roller Champions
 17183, Roller Champions
-17184, Internal Dev/QC - Ghost Recon Future Soldier Deluxe Edition
 17185, Rainbow Six Siege
 17186, Rainbow Six Siege
 17187, Rainbow Six Siege
@@ -9456,11 +8787,9 @@
 17198, Splinter Cell Blacklist Deluxe Edition
 17206, Pioneer
 17207, Ubisoft Game
-17208, Internal dev/QC - Scott Pilgrim vs the World: The Game
 17209, Trackmania Next
 17210, Trackmania Next
 17211, For Honor - Battle Pass Y4S1
-17212, Internal - Ubisoft Montreal - User Research Lab
 17213, For Honor - Battle Pass Y4S2
 17214, For Honor - Battle Pass Y4S2
 17215, For Honor - Battle Pass Y4S2
@@ -9527,7 +8856,6 @@
 17317, Anno 1800
 17319, Hyper Scape
 17324, Hyperscape
-17325, INTERNAL DEV/QC - Anno 1800  -  CDLC02
 17326, For Honor - Free Weekend
 17327, Anno History Edition Bundle Ornament
 17328, Anno History Edition Bundle Ornament
@@ -9576,7 +8904,6 @@
 17374, Assassin's Creed Valhalla - Season Pass
 17375, Ghost Recon Breakpoint
 17377, Watch Dogs Legion - Ultimate Edition
-17378, INTERNAL QC / DEV - CREST [SECURED]
 17379, Ghost Recon Breakpoint
 17380, Trials Rising - Starter Pack 1
 17381, Far Cry 6 - Season Pass
@@ -9661,7 +8988,6 @@
 17464, Watch_Dogs 2
 17465, Watch_Dogs 2
 17466, Child of Light
-17467, INTERNAL QC / DEV - Far Cry Tetra
 17468, For Honor
 17469, For Honor
 17470, For Honor
@@ -9682,57 +9008,38 @@
 17492, Assassin's Creed 2 - Deluxe Edition
 17493, Assassin's Creed® 3 + Assassin's Creed® Liberation Remastered
 17494, Assassin's Creed Black Flag - Gold Edition
-17495, Subscription - Assassin's Creed Brotherhood - Deluxe Edition
 17496, Subscriptions - Assassin's Creed Freedom Cry
 17497, Assassin's Creed® Odyssey - Ultimate Edition
-17498, Subscription - Assassin's Creed Origins - Gold
-17499, Subscription - Assassin's Creed Revelations
 17500, Assassin’s Creed® Rogue : Deluxe Edition
 17501, Assassin's Creed Syndicate - Gold Edition
 17502, Assassin's Creed® Unity
-17503, Subscription - Beyond Good and Evil
-17504, Subscription - Child of Light - Standard
 17505, Assassin's Creed Odyssey - Discovery Tour
 17506, Far Cry 2 - Fortune's Edition
 17507, Far Cry 3 - Deluxe Edition
 17508, Far Cry Blood Dragon
 17509, Far Cry 4 – Gold Edition
-17510, Subscription - Far Cry 5 - Gold
 17511, Far Cry® New Dawn - Deluxe Edition
 17512, Far Cry Primal - Apex Edition
-17514, Subscription - From Dust - Standard
 17515, I Am Alive
-17516, Subscription - Monopoly Plus - Standard
 17517, Prince of Persia : The Forgotten Sands - Deluxe Edition
-17518, Subscription - Rayman Legends
 17519, Rayman Origins
-17520, Subscription - South Park: The Fractured But Whole - Gold
 17521, South Park - The Stick of Truth
 17522, Starlink® - Digital Deluxe Edition
 17523, Steep
 17524, The Crew Ultimate
 17525, The Crew 2
-17526, Subscription - Tom Clancy's EndWar
-17527, Subscription - Ghost Recon
 17528, Ghost Recon® Breakpoint - Ultimate Edition
 17529, Ghost Recon Future Soldier Deluxe Edition
 17530, Ghost Recon® Wildlands - Ultimate Edition Year 2
-17531, Subscription - Rainbow Six
-17532, Subscription - Rainbow Six 3 - Gold
 17533, Tom Clancy’s Rainbow Six Lockdown
 17534, Tom Clancy's Rainbow Six® Siege - Uplay+ Edition Year 4
 17535, Rainbow Six Vegas 2
 17536, Splinter Cell
 17537, Splinter Cell Blacklist Deluxe Edition
 17538, The Ubisoft Playlist - Splinter Cell Chaos Theory
-17539, Subscription - Splinter Cell Conviction Deluxe
-17540, Subscription - Splinter Cell Double Agent
-17541, Subscription - Tom Clancy's The Division - Gold
 17542, The Division® 2 - Ultimate Edition
 17543, Trackmania Turbo
-17544, Subscription - Trials Fusion - Awesome Level Max Edition
 17545, Trials® Rising
-17546, Subscription - Uno - Ultimate
 17547, Watch_Dogs - Complete Edition
 17548, Watch_Dogs 2 - Deluxe Edition
 17553, Watch_Dogs Complete Edition
@@ -9748,7 +9055,6 @@
 17578, Tom Clancy's Rainbow Six® Siege - Deluxe Edition
 17579, Tom Clancy's Rainbow Six® Siege: Year 5 Pass
 17580, Assassin's Creed 2 - Deluxe Edition
-17583, Internal Dev/QC - Hyperscape - Season Preview
 17584, Hyperscape - Season Preview
 17585, Assassin's Creed® Origins - Deluxe Edition
 17586, Assassin's Creed® Origins - Season Pass
@@ -9766,7 +9072,6 @@
 17602, Far Cry 4 - Gold Edition
 17603, The Crew
 17604, Ghost Recon Future Soldier - Ultimate Editon
-17605, Internal Dev/QC - Pathfinder [UPLAY PC]
 17617, For Honor® - Warmonger Hero
 17618, For Honor® - Warmonger Hero
 17621, Emerald Guard Mask Digital Bonus
@@ -9776,7 +9081,6 @@
 17625, Season pass
 17626, Ultimate Digital Content
 17627, Anno 1800 - City Lights DLC
-17628, INTERNAL DEV/QC - Anno 1800  -  CDLC03
 17631, Might & Magic Heroes® VII - Ultimate Edition
 17632, Rainbow Six Siege - Press Event  Season 3
 17634, TOM Clancy's The Division 2 - PPS
@@ -9885,7 +9189,6 @@
 17749, Riders Republic - Year Pass
 17750, Riders Republic - Year Pass
 17751, Riders Republic - Year Pass
-17752, INTERNAL QC / DEV - Anno 1800 - September 2020 PR Event
 17753, Ubisoft Game
 17755, Ubisoft Games
 17756, MAD
@@ -9923,12 +9226,8 @@
 17796, Anno 1800 - The High Life DLC
 17798, Anno 1800 - Pedestrian Zone Pack DLC
 17799, Anno 1800 - Vibrant Cities Pack DLC
-17800, INTERNAL DEV/QC - Anno 1800 - DLC #7
-17801, INTERNAL DEV/QC - Anno 1800 - DLC #7
-17802, INTERNAL DEV/QC - Anno 1800 - DLC #7
 17803, Anno 1800
 17804, Anno 1800 - Season 3 Pass
-17805, INTERNAL DEV/QC - Anno 1800 - DLC #7
 17819, Immortals Fenyx Rising
 17820, Immortals Fenyx Rising
 17821, Trials® Rising
@@ -10095,7 +9394,6 @@
 18105, Skull & Bones
 18106, Skull & Bones
 18107, The Crew 2
-18108, INTERNAL QC / DEV - Pathfinder TTS
 18109, Pathfinder
 18110, Skull & Bones
 18111, Skull & Bones
@@ -10116,27 +9414,20 @@
 58022, Ubisoft Game
 58023, Ubisoft Game
 58026, Assassin's Creed Origins
-58069, INTERNAL DEV/QC - Watch Dogs Legion
 58071, Assassin's Creed Valhalla - Standard Edition
 58074, Rainbow Six Siege - Welcome pack
 58076, Watch_Dogs 2 - Gold Edition
-58077, Internal Dev/QC - Mad Live Tests
-58078, Internal Dev/QC - Assassin's Creed Valhalla
 58079, Watch Dogs Legion
 58080, Assassin's Creed Valhalla
-58086, Subscription - Monopoly Plus - Standard
 58087, Assassin's Creed Odyssey - Discovery Tour
 58092, Rainbow Six Siege - Welcome pack
-58093, MAD - INTERNAL QC / DEV
 58098, Watch Dogs Legion
 58099, Anno 1800
 58100, Heroes of Might and Magic VI
 58103, The Division® 2 - Warlords of New York Edition
 58104, For Honor - Gryphon
-58106, INTERNAL DEV/QC - Immortals Fenyx Rising
 58108, Tom Clancy's The Division 2 - Year 1 Season Pass
 58109, The Ubisoft Playlist - For Honor - Battle Pass - Y4S3
-58110, INTERNAL QC / DEV - PATHFINDER [SECURED]
 58112, Rainbow Six Siege
 58113, Assassin’s Creed® Chronicles
 58114, Rayman Legends
@@ -10180,14 +9471,11 @@
 58159, Assassin's Creed Valhalla
 58162, Assassin's Creed Valhalla - Gold Edition
 58163, Assassin's Creed Valhalla - Gold Edition
-58164, Internal Dev/QC - Assassin's Creed Valhalla
-58165, INTERNAL DEV/QC - Watch Dogs Legion
 58166, Assassin's Creed Valhalla
 58168, Far Cry 6
 58172, Assassin's Creed Valhalla
 58173, Assassin's Creed Valhalla
 58176, Anno 1800 - Land of Lions DLC
-58178, INTERNAL DEV/QC - Assassin's Creed Valhalla - All ULCs
 58179, Ubisoft Game
 58180, Tom Clancy's Rainbow Six® Siege - Deluxe Edition
 58181, Assassin's Creed® Origins
@@ -10201,8 +9489,6 @@
 58191, Anno 1800 - Land of Lions DLC
 58192, Anno 1800 - Land of Lions DLC
 58193, Starlink: Battle for Atlas
-58194, INTERNAL DEV/QC - Immortals Fenyx Rising - TU1 LP1
-58195, INTERNAL DEV/QC - Immortals Fenyx Rising - TU1 LP2
 58207, Riders Republic
 58208, Riders Republic
 58214, Trials Fusion™- Season Pass
@@ -10214,12 +9500,10 @@
 58220, Immortals Fenyx Rising - DLC 3 - The Lost Gods
 58221, Immortals Fenyx Rising - Ultimate Hero's Pack
 58222, Immortals Fenyx Rising - Adventurer's Starter Pack
-58223, INTERNAL DEV/QC - Immortals Fenyx Rising - TU1 ULC 1 + 2
 58238, Assassin's Creed IV Black Flag - Gold Edition
 58248, Watch Dogs® Legion
 58250, Watch Dogs Legion - Ultimate Pack
 58251, Watch Dogs Legion - Ultimate Pack
-58252, Internal Dev/QC - Assassin's Creed Valhalla - Store Pack
 58253, External Support Vendors - Watch Dogs Legion Ultimate
 58254, Watch Dogs® Legion - Season Pass
 58255, Scott Pilgrim - Uplay - External Marketing Agency
@@ -10238,11 +9522,9 @@
 58268, Assassin's Creed Valhalla - Wrath of the Druids Expansion
 58269, Assassin's Creed Valhalla - Siege of Paris Expansion
 58270, Assassin's Creed Valhalla - Season Pass
-58271, Internal Ubisoft  - Watch Dogs Legion
 58272, Anno 1800 - City Lights
 58273, Assassin's Creed Valhalla - Ultimate Edition
 58274, Good game - Play to Learn
-58276, INTERNAL DEV/QC - Incursion - Alpha/Beta [UPLAY PC]
 58278, Immortals Fenyx Rising
 58280, Immortals Fenyx Rising - Gold Edition
 58281, Assassin's Creed Valhalla
@@ -10255,7 +9537,6 @@
 58290, Anno 1800 - City Ligths
 58291, Anno 1800 - City Ligths
 58292, Assassin's Creed Valhalla - Season Pass
-58294, INTERNAL QC / DEV - MAD [SECURED]
 58308, Trials Rising - Starter Pack 2
 58309, Trials Rising - Starter Pack 2
 58310, Assassin's Creed Valhalla
@@ -10349,8 +9630,6 @@
 58409, Anno 1800 - Gold Edition
 58412, Anno 1800 - Complete Edition Y3
 58413, Anno 1800 - Season 3 Pass
-58415, INTERNAL DEV/QC - Immortals Fenyx Rising - DLC1
-58425, INTERNAL DEV/QC - Immortals Fenyx Rising Demo
 58426, Watch Dogs® Legion
 58428, Anno 1800 - Complete Edition
 58429, Scott Pilgrim vs The World: The Game
@@ -10427,8 +9706,6 @@
 58525, Uno - Ultimate Edition +
 58526, Uno - Ultimate Edition +
 58527, Uno - Fenyx Quest
-58528, Internal Amazon QC - Subscription - Uno - Ultimate
-58532, Internal Amazon QC - Subscription - Taj - Prince of Persia
 58534, Anno 1800 - Year 3 Pass
 58535, Anno 1800 - Year 3 Pass
 58536, Anno 1800 - Year 3 Pass
@@ -10442,7 +9719,6 @@
 58550, Immortals Fenyx Rising - DLC 1 Dungeons
 58552, Anno 1800 - Year 3 Pass
 58553, The Ubisoft Playlist - For Honor - Gryphon
-58555, INTERNAL QC / DEV - RENAISSANCE [SECURED]
 58558, Rainbow Six Siege
 58559, Rainbow Six Siege
 58560, Rainbow Six Siege
@@ -10695,7 +9971,6 @@
 58833, Validation game
 58848, For Honor - Gryphon
 58852, Immortals Fenyx Rising - DLC 2 China
-58853, INTERNAL DEV/QC - Immortals Fenyx Rising - Season Pass
 58854, Anno 1800 - Complete Edition Y3
 58855, Anno 1800 - Year 3 Pass
 58862, Anno® 1800
@@ -10716,7 +9991,6 @@
 58880, Assassin's Creed Valhalla
 58885, Uno - Fenyx Quest
 58886, Uno - Ultimate Edition
-58899, INTERNAL QC / DEV - Watch Dogs LEgion- Without Full Game Ownership
 58900, Rainbow Six Siege - Standard Edition Year 6
 58901, Rainbow Six Siege - Deluxe Edition Year 6
 58902, Rainbow Six Siege - Operators Edition Year 6
@@ -10726,18 +10000,10 @@
 58909, Rainbow Six Siege
 58911, Rainbow Six Siege - Deluxe Edition Year 6
 58912, Anno® 1800
-58913, Internal QC/Dev - HELIX [UC/PC - SECURED]
 58914, Rainbow Six Quarantine
 58915, Rainbow Six Siege - Ultimate Edition Year 6
 58916, Assassin's Creed Valhalla - Standard Edition
-58917, Subscription - Assassin's Creed Chronicles China
-58918, Subscription - Assassin's Creed Chronicles India
-58919, Subscription - Assassin's Creed Chronicles Russia
-58920, Subscription - Valiant Hearts
-58921, INTERNAL QC/DEV - Rayman 3 Hoodlum Havoc [UPLAY PC]
-58922, Subscription - Rayman Raving Rabbids
 58923, Trials Evolution - Gold Edition
-58924, Subscription - Brothers in Arms: Earned In Blood
 58925, Brothers in Arms: Hell's Highway
 58926, Brothers in Arms: Road to Hill 30
 58927, For Honor - Marching Fire Edition
@@ -10746,7 +10012,6 @@
 58930, Rainbow Six Vegas
 58931, Rayman 2 The Great Escape
 58932, Rayman Forever
-58933, Subscription - Cold Fear
 58934, Zombi 
 58935, Transference
 58940, Anno 2070
@@ -10778,8 +10043,6 @@
 58966, The Division® 2 - Warlords of New York Edition
 58967, The Division® 2 - Warlords of New York Ultimate Edition
 58968, The Division® 2 - Warlords of New York Expansion
-58970, Internal Dev/QC - Assassin's Creed Valhalla - DLC 1
-58971, Internal Dev/QC - Assassin's Creed Valhalla - Season Pass
 58982, Rainbow Six Siege
 58983, Anno 1404 - History Edition
 58984, Anno 1503 - History Edition
@@ -10823,7 +10086,6 @@
 59029, Assassin's Creed Valhalla - DLC 1
 59030, Immortals Fenyx Rising - DLC 3 Topdown
 59032, Call Of Juarez : The Cartel
-59036, Internal QC/Dev - Monopoly Next [UC/PC - SECURED]
 59037, Scott Pilgrim
 59038, AGOS
 59039, Hyper Scape
@@ -10831,12 +10093,10 @@
 59041, The Ubisoft Playlist - Might & Magic Chess Royale
 59042, Oikos
 59043, Warlord Battlecry 2
-59044, Subscription - Splinter Cell Double Agent
 59045, Prince of Persia: The Two Thrones
 59046, Splinter Cell Blacklist Deluxe Edition
 59047, Rainbow Six Vegas 2
 59048, Ghost Recon Future Soldier Deluxe Edition
-59049, Subscription - Rayman Raving Rabbids
 59050, Heroes of Might and Magic 5
 59051, Prince of Persia
 59052, Far Cry 2 - Fortune's Edition
@@ -10844,15 +10104,12 @@
 59054, Assassin's Creed Freedom Cry
 59055, Warlords Battlecry
 59056, Rainbow Six Vegas
-59057, Subscription - Tom Clancy's EndWar
 59058, Silent Hunter 2
 59059, Prince of Persia : The Forgotten Sands - Deluxe Edition
-59060, Subscription - Rayman Legends
 59061, Rayman 2 The Great Escape
 59062, POD Gold
 59063, Might and Magic IX
 59064, Far Cry 3 Deluxe
-59065, Subscription - Brothers in Arms: Earned In Blood
 59066, The Ubisoft Playlist - Assassin's Creed Brotherhood - Deluxe Edition
 59067, The Ubisoft Playlist - Rabbids Coding
 59068, The Ubisoft Playlist - Starlink
@@ -10886,7 +10143,6 @@
 59103, The Playlist - Assassin's Creed Chronicles India
 59175, Anno 1800 - Cosmetic DLC #4
 59177, Ghost Recon® Breakpoint - Ultimate Edition
-59178, Internal Dev/QC - Far Cry Tetra - ULC Pack - Starter Pack
 59191, Assassin's Creed® Odyssey - Discovery Tour: Ancient Greece
 59193, Anno® 1800
 59194, Anno® 1800
@@ -11002,14 +10258,6 @@
 59390, Far Cry 6
 59391, For Honor - Kyoshin
 59392, Watch Dogs Legion - Legion of the Dead
-59393, Internal QC/DEV Ghost Recon Breakpoint SE LP1
-59394, Internal QC/DEV Ghost Recon Breakpoint SE LP2
-59395, Internal QC/DEV Ghost Recon Breakpoint SE LP3
-59396, Internal QC/DEV Ghost Recon Breakpoint SE LP4
-59397, Internal QC/DEV Ghost Recon Breakpoint SE LP5
-59398, Internal QC/DEV Ghost Recon Breakpoint SE LP6
-59401, Internal DEV/QC - Oddballers
-59402, Internal QC/Dev - Oddballers - [UC - SECURED]
 59403, Watch Dogs® Legion - Bloodline DLC
 59404, Ghost Recon® Breakpoint - Operator Pack
 59405, Ghost Recon® Breakpoint - Operator Pack
@@ -11069,7 +10317,6 @@
 59488, The Crew 2 - New Gold Edition
 59489, The Crew 2 - New Gold Edition
 59490, The Crew 2 - New Gold Edition
-59491, Internal Dev/QC - Assassin's Creed Valhalla - DLC 2
 59495, Rainbow Six Extraction
 59496, Rainbow Six Extraction - Deluxe Edition
 59499, Watch Dogs Legion - Bloodline DLC
@@ -11219,11 +10466,6 @@
 59761, Assassin's Creed Syndicate - Gold Edition
 59762, Assassin's Creed Syndicate - Standard Edition
 59763, Assassin's Creed Syndicate - Gold Edition
-59764, Internal Dev/QC - Far Cry Tetra - ULC Pack - Starter Pack
-59765, Internal Dev/QC - Far Cry Tetra - ULC Pack - Ultimate Pack (Vice Pack)
-59766, Internal Dev/QC - Far Cry Tetra - ULC Pack - Croc Hunter Pack (Retail 01 EMEA)
-59767, Internal Dev/QC - Far Cry Tetra - ULC Pack - Lost Explorer Pack (Retail 02 EMEA)
-59769, Internal Dev/QC - Rainbow Six Extraction - HD Texture pack
 59775, Riders Republic
 59780, Far Cry 6
 59781, Far Cry 6 - Gold Edition
@@ -11237,7 +10479,6 @@
 59791, Ghost Recon Wildlands - Fallen Ghosts
 59793, Splinter Cell Conviction
 59795, The Crew 2
-59796, Internal Dev/QC - Far Cry 6 - Season Pass
 59797, Far Cry 6
 59798, The Ubisoft Playlist - Far Cry 6 Ultimate edition
 59800, Far Cry 6
@@ -11280,7 +10521,6 @@
 59841, Assassin's Creed Odyssey - Starter Pack
 59844, Far Cry 6 - Ultimate Edition
 59845, Battlecore Arena
-59847, Internal Dev/QC - Skull & Bones [UC PC] - Luna Test
 59848, Incursion
 59850, Uno - Far Cry 6 DLC
 59851, Far Cry 6
@@ -11351,7 +10591,6 @@
 60321, Incursion
 60323, Riders Republic
 60324, Assassin's Creed Odyssey - Starter Pack
-60325, Internal Dev/QC - Skull & Bones [UC PC] - Luna Test
 60326, Watch Dogs Legion
 60327, Watch Dogs Legion
 60328, Watch Dogs Legion
@@ -11443,7 +10682,6 @@
 60429, For Honor - Battle Pass Y5S4
 60430, For Honor - Battle Pass Y5S4
 60431, For Honor - Battle Pass Y5S4 Bundle
-60432, Pioneer - Trial WW - Internal dev/qc
 60433, Anno 1800 - Complete Edition Y3
 60434, Far Cry 6 - Season Pass
 60440, Anno 1800 - Seeds of Change DLC
@@ -11538,7 +10776,6 @@
 60553, Anno® 1800 - Plan a Tree DLC
 60554, Anno® 1800 - Plan a Tree DLC
 60555, Anno® 1800 - Plan a Tree DLC
-60556, Internal Dev/QC - Assassin's Creed Valhalla - DLC 3
 60559, Assassin's Creed Valhalla
 60560, Assassin's Creed Valhalla
 60561, Assassin's Creed Valhalla
@@ -11627,7 +10864,6 @@
 60685, Anno 1800 - Season 4 Pass
 60693, Rainbow Six Extraction
 60694, Rainbow Six Extraction
-60696, Internal Dev/QC - Rainbow Six Siege [SECURED]
 60697, Rainbow Six Siege
 60698, Rainbow Six Siege
 60699, Rainbow Six Siege
@@ -11769,8 +11005,6 @@
 60926, Anno® 1800 - Complete Edition Year 4
 60927, Anno® 1800 - Complete Edition Year 4
 60929, Riders Republic - Welcome Pack - Season 3
-60930, Internal DEV/QC - Oddballers
-60931, Internal DEV/QC - Oddballers
 60951, Project U
 60952, Anno® 1800 - Cosmetic Pack DLC 7
 60953, Anno® 1800 - Cosmetic Pack DLC 7
@@ -11791,7 +11025,6 @@
 60970, Far Cry 3
 60971, Prince of Persia : The Forgotten Sands
 60972, Splinter Cell Blacklist
-60975, INTERNAL QC / DEV - Far Cry Tetra
 60977, Riders Republic
 60978, Roller Champions Playtest
 60979, Skull & Bones
@@ -11920,7 +11153,6 @@
 61120, Rainbow Six Siege - Operators Edition Year 7
 61121, Rainbow Six Siege - Ultimate Edition Year 7
 61122, Rainbow Six Siege - Ultimate Edition Year 7
-61124, Internal Dev/QC - Skull & Bones all Language Packs
 61126, Assassin's Creed Valhalla
 61127, Assassin's Creed Valhalla
 61128, Assassin's Creed Valhalla
@@ -12145,9 +11377,7 @@
 61397, The Crew 2
 61399, Assassin's Creed Valhalla - Standard Edition
 61401, Anno 1800 - Twitch Drop Add Ons package
-61403, Far Cry 6 - Tetra DEMO Internal DEV/QC
 61404, Lost Between Worlds
-61405, Internal Dev/QC - Far Cry 6 - Y2
 61406, Assassin's Creed Valhalla
 61412, Far Cry 4
 61421, Far Cry 4
@@ -12215,25 +11445,15 @@
 61496, For Honor - Hero Skin - Year 6 Season 2
 61498, UNO
 61499, Evan's Remain
-61500, Internal QC/Dev - Evan's Remains
 61501, Tiny Lands
-61502, Internal Dev/QC - Tiny Lands
 61503, Astrologaster
-61504, Internal Dev/QC - Astrologaster
 61505, Absolute Drift
-61506, Internal Dev/QC - Absolute Drift
 61507, Iris and the Giant
-61508, Internal Dev/QC - Iris and the Giant
 61509, As far as theEye
-61510, Internal Dev/QC - As Far as the Eye
 61511, Revita
-61512, Internal Dev/QC - Revita
 61513, Wytchwood
-61514, Internal Dev/QC - Wytchwood
 61515, Lake
-61516, Internal Dev/QC - Lake
 61517, A Normal Lost Phone
-61518, Internal Dev/QC - A Normal Lost Phone
 61519, Rainbow Six Siege - Y7S2 Welcome Pack
 61520, Rainbow Six Siege - Y7S2 Welcome Pack Premium
 61521, XDefiant
@@ -12272,8 +11492,6 @@
 61558, Skull and Bones
 61559, Skull and Bones
 61561, Anno 1800
-61562, Internal/QC - Hungry Shark World
-61564, Internal Dev/QC - North
 61565, Assassin's Creed Origins - Free Weekend
 61568, Roller Champions
 61569, The Crew 2
@@ -12282,14 +11500,8 @@
 61574, Pathfinder
 61575, Anno 1800
 61577, For Honor - Medjay Hero
-61579, Internal Dev/QC - Rabbids Yutu
 61580, Roller Champions
-61582, Internal Dev/QC - Calico
-61583, Internal Dev/QC - The Last Friend
 61584, Skull & Bones
-61585, Internal Dev/QC - Grow Home
-61586, Internal Dev/QC - Grow Up
-61587, Internal Dev/QC - North [SECURED]
 61588, Skull & Bones - Pre-Order Standard Edition
 61589, Skull & Bones - Pre-Order Standard Edition
 61590, Skull & Bones - Pre-Order Standard Edition
@@ -12327,7 +11539,6 @@
 61622, Calico
 61623, The Last Friends
 61624, The Last Friends
-61625, Internal Dev/QC - Death Squared
 61626, Death Squared
 61627, Death Squared
 61628, The Crew 2 - Free Week
@@ -12380,11 +11591,7 @@
 61681, For Honor
 61682, Far Cry 6
 61683, Beyond Good and Evil - Remaster
-61686, Internal Dev/QC - Skull&Bones - Pre-Order Bonus (Elite Kingpin Captain Outfit + Golden Wheel Firework)
-61687, Internal Dev/QC - Skull&Bones - Digital Artbook and Original Soundtrack
 61690, Anno 1800
-61694, Internal Dev/QC - Rayman Fiesta Run
-61695, Internal Dev/QC - Rayman Jungle Run
 61696, For Honor - Free Week
 61697, For Honor - Free Week
 61702, For Honor
@@ -12430,18 +11637,12 @@
 61756, Fell Seal : Arbiter's Mark Deluxe Edition
 61762, Far Cry 3 - SDK Update
 61767, Immortals Fenyx Rising
-61769, Internal Dev/QC - AMDemo
 61770, Tom Clancy's Rainbow Six Siege
 61771, Tom Clancy's Rainbow Six Siege
 61772, The Lion's Song
 61773, Riders Republic
 61776, Assassin's Creed Origins
 61783, Trackmania Next
-61784, Internal Dev/QC - AER Memories of Old
-61785, Internal Dev/QC - Ken Follett's The Pillars of Earth
-61786, Internal Dev/QC - Shadow Tactics: Blades of the Shogun
-61787, Internal Dev/QC - Shadow Tactics: Blades of the Shogun - Aiko's Choice
-61788, Internal Dev/QC - Warpips
 61789, Skull & Bones
 61790, Skull & Bones
 61791, Skull & Bones - Language Pack 1
@@ -12514,19 +11715,9 @@
 61869, Brawlhalla - Autumn Championship Pack 2022
 61870, Good Game - The Crew Ultimate Edition
 61871, The Crew
-61874, Rocksmith + - 31 Days Subscription
-61875, Rocksmith + - 93 Days Subscription
-61876, Rocksmith + - 372 Days Subscription
 61881, Rocksmith+
-61882, Internal Dev/QC - Assassin's Creed Rift
 61883, Assassin's Creed Rift
-61890, Internal Dev/QC -  Playlist Rocksmith + [SECURE]
-61894, Internal Dev/QC - The Crew 2 - UbiConnect - Porsche Cayman GT4 2016
-61895, Internal Dev/QC - The Crew 2 - UbiConnect - Mazda RX8
-61896, Internal Dev/QC - The Crew 2 - Steam - Porsche Cayman GT4 2016
-61897, Internal Dev/QC - The Crew 2 - Steam - Mazda RX8
 61899, Skull & Bones - Standard Edition
-61900, Internal Dev/QC - Ubisoft Connect - Singleplayer Bundle
 61901, Skull & Bones - MSI vanity package
 61904, Rainbow Six Siege - UC - Multiplayer
 61905, Rainbow Six Extraction - UC - Multiplayer
@@ -12730,7 +11921,6 @@
 62127, The Crew 2 - Mazda RX8
 62128, Brawlhalla - BCX 2022
 62129, Brawlhalla - Battle Pass - Classic Return to Demo Island
-62130, Rainbow Six Siege - PTS
 62132, Rabbids Party of Legends
 62133, The Crew 2 - Speical Edition
 62134, Uno - Ultimate Edition +
@@ -12914,4 +12104,3 @@
 62336, XDefiant - Team Playtest
 62337, XDefiant - Team Playtest VIP
 62338, Brawlhalla
-62341, Internal QC/Dev - Blue
