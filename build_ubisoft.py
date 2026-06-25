@@ -55,7 +55,7 @@ def fetch_algolia_catalog():
         "content-type": "application/json",
     }
     attrs = ["title", "intlName", "spaceId", "mdmId", "genre", "brand",
-             "releaseDate", "availabilities", "assets", "slug"]
+             "releaseDate", "availabilities", "assets", "slug", "type"]
     hits = []
     page = 0
     while True:
@@ -85,8 +85,15 @@ def build_uuid_catalog(hits):
         title = h.get("title") or h.get("intlName")
         if not title:
             continue
+        # The index is base-games-only today (every hit is type "Game"),
+        # but guard against DLC/add-ons ever appearing so the plugin's
+        # catalog stays an authoritative base-game allowlist.
+        ptype = h.get("type")
+        if ptype and ptype.lower() != "game":
+            continue
         meta = {
             "name": title,
+            "type": ptype,
             "genre": h.get("genre"),
             "brand": (h.get("brand") or {}).get("title"),
             "boxshot": (h.get("assets") or {}).get("boxshot"),
@@ -113,6 +120,30 @@ def fetch_iartorias_text():
     )
     with urllib.request.urlopen(req, timeout=60) as resp:
         return resp.read().decode("utf-8", "replace")
+
+
+# Rows in the iArtorias list that are not ownable base/edition games:
+# QC/internal builds, betas, store subscriptions, promo/company-logo
+# assets, "[SECURED]" wrappers. Dropped at mirror time so the plugin's
+# legacy backfill can't surface them as phantom shortcuts. Edition rows
+# ("- History Edition") are deliberately NOT matched — those are games.
+_NOISE_NAME_RE = re.compile(
+    r"\b(internal|dev/qc|company logo|subscription|promotional|"
+    r"pts|test server|closed beta|open beta)\b|\[secured\]|\[beta\]",
+    re.IGNORECASE,
+)
+
+
+def clean_iartorias_text(text):
+    """Drop non-game noise rows, keeping the ``id, name`` format verbatim."""
+    kept, dropped = [], 0
+    for ln in text.splitlines():
+        head, _, name = ln.partition(",")
+        if head.strip().isdigit() and _NOISE_NAME_RE.search(name):
+            dropped += 1
+            continue
+        kept.append(ln)
+    return "\n".join(kept), dropped
 
 
 def count_install_ids(text):
@@ -145,12 +176,16 @@ def main():
     print("[Ubisoft] mirroring iArtorias install_id list…")
     text = fetch_iartorias_text()
     # Strip a trailing BOM/whitespace; keep the `id, name` lines verbatim so
-    # the plugin's existing parser consumes it unchanged.
-    (OUTPUT_DIR / "install_ids.txt").write_text(
-        text.replace("\r\n", "\n").lstrip("﻿"),
-    )
+    # the plugin's existing parser consumes it unchanged. Drop QC/internal/
+    # subscription/logo noise rows that aren't ownable games.
+    text = text.replace("\r\n", "\n").lstrip("﻿")
+    text, dropped = clean_iartorias_text(text)
+    (OUTPUT_DIR / "install_ids.txt").write_text(text)
     n_ids = count_install_ids(text)
-    print(f"[Ubisoft] mirrored {n_ids} install_id -> name entries")
+    print(
+        f"[Ubisoft] mirrored {n_ids} install_id -> name entries "
+        f"({dropped} noise rows dropped)",
+    )
 
     print(f"[OUTPUT] {OUTPUT_DIR/'uuid_catalog.json'}")
     print(f"[OUTPUT] {OUTPUT_DIR/'install_ids.txt'}")
