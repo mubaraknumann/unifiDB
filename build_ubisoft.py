@@ -133,13 +133,31 @@ _NOISE_NAME_RE = re.compile(
     re.IGNORECASE,
 )
 
+# Unambiguous DLC/add-on/asset rows. Kept DELIBERATELY NARROW: this list
+# feeds the plugin's numeric-id backfill (id -> name), so a false positive
+# here silently drops a real owned game from the library. Only markers that
+# can never be a standalone base game belong here — explicit "DLC N", season
+# passes, upgrade/skin/cosmetic sets, internal "Full Game" wrappers. Named
+# expansions with no such marker ("Trials Fusion: Riders of the Rustlands")
+# are left for the plugin's catalog-gated dedup, which has the base-game
+# allowlist needed to tell DLC from standalone "Franchise: Subtitle" games.
+# Edition rows ("- Deluxe Edition", "- History Edition") are NOT matched.
+_DLC_NAME_RE = re.compile(
+    r"\bdlc\b|\bseason pass\b|\bupgrade (set|pack)\b|"
+    r"\bfull game\b|\bfull rider outfit\b|\b(cape|upgrade|helmet) set\b|"
+    r"\b(multiplayer|closed|open) beta\b|\bdemo\b",
+    re.IGNORECASE,
+)
+
 
 def clean_iartorias_text(text):
     """Drop non-game noise rows, keeping the ``id, name`` format verbatim."""
     kept, dropped = [], 0
     for ln in text.splitlines():
         head, _, name = ln.partition(",")
-        if head.strip().isdigit() and _NOISE_NAME_RE.search(name):
+        if head.strip().isdigit() and (
+            _NOISE_NAME_RE.search(name) or _DLC_NAME_RE.search(name)
+        ):
             dropped += 1
             continue
         kept.append(ln)
