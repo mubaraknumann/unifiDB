@@ -1,7 +1,7 @@
 # unifiDB - IGDB Game Database
 
-[![jsDelivr hits (lifetime)](https://img.shields.io/jsdelivr/gh/hy/mubaraknumann/unifiDB?label=total%20cdn%20hits&color=blue)](https://data.jsdelivr.com/v1/stats/packages/gh/mubaraknumann/unifiDB?period=year)
-[![jsDelivr hits (monthly)](https://img.shields.io/jsdelivr/gh/hm/mubaraknumann/unifiDB?label=monthly%20cdn%20hits&color=blue)](https://data.jsdelivr.com/v1/stats/packages/gh/mubaraknumann/unifiDB?period=month)
+[![Total CDN Hits](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/mubaraknumann/unifiDB/main/stats/hits_total.json)](https://github.com/mubaraknumann/unifiDB/blob/main/stats/stats.json)
+[![Monthly CDN Hits](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/mubaraknumann/unifiDB/main/stats/hits_month.json)](https://github.com/mubaraknumann/unifiDB/blob/main/stats/stats.json)
 [![Total Bandwidth](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/mubaraknumann/unifiDB/main/stats/bandwidth_total.json)](https://github.com/mubaraknumann/unifiDB/blob/main/stats/stats.json)
 [![Monthly Bandwidth](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/mubaraknumann/unifiDB/main/stats/bandwidth_month.json)](https://github.com/mubaraknumann/unifiDB/blob/main/stats/stats.json)
 
