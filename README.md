@@ -1,18 +1,27 @@
 # unifiDB - IGDB Game Database
 
+[![jsDelivr hits (lifetime)](https://img.shields.io/jsdelivr/gh/hy/mubaraknumann/unifiDB?label=total%20cdn%20hits&color=blue)](https://data.jsdelivr.com/v1/stats/packages/gh/mubaraknumann/unifiDB?period=year)
+[![jsDelivr hits (monthly)](https://img.shields.io/jsdelivr/gh/hm/mubaraknumann/unifiDB?label=monthly%20cdn%20hits&color=blue)](https://data.jsdelivr.com/v1/stats/packages/gh/mubaraknumann/unifiDB?period=month)
+[![Total Bandwidth](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/mubaraknumann/unifiDB/main/stats/bandwidth_total.json)](https://github.com/mubaraknumann/unifiDB/blob/main/stats/stats.json)
+[![Monthly Bandwidth](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/mubaraknumann/unifiDB/main/stats/bandwidth_month.json)](https://github.com/mubaraknumann/unifiDB/blob/main/stats/stats.json)
+
 Comprehensive game metadata database powered by IGDB API, optimized for CDN delivery and updated via GitHub Actions.
 
 ## Overview
 
 This repository provides structured access to 350,000+ games from the IGDB database, split into efficient CDN-friendly bucket files for fast lookups by game name.
 
-### Database Statistics
+## CDN Usage & Statistics
 
-- **Total Games**: 350,374+
-- **Bucket Files**: 1,495 (indexed by normalized name)
-- **Database Size**: ~185MB uncompressed, ~48MB compressed
-- **CDN Provider**: jsDelivr
-- **Update Frequency**: Weekly (configurable)
+unifiDB is distributed globally via jsDelivr's CDN edge network to power metadata and save-location resolution for [Unifideck](https://github.com/mubaraknumann/unifideck).
+
+- **Total CDN Requests**: 19.5M+ (Lifetime)
+- **Monthly Requests**: ~1.6M / month
+- **Total Bandwidth Served**: 10.9 TB
+- **Monthly Bandwidth**: ~643 GB / month
+- **CDN Rank**: #1,194 among GitHub repositories on jsDelivr
+
+Live structured metrics are tracked daily and available via [`stats/stats.json`](https://cdn.jsdelivr.net/gh/mubaraknumann/unifiDB@main/stats/stats.json).
 
 ## API Usage
 
