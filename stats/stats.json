@@ -1,24 +1,24 @@
 {
   "schemaVersion": 1,
-  "updated_at": "2026-11-21T11:53:04.493292+00:00",
+  "updated_at": "2026-11-22T12:05:26.063669+00:00",
   "package": "gh/mubaraknumann/unifiDB",
   "cdn": "jsDelivr",
   "metrics": {
     "hits": {
-      "monthly": 1285450,
+      "monthly": 1284572,
       "monthly_formatted": "1.3M",
-      "total": 23656935,
+      "total": 23688062,
       "total_formatted": "23.7M",
-      "rank_overall": 5024,
-      "rank_github": 1788
+      "rank_overall": 5039,
+      "rank_github": 1796
     },
     "bandwidth": {
-      "monthly_bytes": 421612860694,
+      "monthly_bytes": 421557172258,
       "monthly_formatted": "421.6 GB",
-      "total_bytes": 12355724837286,
+      "total_bytes": 12365581539947,
       "total_formatted": "12.4 TB",
-      "rank_overall": 2214,
-      "rank_github": 1255
+      "rank_overall": 2213,
+      "rank_github": 1259
     }
   }
 }
